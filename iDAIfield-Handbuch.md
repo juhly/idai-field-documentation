@@ -17,8 +17,7 @@
 
 
 ![](images/screenshots/handbuch_quickstart_01.png)
-Abb. 1: Anlegen eines neuen Projekts. Eingabe des Bearbeiters/der Bearbeiterin
-
+*Abb. 1: Anlegen eines neuen Projekts. Eingabe des Bearbeiters/der Bearbeiterin*
 
 Jetzt kann es losgehen. Viel Erfolg!
 
@@ -26,4 +25,4 @@ Jetzt kann es losgehen. Viel Erfolg!
 # 2. Der Client und seine Ansichten
 
 ![](images/screenshots/handbuch_client_01.png)
-Abb. 2: Der Übersichtsbildschirm
+*Abb. 2: Der Übersichtsbildschirm*
