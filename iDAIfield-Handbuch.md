@@ -25,5 +25,5 @@ Jetzt kann es losgehen. Viel Erfolg!
 
 # 2. Der Client und seine Ansichten
 
-
-![Abb. 2: Der Übersichtsbildschirm]
+![](images/screenshots/handbuch_client_01.png)
+Abb. 2: Der Übersichtsbildschirm
