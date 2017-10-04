@@ -1,42 +1,39 @@
-[]{#anchor}Userdokumentation
+# Userdokumentation
 
 \
 
-1. Quickstart: Inbetriebnahme
-=============================
+## 1. Quickstart: Inbetriebnahme
 
-1\. Bei der Inbetriebnahme des Cliets ist standardmäßig ein Projekt
+1. Bei der Inbetriebnahme des Clients ist standardmäßig ein Projekt
 „Test“ ausgewählt. Dies kann zu Testzwecken verwendet werde, wobei
 angelegte Daten nach einem Neustart des Clients gelöscht werden.
 (*siehe: Abschnitt 4.1 Anlegen eines neuen Projekts)*
 
-2\. Der Benutzername sollte unbedingt eingegeben werden. Diese geschieht
+2. Der Benutzername sollte unbedingt eingegeben werden. Diese geschieht
 unter Einstellungen: Benutzereinstellungen. Diese Information wird
 ebenfalls beim Anlegen der Datensätze gespeichert.
 
-3\. Der Pfad des Bilderordner kann vom Nutzer selbst verwaltet werden.
+3. Der Pfad des Bilderordner kann vom Nutzer selbst verwaltet werden.
 Dies bezieht sich auf die importierten Bilder, besonders für die
 Hintergrundkarten. Selbstverständlich kann hier auch der default-Pfad
 bestehen bleiben. Einstellungen: Pfad zum Bildverzeichnis. Es sollte
 beachtet werden, dass der letzte / gesetzt ist
 
-4\. Es ist wichtig, die Daten regelmäßig zu sichern (siehe Export), da
+4. Es ist wichtig, die Daten regelmäßig zu sichern (siehe Export), da
 sich der Client gegenwärtig noch in einem Betastadium befindet. Es
 handelt sich um ein frühes Release, deshalb sollte so oft wie möglich
 ein Export durchgeführt werden. Das gleiche gilt selbstverständlich für
 die Bilder.
 
-![](Pictures/1000020100000500000002D606B68251.png){width="17cm"
-height="9.641cm"}5. Es sollte ein eigenes Projekt angelegt werden
+5. Es sollte ein eigenes Projekt angelegt werden
 (Siehe: (*siehe: Abschnitt 4.1 Anlegen eines neuen Projekts)*\
 
-Abb. 1a: Anlegen eines neuen Projekts. Eingabe des Bearbeiters/der
-Bearbeiterin
+![handbuch_quickstart_01](images/screenshots/handbuch_quickstart_01.png)
+*Abb. 1: Anlegen eines neuen Projekts. Eingabe des Bearbeiters/der Bearbeiterin*
 
 Jetzt kann es losgehen. Viel Erfolg!
 
-2. Der Client und seine Ansichten
-=================================
+## 2. Der Client und seine Ansichten
 
 ![](Pictures/100000000000063F00000333B70A48FE.png){width="17cm"
 height="9.871cm"}*Abb. 2 Der Übersichtsbildschirm*\
@@ -48,8 +45,7 @@ der Client zu einem anderen oder zum Server synchronisiert ( )\
 sowie der Projektname (Tutorial). *→ Das Projekt*, *→ Synchronisation
 mit anderen Client(s)*
 
-2.1 Übersicht
--------------
+### 2.1 Übersicht
 
 ![](Pictures/10000201000005000000003A74F8879D.png){width="17cm"
 height="0.769cm"}![](Pictures/100000000000063B00000041DC4942CE.png){width="17cm"
