@@ -5,7 +5,7 @@
 1. Bei der Inbetriebnahme des Clients ist standardmäßig ein Projekt
 „Test“ ausgewählt. Dies kann zu Testzwecken verwendet werde, wobei
 angelegte Daten nach einem Neustart des Clients gelöscht werden.
-(*siehe: Abschnitt 4.1 Anlegen eines neuen Projekts)*
+*(siehe: Abschnitt 4.1 Anlegen eines neuen Projekts)*
 
 2. Der Benutzername sollte unbedingt eingegeben werden. Diese geschieht
 unter Einstellungen: Benutzereinstellungen. Diese Information wird
@@ -24,12 +24,12 @@ ein Export durchgeführt werden. Das gleiche gilt selbstverständlich für
 die Bilder.
 
 5. Es sollte ein eigenes Projekt angelegt werden
-(Siehe: (*siehe: Abschnitt 4.1 Anlegen eines neuen Projekts)*\
+*(siehe: Abschnitt 4.1 Anlegen eines neuen Projekts)*
 
 ![handbuch_quickstart_01](images/screenshots/handbuch_quickstart_01.png)
 *Abb. 1: Anlegen eines neuen Projekts. Eingabe des Bearbeiters/der Bearbeiterin*
 
-Jetzt kann es losgehen. Viel Erfolg!
+**Jetzt kann es losgehen. Viel Erfolg!**
 
 ## 2. Der Client und seine Ansichten
 
@@ -55,8 +55,7 @@ können nur Haupttypen angelegt werden. Schnitte, Bauaufnahmen, Survey
 Areale und Orte.\
 *→ Anlegen von Ressourcen*
 
-2.2 Ausgrabung
---------------
+### 2.2 Ausgrabung
 
 ![](Pictures/100002010000003300000030FDB2B484.png){width="0.533cm"
 height="0.501cm"}![](Pictures/1000020100000034000000305B61B88D.png){width="0.582cm"
@@ -74,8 +73,7 @@ weitere Schnitte hinzugefügt ( ) und bearbeitet werden ( ).\
 ![](Pictures/100000000000063F0000033122D5107E.png){width="17cm"
 height="9.871cm"}Abb. 3 Der Ausgrabungs-Bildschirm
 
-2.3 Bauaufnahme
----------------
+### 2.3 Bauaufnahme
 
 ![](Pictures/100000000000063D0000033145A4538F.png){width="17cm"
 height="9.2cm"}Abb.4 Der Bauaufnahme-Bildschirm\
@@ -91,8 +89,7 @@ weitere Bauaufnahmen hinzugefügt ( ) und bearbeitet werden\
 ( ).\
 → *Anlegen von Ressourcen*
 
-2.4 Survey
-----------
+### 2.4 Survey
 
 ![](Pictures/100000000000063D000003319D858480.png){width="17cm"
 height="9.751cm"}Abb. 5 Der Survey-Bildschirm\
@@ -109,7 +106,6 @@ weitere Survey-Areale hinzugefügt ( ) und bearbeitet werden\
 → *Anlegen von Ressourcen*
 
 ![](Pictures/1000020100000227000001480420E9EA.png){width="7.1cm" height="3.979cm"}2.5 Bilder
---------------------------------------------------------------------------------------------
 
 Hier können Abbildungen hinzugefügt werden. Nach dem Klicken auf den
 „Abbildung hinzufügen“ Bereich, erfolgt eine Auwahl über den Browser.
@@ -161,8 +157,7 @@ hier das Bild vergrößert. In beiden Fällen stehen am rechten Rand die
 Bildinformationen zur Verfügung. Über ( ) und den Reiter „Relationen“
 lassen sich die Verknüpfungen anzeigen und löschen.
 
-2.6 Import
-----------
+### 2.6 Import
 
 Der Import lässt verschiedene Dateitypen zu (Quelle: Datei). Der Pfad
 für die betreffende Datei muss ausgewählt werden. Im Falle eines Imports
@@ -178,8 +173,7 @@ zugeordnet.
 ![](Pictures/100000000000063B00000249751C43A9.png){width="17cm"
 height="7.638cm"}
 
-2.7 Export
-----------
+### 2.7 Export
 
 Hier kann das gesamte Projekt exportiert werden. Die Dateiendung ist
 .jsonl. Diese kann bequem in den Client importiert werden, auch ohne das
@@ -190,8 +184,7 @@ height="4.117cm"}
 
 Abb. 11 Exportfenster
 
-2.8 Einstellungen
------------------
+### 2.8 Einstellungen
 
 Im Einstellungs-Fenster wird der/die aktuelle BenutzerIn, also
 BearbeiterIn eingetragen. Diese Information wird automatisch in die
@@ -203,15 +196,13 @@ Clien(s)
 ![](Pictures/100000000000063900000331E2E7367F.png){width="17cm"
 height="9.781cm"}Abb. 12 Einstellungsfenster
 
-3. Synchronisation mit anderen Client(s)
-========================================
+## 3. Synchronisation mit anderen Client(s)
 
 Der Client kann stets mit einem, oder mehreren anderen Clients verbunden
 und Synchronisiert werden. Das Symbol ( ) zeigt an, ob der Client
 derzeit verbunden ist. Durchgestrichene Wolke: Keine Verbindung.
 
-3.1 Synchronisation mit einem anderen Client
---------------------------------------------
+### 3.1 Synchronisation mit einem anderen Client
 
 Über den Reiter Einstellungen werden die
 „Synchronisierungseinstellungen“ eingegeben. Die Felder „Benutzer“ und
@@ -221,8 +212,7 @@ eingetragen werden.\
 Die Synchronisation läuft so lange, bis die Adresse aus dem Feld
 gelöscht und die Einstellungen übernommen werden.
 
-3.2 Synchronisation mit mehreren Clients
-----------------------------------------
+### 3.2 Synchronisation mit mehreren Clients
 
 Bei der Synchronisation mit mehreren anderen Clients existieren zwei
 Möglichkeiten.\
@@ -234,8 +224,7 @@ Adresse des jeweils nächsten in den Einstellungen verwendet. Das
 Synchronisieren untereinander ist zwar bei zwei Clients möglich, könnte
 allerdings zu fehlern führen.
 
-3.3 Synchronisation über den Server field.dainst.org
-----------------------------------------------------
+### 3.3 Synchronisation über den Server field.dainst.org
 
 ![](Pictures/100000000000063C000002E7A95CAEE7.png){width="9.634cm"
 height="4.486cm"}Zuerst müssen die Mitarbeiterinnnen und Mitarbeiter des
@@ -250,11 +239,9 @@ das Passwort ist standardmäßig der Name des Projekts.\
 Zudem muss der Name des Projektes mit dem auf dem Server angelegten
 Projekt übereinstimmen.
 
-4. Grundlegende Funktionen
-==========================
+## 4. Grundlegende Funktionen
 
-4.1 Karten- und Listenansicht
------------------------------
+### 4.1 Karten- und Listenansicht
 
 In der oberen, rechten Ecke kann zwischen einer Karten- und einer
 Listenansicht unterschieden werden. Die Kartenansicht (Standard) zeigt
@@ -266,8 +253,7 @@ angelegten Ressourcen\
 Die erste Übersicht enthält hierbei eine kleine Auswahl an Informationen
 wie die Bezeichnung und die Kurzbeschreibung.
 
-4.2 Suchen
-----------
+### 4.2 Suchen
 
 In der Suchleiste ist es möglich, nach Namen von Ressourcen oder nach
 Teilbegriffen zu suchen.\
@@ -276,8 +262,7 @@ gesuchte übrig bleibt.\
 Bei der Anwendung der Filter werden alle Ressourcen aus dem ausgewählten
 Filter angezeigt.
 
-5. Das Projekt
-==============
+## 5. Das Projekt
 
 Zu Beginn der Arbeiten, nach der Installation des Clients ist die
 Datenbank leer.
@@ -303,8 +288,7 @@ gelöscht.
 ![](Pictures/10000201000005000000003A74F8879D.png){width="17cm"
 height="0.769cm"}Abb. 14 Anlegen eines neuen Projekts
 
-6. Anlegen von Ressourcen
-=========================
+## 6. Anlegen von Ressourcen
 
 Je nach Reiter, Ausgrabung, Bauaufnahme oder Survey, wird über das
 Symbol ( ) im linken Bereich der zweiten Zeile ein neuer Schnitt, neues
@@ -330,8 +314,7 @@ Bei der Auswahl einer neuen Ressource öffnet sich das Fenster zur
 Eingabe einer Geometrie und nach der Auswahl, dass Fenster zur
 Dateneingabe.
 
-6.1 Felder
-----------
+### 6.1 Felder
 
 Unter manchen Feldern findet ein Feld ohne Eingabemöglichkeit mit einem
 kleinen, grauen „Hinzufügen“ und einem ( ). Dies öffnet ein weiteres
@@ -350,8 +333,7 @@ Die Eingabe eines Wortes in einem Feld, welches nur Zahlen zulässt führt
 z.B. zu der Fehlermeldung ( ), welche lediglich bedeutet, dass eine
 Information nicht im korrekten Format eingegeben wurde.
 
-6.2 Relationen
---------------
+### 6.2 Relationen
 
 Beim Doppelklick auf eine Ressource, öffnet sich das
 Bearbeitungsfenster.
@@ -368,8 +350,7 @@ Klicken darauf lässt die Relation entstehen.
 
 Roter Button ( ) zur linken löscht die Relation.
 
-**6.3 Zuweisen von Ober- bzw. Subtypen**
-----------------------------------------
+### 6.3 Zuweisen von Ober- bzw. Subtypen
 
 Es ist möglich, Ressoucen vom Typ Stratigrafische Einheit beispielsweise
 einem spezielleren Typ zuzuweisen (beispielsweise Grab). Dies trifft nur
@@ -377,8 +358,7 @@ auf Ressourcen des gleichen Typs zu.
 
 Hier entstehen dann zusätzliche Felder.
 
-7. Einfügen von Messplänen aus GIS
-==================================
+## 7. Einfügen von Messplänen aus GIS
 
 Wie im → *2.6 Import* bereits beschrieben ist es möglich GEOjson Dateien
 in die Datenbank einzuladen. Dies betrifft in der Regel Pläne und ist
@@ -397,8 +377,7 @@ height="9.139cm"}
 
 Abb. 16 Speichern als GEOjson
 
-7.1 Importieren von Multigeometrien
------------------------------------
+### 7.1 Importieren von Multigeometrien
 
 Sollten Fälle auftreten, bei denen es notwendig ist mehrere Strukturen
 einer Ressource mit einem identifier zuzuordnen, dann müssen diese
@@ -428,8 +407,7 @@ height="11.167cm"}
 
 Abb. 17 Ein- zu Mehrteilig, QGIS
 
-7.2 Verwendung von Survey 2 GIS
--------------------------------
+### 7.2 Verwendung von Survey 2 GIS
 
 Für die Umsetzung einer Messung in GIS kann das Programm Survey 2 GIS
 verwendet werden. Dies setzt eingemessene Strukturen in GIS um, erstellt
@@ -449,15 +427,14 @@ height="8.728cm"}
 
 Abb. 18 Arbeitsoberfläche Survey 2 GIS
 
-7.2 Anwendung des Parsers
--------------------------
+### 7.2 Anwendung des Parsers
 
 Ein Parser besteht aus zwei Bereichen. Der erste betrifft die allgemeine
 Arbeitsweise des Parsers, der zweite besteht aus verschiedenen Blöcken.
 Hierbei steht jeder Block für einen einzelnen Abschnitt im Messcode.\
 Für dieses Beispiel wurde der Max Beispiel Parser verwendet.
 
-\[Parser\]
+**[Parser\]**
 
 name = survey2gis sample for mode "Max"**Name des Parsers.**
 
