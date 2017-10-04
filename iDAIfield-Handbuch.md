@@ -1,7 +1,5 @@
 # Userdokumentation
 
-\
-
 ## 1. Quickstart: Inbetriebnahme
 
 1. Bei der Inbetriebnahme des Clients ist standardmäßig ein Projekt
