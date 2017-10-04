@@ -16,7 +16,7 @@
 5. Es sollte ein eigenes Projekt angelegt werden (Siehe: (siehe: Abschnitt 4.1 Anlegen eines neuen Projekts)
 
 
-![Abb. 1: Anlegen eines neuen Projekts. Eingabe des Bearbeiters/der Bearbeiterin]
+![Abb. 1: Anlegen eines neuen Projekts. Eingabe des Bearbeiters/der Bearbeiterin](https://github.com/dainst/idai-field-documentation/blob/master/images/screenshots/handbuch_quickstart_01.png)
 
 
 Jetzt kann es losgehen. Viel Erfolg!
