@@ -436,17 +436,17 @@ Für dieses Beispiel wurde der Max Beispiel Parser verwendet.
 
 **[Parser\]**
 
-name = survey2gis sample for mode "Max"**Name des Parsers.**
+name = survey2gis sample for mode "Max" **Name des Parsers.**
 
-tagging\_mode = max**Welcher Modus, max, min, end, oder none.**
+tagging\_mode = max **Welcher Modus, max, min, end, oder none.**
 
-tag\_field = TAG**Benennung des Geometrie Feldes**
+tag\_field = TAG **Benennung des Geometrie Feldes**
 
-key\_field = ID**Benennung des Schlüssel Feldes. Bezeichnet das Feld, in
+key\_field = ID **Benennung des Schlüssel Feldes. Bezeichnet das Feld, in
 dem sich die Kennummer der Geometrie befindet. Alle Messpunkte einer
 zusammengehörenden Geometrie benötigen dieselbe Benennung.**
 
-key\_unique = Yes**Mit Angabe dieses Feldes wird festgelegt, dass alle
+key\_unique = Yes **Mit Angabe dieses Feldes wird festgelegt, dass alle
 Messdateien mit demselben Schlüsselwert auch ein gemeinsamer
 Attributsatz zugeordnet wird.**
 
@@ -454,97 +454,98 @@ tag\_strict = No
 
 no\_data = -1
 
-geom\_tag\_point = "."**Einzelne Punktmessungen mit dem Code .**
+geom\_tag\_point = "." **Einzelne Punktmessungen mit dem Code .**
 
-geom\_tag\_line = "\$"**Linienmessungen mit dem Code \$**
+geom\_tag\_line = "\$" **Linienmessungen mit dem Code \$**
 
-geom\_tag\_poly = "@"**Polylinien mit dem Code @**
+geom\_tag\_poly = "@" **Polylinien mit dem Code @**
 
 coor\_x = COORX
 
-coor\_y = COORY**Benennung der Koordinatenfelder**
+coor\_y = COORY** Benennung der Koordinatenfelder**
 
 coor\_z = COORZ
 
-comment\_mark = \#**\# Markierter Text ist Kommentar und wird nicht mit
+comment\_mark = \# **\# Markierter Text ist Kommentar und wird nicht mit
 berechnet.**
 
-*Im Anschluss folgen ******\[Field\] ******Felder bei denen jedes
+*Im Anschluss folgen **[Field]** Felder bei denen jedes
 einzelne für eine Zeile in der Spalte steht.*
 
-**67 1\_GR\_W\_0\_@\_0 X 3513037.664 Y 5279881.392 Z 399.563\
-***Messcode*****
+**67 1\_GR\_W\_0\_@\_0 X 3513037.664 Y 5279881.392 Z 399.563**
 
-*****Für die 67:*****
+**Messcode**
+
+**Für die 67:**
 
 \[Field\]
 
-name = IDX**Name des Field Feldes. Jedes dieser Felder bekommt einen
+name = IDX **Name des Field Feldes. Jedes dieser Felder bekommt einen
 Namen. IDX steht hier für die Indexnummer. Eine durchgehende Messnummer
 die jede Messung braucht. Daher auch im Infofeld die Nachricht von 0 bis
-n. **
+n.**
 
-info = Field with measurement index \[0..n\]**Info.**
+info = Field with measurement index \[0..n\] **Info.**
 
-type = integer**Typ ist Ganzzahl.**
+type = integer **Typ ist Ganzzahl.**
 
-empty\_allowed = No**Feld darf nicht leer sein.**
+empty\_allowed = No **Feld darf nicht leer sein.**
 
-separator = space**Spaltentrenner ist Leerzeichen.**
+separator = space **Spaltentrenner ist Leerzeichen.**
 
-merge\_separators = Yes**Dürfen mehrere aufeinanderfolgende Trenner als
+merge\_separators = Yes **Dürfen mehrere aufeinanderfolgende Trenner als
 einer behandelt werden, also mehrere Leerzeichen wie eins.**
 
-unique = Yes**Wenn ja, dann wird überprüft ob der Wert mehrfach vergeben
+unique = Yes **Wenn ja, dann wird überprüft ob der Wert mehrfach vergeben
 wurde.**
 
-*****Für die 1:*****
+**Für die 1:**
 
 \[Field\]
 
-name = LEVEL**Name: Level als Angabe: Hier steht die Planumsnummer**
+name = LEVEL **Name: Level als Angabe: Hier steht die Planumsnummer**
 
-info = N/A**Info: Nicht angegeben**
+info = N/A **Info: Nicht angegeben**
 
-type = Integer**Typ ist eine Ganzzahl**
+type = Integer **Typ ist eine Ganzzahl**
 
-empty\_allowed = No**Feld darf nicht leer sein**
+empty\_allowed = No **Feld darf nicht leer sein**
 
-separator = \_**Trenner zum NÄCHSTEN Feld ist ein Unterstrich**
+separator = \_ **Trenner zum NÄCHSTEN Feld ist ein Unterstrich**
 
-merge\_separators = No**Mehrere Trenner sind hier nicht zulässig**
+merge\_separators = No **Mehrere Trenner sind hier nicht zulässig**
 
-*****Für das GR:*****
+**Für das GR:**
 
 \[Field\]
 
-name = TYPE**Name: Hier steht der Typus der Linie oder des Fundes**
+name = TYPE **Name: Hier steht der Typus der Linie oder des Fundes**
 
-info = N/A**Info: Nicht angegeben**
+info = N/A **Info: Nicht angegeben**
 
-type = Text**Typ ist ein Textfeld**
+type = Text **Typ ist ein Textfeld**
 
-empty\_allowed = No**Darf nicht leer sein**
+empty\_allowed = No **Darf nicht leer sein**
 
-separator = \_**Trenner zum NÄCHSTEN Feld ist ein Unterstrich**
+separator = \_ **Trenner zum NÄCHSTEN Feld ist ein Unterstrich**
 
 merge\_separators = No
 
-change\_case = upper**Gibt an, dass der Inhalt der Textfeldes in
+change\_case = upper **Gibt an, dass der Inhalt der Textfeldes in
 Großbuchstaben umgewandelt und ausgeschrieben werden soll, wenn hier
 nachfolgend durch @ markiert eine diesbezügliche Angabe gemacht wird.**
 
-@AU = Gold**AU würde also als GOLD ausgeschrieben werden.**
+@AU = Gold **AU würde also als GOLD ausgeschrieben werden.**
 
 @AG = Silver
 
 @KE = Pottery
 
-*****Für das W:*****
+**Für das W:**
 
 \[Field\]
 
-name = AUX**Name: AUX. Weist auf ein Hilfsfeld hin**
+name = AUX **Name: AUX. Weist auf ein Hilfsfeld hin**
 
 info = N/A
 
@@ -558,14 +559,14 @@ merge\_separators = No
 
 change\_case = upper
 
-@P = Control point**Feld ist angelegt, damit der Buchstabe P in CONTROL
+@P = Control point **Feld ist angelegt, damit der Buchstabe P in CONTROL
 POINT umgewandelt wird.**
 
-*****Für die erste 0:*****
+**Für die erste 0:**
 
 \[Field\]
 
-name = FEAT**Name: FEAT steht für feature number. Befundnummer**
+name = FEAT **Name: FEAT steht für feature number. Befundnummer**
 
 info = N/A
 
@@ -577,11 +578,11 @@ separator = \_
 
 merge\_separators = No
 
-*****Für das @ Zeichen:*****
+**Für das @ Zeichen:**
 
 \[Field\]
 
-name = TAG**Name TAG. Geometrie tag. Angabe um welche Art es sich
+name = TAG **Name TAG. Geometrie tag. Angabe um welche Art es sich
 handelt. Wird im Hauptbereich des Parsers festgelegt. @ = Polylinie,
 Punkt wäre ein Punkt usw.**
 
@@ -595,17 +596,15 @@ separator = \_
 
 merge\_separators = No
 
-skip = Yes**Skip Yes bedeutet, dass das Feld zwar berechnet, jedoch
+skip = Yes **Skip Yes bedeutet, dass das Feld zwar berechnet, jedoch
 nicht n der Ausgabedatei gespeichert wird. Es wird geskippt, da es nur
 für die Berechnung wichtig ist.**
 
-**********
-
-*****Für die zweite 0:*****
+**Für die zweite 0:**
 
 \[Field\]
 
-name = ID**Name: Besonderes ID Feld, wird durch den Hauptbereich als
+name = ID **Name: Besonderes ID Feld, wird durch den Hauptbereich als
 Schlüsselfeld festgelegt. Gibt an die wievielte Linie man zeichnen
 lässt. Hier im bspl die 0. **D**ie Nächste Struktur wäre 1, die darauf 2
 usw.**
@@ -616,22 +615,22 @@ type = Integer
 
 empty\_allowed = No
 
-separator = space**Angabe, dass der Trenner wieder ein Leerzeichen
+separator = space **Angabe, dass der Trenner wieder ein Leerzeichen
 ist.**
 
-merge\_separators = YesA**ngegeben, dass die Menge der Leerzeichen egal
+merge\_separators = YesA **ngegeben, dass die Menge der Leerzeichen egal
 ist.**
 
-unique = Yes**Hier wird wieder überprüft, ob der Wert mehrfach vergeben
+unique = Yes **Hier wird wieder überprüft, ob der Wert mehrfach vergeben
 wurde, da man ja jede Struktur nur einmal zeichnen lassen kann.**
 
-*****Für die nachfolgenden Spalten der X Koordinaten*****
+**Für die nachfolgenden Spalten der X Koordinaten**
 
 \[Field\]
 
-name = XLABEL**Dieses Feld für das X vor den Koordinaten**
+name = XLABEL **Dieses Feld für das X vor den Koordinaten**
 
-info = Useless field**welches nur mit X benannt ist.**
+info = Useless field **welches nur mit X benannt ist.**
 
 type = text
 
@@ -643,11 +642,11 @@ merge\_separators = Yes
 
 skip = Yes
 
-*****Für das Koordinatenfeld der X Koordinaten*****
+**Für das Koordinatenfeld der X Koordinaten**
 
 \[Field\]
 
-name = COORX**Angabe aus dem Hauptbereich. Hier X Koordinaten**
+name = COORX **Angabe aus dem Hauptbereich. Hier X Koordinaten**
 
 info = Holds X coordinate
 
@@ -659,17 +658,13 @@ separator = space
 
 merge\_separators = Yes
 
-**********
-
-**********
-
-*****Für die nachfolgenden Spalten der Y Koordinaten*****
+**Für die nachfolgenden Spalten der Y Koordinaten**
 
 \[Field\]
 
-name = YLABEL**Dieses Feld für das Y vor den Koordinaten**
+name = YLABEL **Dieses Feld für das Y vor den Koordinaten**
 
-info = Useless field**welches nur mit Y benannt ist.**
+info = Useless field **welches nur mit Y benannt ist.**
 
 type = text
 
@@ -681,11 +676,11 @@ merge\_separators = Yes
 
 skip = Yes
 
-*****Für das Koordinatenfeld der Y Koordinaten*****
+**Für das Koordinatenfeld der Y Koordinaten**
 
 \[Field\]
 
-name = COORY**Angabe aus dem Hauptbereich. Hier X Koordinaten**
+name = COORY **Angabe aus dem Hauptbereich. Hier X Koordinaten**
 
 info = Holds Y coordinate
 
@@ -718,8 +713,7 @@ Wichtig: Die genannten Trennungszeichen müssen eingehalten werden,
 ebenso wie deren Anzahl, wenn das Feld merge\_seperators mit No
 angegeben wurde.
 
-8. Integration von Messdaten von AutoCAD zu iDAIfield 2.0
-=========================================================
+## 8. Integration von Messdaten von AutoCAD zu iDAIfield 2.0
 
 Bei der Integration von Daten aus CAD müssen diese zuvor in GIS geladen
 und von dort in das Format geoJSON überführt werden, damit die Datenbank
@@ -776,8 +770,7 @@ mit einem Identifier-Feld versehe werden. Sollen Befundnummern mit
 übertragen werden ist das anlegen von Punktlayern zu diesem Zweck ein
 einfacher Weg.
 
-9. Integration von 3D-Fotogrammetrien
-=====================================
+## 9. Integration von 3D-Fotogrammetrien
 
 ![](Pictures/100000000000019E000002747DB2E910.jpg){width="6.384cm"
 height="10.158cm"}Im Anschluss der Berechnung des 3D Modells, hier im
@@ -800,8 +793,7 @@ Hier muss im Kästchen von „Write World file“ das Häkchen gesetzt sein.\
 Nach dem klicken auf „Export“ wird ein Speicherort ausgewählt und der
 Dateityp festgelegt.
 
-10. Verwendung von owncloud zur Bildverknüpfung im Client
-=========================================================
+## 10. Verwendung von owncloud zur Bildverknüpfung im Client
 
 Zur einfacheren Bildverknüpfung mit dem Server kann ein Ordnerpfad über
 owncloud angelegt werden. Dies hat den Vorteil, dass alle beteiligten
