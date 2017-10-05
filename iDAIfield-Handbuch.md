@@ -38,38 +38,35 @@ die Bilder.
 
 Startseite des Clients. In diesem Bereich werden die verschiedenen Menü-Ebenen beschrieben. Rechts oben wird angezeigt, ob der Client zu einem anderen oder zum Server synchronisiert ![Synchbutton](images/buttons/Synchbutton.png)
 sowie der Projektname (Tutorial).
-*(siehe: Abschnitt 5 Das Projekt, Synchronisation mit anderen Clients)*
+*(siehe: Abschnitt 5 Das Projekt, Abschnitt 3 Synchronisation mit anderen Client(s))*
 
 ![handbuch_client_02](images/screenshots/handbuch_client_02.png)
 
 ### 2.1 Übersicht
 
-![]
+![handbuch_client_03](images/screenshots/handbuch_client_03.png)
 
 Der Übersichts-Bildschirm: Hier können Ressourcen
 angelegt werden und das gesamte Projekt überblicksartig betrachtet
-werden. Das Anlegen von Ressourcen geschieht über den ( ) Button. Hier
+werden. Das Anlegen von Ressourcen geschieht über den ![Plusbutton](images/buttons/Plusbutton.png) Button. Hier
 können nur Haupttypen angelegt werden. Schnitte, Bauaufnahmen, Survey
 Areale und Orte.\
-*→ Anlegen von Ressourcen*
+*(siehe: Abschnitt 6 Anlegen von Ressourcen)*
 
 ### 2.2 Ausgrabung
 
-![](Pictures/100002010000003300000030FDB2B484.png){width="0.533cm"
-height="0.501cm"}![](Pictures/1000020100000034000000305B61B88D.png){width="0.582cm"
-height="0.538cm"}![](Pictures/100002010000002E0000002A0B4F5ED2.png){width="0.515cm"
-height="0.471cm"}Der Ausgrabungs-Bildschirm: Hier können alle Ressourcen
+Der Ausgrabungs-Bildschirm: Hier können alle Ressourcen
 innerhalb von Schnitten eingesehen und bearbeitet werden. Die Zuordnung
 zum Schnitt wird automatisch vorgenommen, weitere Ressourcen werden
 immer innerhalb eines Schnittes angelegt.\
 Jede Ressource kann ausgewählt werden, auf der rechten Seite wird eine
 Übersicht der eingetragenen Felder und deren Attribute angezeigt. Das
-Anlegen von Ressourcen geschieht über den ( ) Button. Zudem können
-weitere Schnitte hinzugefügt ( ) und bearbeitet werden ( ).\
-→ *Anlegen von Ressourcen*
+Anlegen von Ressourcen geschieht über den ![Plusbutton](images/buttons/Plusbutton.png) Button. Zudem können
+weitere Schnitte hinzugefügt ![Schnittplusbutton](images/buttons/Schnittplusbutton.png) und bearbeitet werden ![Berbeitungsbutton](images/buttons/Bearbeitungsbutton.png).\
+*(siehe: Abschnitt 6 Anlegen von Ressourcen)*
 
-![](Pictures/100000000000063F0000033122D5107E.png){width="17cm"
-height="9.871cm"}Abb. 3 Der Ausgrabungs-Bildschirm
+![handbuch_client_04](images/screenshots/handbuch_client_04.png)
+*Abb 3: Der Ausgrabungs-Bildschirm*
 
 ### 2.3 Bauaufnahme
 
