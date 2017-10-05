@@ -728,21 +728,20 @@ Vor dem umwandeln in Polygone muss die Datei durch das Tool bearbeitet
 werden. Hier werden alle noch frei stehenden Linien geschlossen, sodass
 sie weiter verarbeitet werden können.
 
-![](Pictures/100000000000035900000233B4EBA285.jpg){width="17cm"
-height="11.167cm"}Abb. 20 v.Clean Bereinigungswerkzeug
+![handbuch_ausCAD_02](images/screenshots/handbuch_ausCAD_02.png)
+*Abb. 20 v.Clean Bereinigungswerkzeug*
 
 Im Reiter „Cleaning Tool“ muss snap eingestellt sein. Dies ist nicht der
 Standard. Bei „Threshold“ wird die Entfernung eingegeben in welcher
 Linien gesnapt werden, Diese darf nicht zu groß sein, empfohlen wird
 hier 0,001 (10 cm). Es kann jedoch notwendig sein, diese Entfernung auf
-die eigenen Daten an zu passen.
-
+die eigenen Daten an zu passen.\
 Die so entstandenen Layer können mit dem Tool „Linien zu Plygonen“, zu
 finden unter dem Reiter Vektor und dem Bereich Geometrie-Werkzeuge, in
 Polygone umgewandelt werden.
 
-![](Pictures/1000000000000359000002333A5A48A3.jpg){width="17cm"
-height="11.167cm"}Abb. 21 Linien zu Polygonen
+![handbuch_ausCAD_03](images/screenshots/handbuch_ausCAD_03.png)
+Abb. 21 Linien zu Polygonen
 
 Ein Problem stellen fehlende Außenlinien dar. Diese sind bei manchen
 CAD-Zeichnungen nicht unbedingt vorhanden, wie im unten angegebenen
@@ -750,8 +749,8 @@ Beispiel. Hier muss für den Befund 026 eine Außenlinie definiert werden.
 Dies muss leider händisch erfolgen und ist vor der Anwendung Linien zu
 Polygon vor zu nehmen.
 
-![](Pictures/10000000000003C000000153ACF461CB.png){width="16cm"
-height="5.001cm"}Abb. 22 Beispiel CAD-Plan
+![handbuch_ausCAD_04](images/screenshots/handbuch_ausCAD_04.png)
+Abb. 22 Beispiel CAD-Plan
 
 Für die Integration in den iDAIfield Client müssen die Layer natürlich
 mit einem Identifier-Feld versehe werden. Sollen Befundnummern mit
@@ -760,8 +759,10 @@ einfacher Weg.
 
 ## 9. Integration von 3D-Fotogrammetrien
 
-![](Pictures/100000000000019E000002747DB2E910.jpg){width="6.384cm"
-height="10.158cm"}Im Anschluss der Berechnung des 3D Modells, hier im
+![handbuch_aus3D_01](images/screenshots/handbuch_aus3D_01.png)
+*Abb. 23 Exporteinstellungen
+
+Im Anschluss der Berechnung des 3D Modells, hier im
 Beispiel mit Agisoft PhotoScan, muss ein Orthophoto generiert und
 entsprechend als jpeg. ausgegeben werden. Dieses kann problemlos in den
 Client geladen werden.
@@ -785,22 +786,20 @@ Dateityp festgelegt.
 
 Zur einfacheren Bildverknüpfung mit dem Server kann ein Ordnerpfad über
 owncloud angelegt werden. Dies hat den Vorteil, dass alle beteiligten
-auf die originalen Bilddaten zugriff haben.
-
+auf die originalen Bilddaten zugriff haben.\
 Die owncloud greift auf den Server des DAI zu und Synchronisiert alle
 Bilder zum Projektordner.
 
-![](Pictures/10000201000002FD000001C3881B0C7A.png){width="14cm"
-height="7.001cm"}Abb. 24 Eingabe der Serveradresse
+![handbuch_owncloud_01](images/screenshots/handbuch_owncloud_01.png)
+Abb. 24 Eingabe der Serveradresse
 
 Nach der Installation wird die DAI Cloud als Ziel ausgewählt.
-Nachfolgend werden die DAI internen Zugangsdaten abgefragt.
-
+Nachfolgend werden die DAI internen Zugangsdaten abgefragt.\
 Nach erfolgreichem Log in wird dem Nutzer eine Ordnerauswahl zur
 Verfügung gestellt. Wählen Sie den Ordner ihres Projektes aus.
 
-![](Pictures/10000201000002FE000001C40603FCFB.png){width="15cm"
-height="7.999cm"}Abb. 25 Auswählen des Ordners
+![handbuch_owncloud_02](images/screenshots/handbuch_owncloud_02.png)
+Abb. 25 Auswählen des Ordners
 
 Die Synchronisation läuft nun zu diesem Order. Ändern Sie den Zielordner
 der Bilder im Client unter „Einstellungen“.
