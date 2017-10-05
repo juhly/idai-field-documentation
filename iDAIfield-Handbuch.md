@@ -33,15 +33,9 @@ die Bilder.
 
 ## 2. Der Client und seine Ansichten
 
-![](Pictures/100000000000063F00000333B70A48FE.png){width="17cm"
-height="9.871cm"}*Abb. 2 Der Übersichtsbildschirm*\
+![handbuch_client_01](images/screenshots/handbuch_client_01.png)
 
-![](Pictures/100002010000002F0000002B1155AE6B.png){width="0.778cm"
-height="0.711cm"}Startseite des Clients. In diesem Bereich werden die
-verschiedenen Menü-Ebenen beschrieben. Rechts oben wird angezeigt, ob
-der Client zu einem anderen oder zum Server synchronisiert ( )\
-sowie der Projektname (Tutorial). *→ Das Projekt*, *→ Synchronisation
-mit anderen Client(s)*
+![handbuch_client_02](images/screenshots/handbuch_client:02.png)
 
 ### 2.1 Übersicht
 
