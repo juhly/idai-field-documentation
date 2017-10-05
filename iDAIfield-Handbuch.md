@@ -154,7 +154,7 @@ Zudem können selbstverständlich mit ![Bearbeitungsbutton](images/buttons/Bearb
 Fotoattribute eingetragen werden. Ein weiteres Feature ist die Zuweisung
 von Georeferenzdaten (Abb. 9.1), um Hintergrundkarten zu erstellen.
 Hierfür wird eine Rastergrafik (.jpg) und eine .wld-Datei benötigt,
-welche die Koordinaten des Bildes enthält. Durch den Klick auf ![wldButton](images/buttons/Bearbeitungsbutton.png) kann
+welche die Koordinaten des Bildes enthält. Durch den Klick auf ![wldButton](images/buttons/wldButton.png) kann
 das .wld hinzugefügt werden. Nun ist es als Hintergrundkarte verfügbar
 und kann in den verschiedenen Bildschirmen aus- oder angeschaltet
 werden. Anschließend ändert sich die Anzeige bei Georeferenzdaten in ![wldLöschenbutton](images/buttons/wldLöschenbutton.png).\
@@ -167,7 +167,7 @@ Wichtig ist hier, dass eine Kurzbeschreibung vorhanden ist, welche als
 ![handbuch_client_09](images/screenshots/handbuch_client_09.png)
 *Abb 9: Hintergrundkarte*
 
-![handbuch_client_09.1](images/screenshots/handbuch_client_09.1.png)
+![handbuch_client_09.1](images/screenshots/handbuch_client_09.1.png)\
 *Abb 9.1: Georeferenzbildschirm*
 
 Jeder Layer kann an- und ausgeschaltet ![Sichtbarkeitsbutton](images/buttons/Sichtbarkeitsbutton.png) und zentriert
