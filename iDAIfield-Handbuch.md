@@ -130,7 +130,7 @@ Wichtig ist hier, dass eine Kurzbeschreibung vorhanden ist, welche als
 ![handbuch_client_08](images/screenshots/handbuch_client_08.png)
 *Abb 8: Foto mit verknüpfter Ressource*
 
-![handbuch_client_09](images/screenshots/hanbuch_client_09.png)
+![handbuch_client_09](images/screenshots/handbuch_client_09.png)
 *Abb 9: Hintergrundkarte*
 
 Jeder Layer kann an- und ausgeschaltet ![Sichtbarkeitsbutton](images/buttons/Sichtbarkeitsbutton.png) und zentriert
