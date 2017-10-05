@@ -113,7 +113,7 @@ oder Abbildung handelt (Abb. 6)\
 Nun kann die Abbildung mit einer oder mehreren Ressourcen verknüpft werden ![Verlinkungsbutton](images/buttons/Verlinkungsbutton.png).\
 Anschließend kann die abgebildete Ressource ausgewählt werden (Abb. 7/8). 
 
-![handbuch_client_07](images/screenshot/handbuch_client_07.png)
+![handbuch_client_07](images/screenshots/handbuch_client_07.png)
 *Abb 7: Zuweisung von Ressourcen*
 
 Zudem können selbstverständlich mit ![Bearbeitungsbutton](images/buttons/Bearbeitungsbutton.png) weitere 
@@ -127,10 +127,10 @@ werden. Anschließend ändert sich die Anzeige bei Georeferenzdaten in ![wldLös
 Wichtig ist hier, dass eine Kurzbeschreibung vorhanden ist, welche als
 Überschrift der Basiskarten verwendet wird.
 
-![handbuch_client_08](images/screenshot/handbuch_client_08.png)
-*Abb 8: Foto mit verknüpfter Ressource
+![handbuch_client_08](images/screenshots/handbuch_client_08.png)
+*Abb 8: Foto mit verknüpfter Ressource*
 
-![handbuch_client_09](images/screenshot/hanbuch_client_09.png)
+![handbuch_client_09](images/screenshots/hanbuch_client_09.png)
 *Abb 9: Hintergrundkarte*
 
 Jeder Layer kann an- und ausgeschaltet ![Sichtbarkeitsbutton](images/buttons/Sichtbarkeitsbutton.png) und zentriert
