@@ -1,7 +1,7 @@
 ## 3. Synchronisation mit anderen Client(s)
 
 Der Client kann stets mit einem, oder mehreren anderen Clients verbunden
-und Synchronisiert werden. Das Symbol ![Synchbutton](images/buttons/Synchbutton.png) zeigt an, ob der Client
+und Synchronisiert werden. Das Symbol ![Synchbutton](../../images/buttons/Synchbutton.png) zeigt an, ob der Client
 derzeit verbunden ist. Durchgestrichene Wolke: Keine Verbindung. Durch einfaches klicken auf die Wolke werden die Synchronisationseinstellungen aufgerufen.
 
 ### 3.1 Synchronisation mit einem anderen Client
