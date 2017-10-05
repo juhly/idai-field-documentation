@@ -708,24 +708,21 @@ angegeben wurde.
 
 Bei der Integration von Daten aus CAD müssen diese zuvor in GIS geladen
 und von dort in das Format geoJSON überführt werden, damit die Datenbank
-diese Messdateien aufnehmen kann.
-
+diese Messdateien aufnehmen kann.\
 QGIS ist in der Lage DXF.-Dateien zu laden. Jedoch sind ein paar weitere
-Arbeiten notwendig.
-
+Arbeiten notwendig.\
 Zum ersten muss die Datei als DXF. Vorliegen. Diese kann als Vektorlayer
 im GIS geladen werden.\
 Dieser Layer muss als shape (shp.) gespeichert werden. Über den Reiter
 „Vektor“ muss im Unterpunkt „Geometrie-Werkzeuge“ die Anwendung
 „Geometrie Prüfen“ ausgewählt werden. Ist diese nicht vorhanden muss sie
-als Plugin installiert oder/und zugeschaltet werden.
-
+als Plugin installiert oder/und zugeschaltet werden.\
 Im Anschluss muss ein neues GRASS-Mapset erstellt werden. Der
 Eingabelayer muss ausgewählt und ein Ausgabelayer definiert werden. Nach
 drücken des „Start“ Buttons, kann das Ergebnis visualisiert werden.
 
-![](Pictures/100000000000031E000002FFC357A83B.jpg){width="9.571cm"
-height="9.199cm"}Abb. 19 Geometrien Prüfen
+![handbuch_ausCAD_01](images/screenshots/handbuch_ausCAD_01.png)
+*Abb. 19 Geometrien Prüfen*
 
 Vor dem umwandeln in Polygone muss die Datei durch das Tool bearbeitet
 werden. Hier werden alle noch frei stehenden Linien geschlossen, sodass
