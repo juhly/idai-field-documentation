@@ -209,7 +209,7 @@ allerdings zu fehlern führen.
 ### 3.3 Synchronisation über den Server field.dainst.org
 
 ![handbuch_synchronisation_01](images/screenshots/handbuch_synchronisation_01.png)
-*Abb 13: Synchronisationseinstellungen
+*Abb 13: Synchronisationseinstellungen*
 
 Zuerst müssen die Mitarbeiterinnnen und Mitarbeiter des
 IT-Referats des DAI ein Projekt auf dem Server anlegen. Bei der
@@ -249,28 +249,22 @@ Filter angezeigt.
 ## 5. Das Projekt
 
 Zu Beginn der Arbeiten, nach der Installation des Clients ist die
-Datenbank leer.
-
-Die Bereiche im Hauptbildschirm sind ohne Funktion.
-
-Im rechten Bereich, neben ( ), muss durch einfaches Klicken das Feld zum
-„Projekte verwalten“ aufgerufen werden.
-
+Datenbank leer.\
+Die Bereiche im Hauptbildschirm sind ohne Funktion.\
+Im rechten Bereich, neben ![Synchbutton](images/buttons/Synchbutton.png), muss durch einfaches Klicken das Feld zum
+„Projekte verwalten“ aufgerufen werden.\
 Hier kann unter bereits bestehenden Projekten eine Auswahl getroffen
 werden.
-
-Über ( ) kann ein neues Projekt angelegt werden.
-
-Im nebenstehenden Stiftsymbol ( ) kann das Bearbeitungsfenster des
-Projektes erneut aufgerufen werden. Informationen können lassen sich
+Über ![Projektplusbutton](images/buttons/Projektplusbutton.png) kann ein neues Projekt angelegt werden.
+Im nebenstehenden Stiftsymbol ![Bearbeitungsbutton](images/buttons/Bearbeitungsbutton.png) kann das Bearbeitungsfenster des
+Projektes erneut aufgerufen werden. Informationen lassen sich
 nachtragen oder ändern.
-
-Das Symbol ( ) löscht ein Projekt. Die Eingabe des Projektnamens in die
+Das Symbol ![Löschenbutton](images/buttons/Löschenbutton.png) löscht ein Projekt. Die Eingabe des Projektnamens in die
 Zeile ist nötig zur Bestätigung. Das Projekt ist nachfolgend endgültig
 gelöscht.
 
-![](Pictures/10000201000005000000003A74F8879D.png){width="17cm"
-height="0.769cm"}Abb. 14 Anlegen eines neuen Projekts
+![handbuch_projekt_01](images/screenshots/handbuch_projekt_01.png)
+*Abb. 14 Anlegen eines neuen Projekts*
 
 ## 6. Anlegen von Ressourcen
 
