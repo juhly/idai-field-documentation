@@ -34,15 +34,19 @@ die Bilder.
 ## 2. Der Client und seine Ansichten
 
 ![handbuch_client_01](images/screenshots/handbuch_client_01.png)
+*Abb. 2: Der Übersichtsbildschirm*
+
+Startseite des Clients. In diesem Bereich werden die verschiedenen Menü-Ebenen beschrieben. Rechts oben wird angezeigt, ob der Client zu einem anderen oder zum Server synchronisiert ![Synchbutton](images/Buttons/Synchbutton.png)
+sowie der Projektname (Tutorial).
+*(siehe: Das Projekt, Synchronisation mit anderen Clients)*
 
 ![handbuch_client_02](images/screenshots/handbuch_client_02.png)
 
 ### 2.1 Übersicht
 
-![](Pictures/10000201000005000000003A74F8879D.png){width="17cm"
-height="0.769cm"}![](Pictures/100000000000063B00000041DC4942CE.png){width="17cm"
-height="0.691cm"}![](Pictures/100002010000003300000030FDB2B484.png){width="0.533cm"
-height="0.501cm"}Der Übersichts-Bildschirm: Hier können Ressourcen
+![]
+
+Der Übersichts-Bildschirm: Hier können Ressourcen
 angelegt werden und das gesamte Projekt überblicksartig betrachtet
 werden. Das Anlegen von Ressourcen geschieht über den ( ) Button. Hier
 können nur Haupttypen angelegt werden. Schnitte, Bauaufnahmen, Survey
