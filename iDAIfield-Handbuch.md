@@ -223,7 +223,6 @@ derzeit verbunden ist. Durchgestrichene Wolke: Keine Verbindung. Durch einfaches
 
 ### 3.1 Synchronisation mit einem anderen Client
 
-
 Über den Reiter Einstellungen werden die
 „Synchronisierungseinstellungen“ eingegeben. Die Felder „Benutzer“ und
 „Passwort“ sind bei einer einfachen Verbindung nicht erforderlich. Nur,
