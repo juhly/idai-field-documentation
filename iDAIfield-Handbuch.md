@@ -414,9 +414,9 @@ Weitere Einstellungsmöglichkeiten und Erklärungen sind ausführlich im
 offiziellen Handbuch zu finden, welches zweisprachig jeder Survey 2 GIS
 Version als PDF beiliegt.
 
-![]
+![handbuch_ausGIS_03](images/screenshots/handbuch_ausGIS_03.png)
 
-Abb. 18 Arbeitsoberfläche Survey 2 GIS
+*Abb. 18 Arbeitsoberfläche Survey 2 GIS*
 
 ### 7.2 Anwendung des Parsers
 
