@@ -149,15 +149,15 @@ Der Import lässt verschiedene Dateitypen zu (Quelle: Datei). Der Pfad
 für die betreffende Datei muss ausgewählt werden. Im Falle eines Imports
 aus einer iDAI.field-Datei (jsonl) kann der Import ohne weitere
 vorherige Maßnahmen durchgeführt werden. Soll eine GEOjson importiert
-werden, ist ein Feld „identifier“ in der Datei *notwendig.* Zudem muss
+werden, ist ein Feld „identifier“ in der Datei **notwendig.** Zudem muss
 die Ressource bereits im Client existieren, mit identischem Bezeichner.
 Anschließend erfolgt eine Meldung, wie viele Ressourcen importiert
 wurden. Existiert die Bezeichnung des Feldes „identifier „ als
 Ressource, wird diese automatisch den eingeladenen Zeichnungen
 zugeordnet.
 
-![](Pictures/100000000000063B00000249751C43A9.png){width="17cm"
-height="7.638cm"}
+![handbuch_client_10](images/screenshots/handbuch_client_10.png)
+*Abb 10: Importfenster*
 
 ### 2.7 Export
 
@@ -165,22 +165,18 @@ Hier kann das gesamte Projekt exportiert werden. Die Dateiendung ist
 .jsonl. Diese kann bequem in den Client importiert werden, auch ohne das
 vorherige Anlegen von Ressourcen.
 
-![](Pictures/100000000000063F00000139D1CC8F90.png){width="17cm"
-height="4.117cm"}
-
-Abb. 11 Exportfenster
+![handbuch_client_11](images/screenshots/handbuch_client_11.png)
+*Abb. 11 Exportfenster*
 
 ### 2.8 Einstellungen
 
 Im Einstellungs-Fenster wird der/die aktuelle BenutzerIn, also
 BearbeiterIn eingetragen. Diese Information wird automatisch in die
-Datensätze geschrieben. Das Feld sollte nicht leer bleiben.
+Datensätze geschrieben. Das Feld sollte nicht leer bleiben.\
+*(siehe: Abschnitt 3 Synchronisation mit anderen Clien(s))*
 
-Für Synchronisationseinstellungen siehe → Synchronisation mit anderen
-Clien(s)
-
-![](Pictures/100000000000063900000331E2E7367F.png){width="17cm"
-height="9.781cm"}Abb. 12 Einstellungsfenster
+![handbuch_client_12](images/screenshots/handbuch_client_12.png)
+*Abb. 12 Einstellungsfenster*
 
 ## 3. Synchronisation mit anderen Client(s)
 
