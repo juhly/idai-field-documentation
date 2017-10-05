@@ -104,7 +104,7 @@ Wichtig ist hier, dass eine Kurzbeschreibung vorhanden ist, welche als
 *Abb 9.1: Georeferenzbildschirm*
 
 Jeder Layer kann an- und ausgeschaltet ![Sichtbarkeitsbutton](../../images/buttons/Sichtbarkeitsbutton.png) und zentriert
-![Zentrierenbutton](images/buttons/Zentrierenbutton.png) werden.
+![Zentrierenbutton](../../images/buttons/Zentrierenbutton.png) werden.
 
 Soll solch eine Verknüpfung gelöscht werden, muss die
 Abbildung unter dem Reiter Bilder doppelt angeklickt werden. Alternativ
