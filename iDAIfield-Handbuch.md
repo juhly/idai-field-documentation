@@ -34,7 +34,7 @@
    * [10. Verwendung von owncloud zur Bildverknüpfung im Client](#10-verwendung-von-owncloud-zur-bildverkn-pfung-im-client)
  
  
- ## 1. Quickstart
+## 1. Quickstart
 
 1. Bei der Inbetriebnahme des Clients ist standardmäßig ein Projekt
 „Test“ ausgewählt. Dies kann zu Testzwecken verwendet werde, wobei
