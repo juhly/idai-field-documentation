@@ -35,7 +35,7 @@ die Bilder.
 
 ![handbuch_client_01](images/screenshots/handbuch_client_01.png)
 
-![handbuch_client_02](images/screenshots/handbuch_client:02.png)
+![handbuch_client_02](images/screenshots/handbuch_client:02)
 
 ### 2.1 Übersicht
 
