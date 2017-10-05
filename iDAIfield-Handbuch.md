@@ -152,7 +152,7 @@ Anschließend kann die abgebildete Ressource ausgewählt werden (Abb. 7/8).
 
 Zudem können selbstverständlich mit ![Bearbeitungsbutton](images/buttons/Bearbeitungsbutton.png) weitere 
 Fotoattribute eingetragen werden. Ein weiteres Feature ist die Zuweisung
-von Georeferenzdaten (Abb. 9 rechts), um Hintergrundkarten zu erstellen.
+von Georeferenzdaten (Abb. 9.1), um Hintergrundkarten zu erstellen.
 Hierfür wird eine Rastergrafik (.jpg) und eine .wld-Datei benötigt,
 welche die Koordinaten des Bildes enthält. Durch den Klick auf ![wldButton](images/buttons/Bearbeitungsbutton.png) kann
 das .wld hinzugefügt werden. Nun ist es als Hintergrundkarte verfügbar
@@ -166,6 +166,9 @@ Wichtig ist hier, dass eine Kurzbeschreibung vorhanden ist, welche als
 
 ![handbuch_client_09](images/screenshots/handbuch_client_09.png)
 *Abb 9: Hintergrundkarte*
+
+![handbuch_client_09.1](images/screenshots/handbuch_client_09.1.png)
+*Abb 9.1: Georeferenzbildschirm*
 
 Jeder Layer kann an- und ausgeschaltet ![Sichtbarkeitsbutton](images/buttons/Sichtbarkeitsbutton.png) und zentriert
 ![Zentrierenbutton](images/buttons/Zentrierenbutton.png) werden.
@@ -200,7 +203,7 @@ Hier kann das gesamte Projekt exportiert werden. Die Dateiendung ist
 vorherige Anlegen von Ressourcen.
 
 ![handbuch_client_11](images/screenshots/handbuch_client_11.png)
-*Abb. 11 Exportfenster*
+*Abb. 11: Exportfenster*
 
 ### 2.8 Einstellungen
 
@@ -210,7 +213,7 @@ Datensätze geschrieben. Das Feld sollte nicht leer bleiben.\
 *(siehe: Abschnitt 3 Synchronisation mit anderen Clien(s))*
 
 ![handbuch_client_12](images/screenshots/handbuch_client_12.png)
-*Abb. 12 Einstellungsfenster*
+*Abb. 12: Einstellungsfenster*
 
 ## 3. Synchronisation mit anderen Client(s)
 
@@ -298,7 +301,7 @@ Zeile ist nötig zur Bestätigung. Das Projekt ist nachfolgend endgültig
 gelöscht.
 
 ![handbuch_projekt_01](images/screenshots/handbuch_projekt_01.png)
-*Abb. 14 Anlegen eines neuen Projekts*
+*Abb. 14: Anlegen eines neuen Projekts*
 
 ## 6. Anlegen von Ressourcen
 
@@ -316,7 +319,7 @@ Jedes ist mit einem eigenen Symbol mit Anfangsbuchstaben gekennzeichnet.
 
 ![handbuch_ressourcen_01](images/screenshots/handbuch_ressourcen_01.png)
 
-*Abb. 15 Anlegen von Hauptressourcen*
+*Abb. 15: Anlegen von Hauptressourcen*
 
 Bei der Auswahl einer neuen Ressource öffnet sich das Fenster zur
 Eingabe einer Geometrie und nach der Auswahl, dass Fenster zur
@@ -372,7 +375,7 @@ wird.
 
 ![handbuch_ausGIS_01](images/screenshots/handbuch_ausGIS_01.png)
 
-*Abb. 16 Speichern als GEOjson*
+*Abb. 16: Speichern als GEOjson*
 
 ### 7.1 Importieren von Multigeometrien
 
@@ -399,7 +402,7 @@ nun als Multigeometrie in den Client importiert werden.
 
 ![handbuch_ausGIS_02](images/screenshots/handbuch_ausGIS_02.png)
 
-*Abb. 17 Ein- zu Mehrteilig, QGIS*
+*Abb. 17: Ein- zu Mehrteilig, QGIS*
 
 ### 7.2 Verwendung von Survey 2 GIS
 
@@ -416,7 +419,7 @@ Version als PDF beiliegt.
 
 ![handbuch_ausGIS_03](images/screenshots/handbuch_ausGIS_03.png)
 
-*Abb. 18 Arbeitsoberfläche Survey 2 GIS*
+*Abb. 18: Arbeitsoberfläche Survey 2 GIS*
 
 ### 7.2 Anwendung des Parsers
 
@@ -722,14 +725,14 @@ Eingabelayer muss ausgewählt und ein Ausgabelayer definiert werden. Nach
 drücken des „Start“ Buttons, kann das Ergebnis visualisiert werden.
 
 ![handbuch_ausCAD_01](images/screenshots/handbuch_ausCAD_01.png)\
-*Abb. 19 Geometrien Prüfen*
+*Abb. 19: Geometrien Prüfen*
 
 Vor dem umwandeln in Polygone muss die Datei durch das Tool bearbeitet
 werden. Hier werden alle noch frei stehenden Linien geschlossen, sodass
 sie weiter verarbeitet werden können.
 
 ![handbuch_ausCAD_02](images/screenshots/handbuch_ausCAD_02.png)
-*Abb. 20 v.Clean Bereinigungswerkzeug*
+*Abb. 20: v.Clean Bereinigungswerkzeug*
 
 Im Reiter „Cleaning Tool“ muss snap eingestellt sein. Dies ist nicht der
 Standard. Bei „Threshold“ wird die Entfernung eingegeben in welcher
@@ -741,7 +744,7 @@ finden unter dem Reiter Vektor und dem Bereich Geometrie-Werkzeuge, in
 Polygone umgewandelt werden.
 
 ![handbuch_ausCAD_03](images/screenshots/handbuch_ausCAD_03.png)
-Abb. 21 Linien zu Polygonen
+Abb. 21: Linien zu Polygonen
 
 Ein Problem stellen fehlende Außenlinien dar. Diese sind bei manchen
 CAD-Zeichnungen nicht unbedingt vorhanden, wie im unten angegebenen
@@ -750,7 +753,7 @@ Dies muss leider händisch erfolgen und ist vor der Anwendung Linien zu
 Polygon vor zu nehmen.
 
 ![handbuch_ausCAD_04](images/screenshots/handbuch_ausCAD_04.png)
-Abb. 22 Beispiel CAD-Plan
+Abb. 22: Beispiel CAD-Plan
 
 Für die Integration in den iDAIfield Client müssen die Layer natürlich
 mit einem Identifier-Feld versehe werden. Sollen Befundnummern mit
@@ -760,7 +763,7 @@ einfacher Weg.
 ## 9. Integration von 3D-Fotogrammetrien
 
 ![handbuch_aus3D_01](images/screenshots/handbuch_aus3D_01.png)
-*Abb. 23 Exporteinstellungen*
+*Abb. 23: Exporteinstellungen*
 
 Im Anschluss der Berechnung des 3D Modells, hier im
 Beispiel mit Agisoft PhotoScan, muss ein Orthophoto generiert und
@@ -791,7 +794,7 @@ Die owncloud greift auf den Server des DAI zu und Synchronisiert alle
 Bilder zum Projektordner.
 
 ![handbuch_owncloud_01](images/screenshots/handbuch_owncloud_01.png)
-Abb. 24 Eingabe der Serveradresse
+Abb. 24: Eingabe der Serveradresse
 
 Nach der Installation wird die DAI Cloud als Ziel ausgewählt.
 Nachfolgend werden die DAI internen Zugangsdaten abgefragt.\
@@ -799,7 +802,7 @@ Nach erfolgreichem Log in wird dem Nutzer eine Ordnerauswahl zur
 Verfügung gestellt. Wählen Sie den Ordner ihres Projektes aus.
 
 ![handbuch_owncloud_02](images/screenshots/handbuch_owncloud_02.png)
-Abb. 25 Auswählen des Ordners
+Abb. 25: Auswählen des Ordners
 
 Die Synchronisation läuft nun zu diesem Order. Ändern Sie den Zielordner
 der Bilder im Client unter „Einstellungen“.
