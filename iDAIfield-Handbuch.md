@@ -36,9 +36,9 @@ die Bilder.
 ![handbuch_client_01](images/screenshots/handbuch_client_01.png)
 *Abb. 2: Der Übersichtsbildschirm*
 
-Startseite des Clients. In diesem Bereich werden die verschiedenen Menü-Ebenen beschrieben. Rechts oben wird angezeigt, ob der Client zu einem anderen oder zum Server synchronisiert ![Synchbutton](images/Buttons/Synchbutton.png)
+Startseite des Clients. In diesem Bereich werden die verschiedenen Menü-Ebenen beschrieben. Rechts oben wird angezeigt, ob der Client zu einem anderen oder zum Server synchronisiert ![Synchbutton](images/buttons/Synchbutton.png)
 sowie der Projektname (Tutorial).
-*(siehe: Das Projekt, Synchronisation mit anderen Clients)*
+*(siehe: Abschnitt 5 Das Projekt, Synchronisation mit anderen Clients)*
 
 ![handbuch_client_02](images/screenshots/handbuch_client_02.png)
 
