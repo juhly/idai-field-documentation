@@ -134,7 +134,7 @@ weitere Survey-Areale hinzugefügt ![Surveyplusbutton](images/buttons/Surveyplus
 
 ### 2.5 Bilder
 
-![handbuch_client_06](images/screenshots/handbuch_client_06.png)
+![handbuch_client_06](images/screenshots/handbuch_client_06.png)\
 *Abb 6: Typauswahl der Abbildung*
 
 Hier können Abbildungen hinzugefügt werden. Nach dem Klicken auf den
