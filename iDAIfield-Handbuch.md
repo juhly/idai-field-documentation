@@ -762,7 +762,7 @@ einfacher Weg.
 
 ## 9. Integration von 3D-Fotogrammetrien
 
-![handbuch_aus3D_01](images/screenshots/handbuch_aus3D_01.png)
+![handbuch_aus3D_01](images/screenshots/handbuch_aus3D_01.png)\
 *Abb. 23: Exporteinstellungen*
 
 Im Anschluss der Berechnung des 3D Modells, hier im
@@ -793,7 +793,7 @@ auf die originalen Bilddaten zugriff haben.\
 Die owncloud greift auf den Server des DAI zu und Synchronisiert alle
 Bilder zum Projektordner.
 
-![handbuch_owncloud_01](images/screenshots/handbuch_owncloud_01.png)
+![handbuch_owncloud_01](images/screenshots/handbuch_owncloud_01.png)\
 Abb. 24: Eingabe der Serveradresse
 
 Nach der Installation wird die DAI Cloud als Ziel ausgewählt.
@@ -801,7 +801,7 @@ Nachfolgend werden die DAI internen Zugangsdaten abgefragt.\
 Nach erfolgreichem Log in wird dem Nutzer eine Ordnerauswahl zur
 Verfügung gestellt. Wählen Sie den Ordner ihres Projektes aus.
 
-![handbuch_owncloud_02](images/screenshots/handbuch_owncloud_02.png)
+![handbuch_owncloud_02](images/screenshots/handbuch_owncloud_02.png)\
 Abb. 25: Auswählen des Ordners
 
 Die Synchronisation läuft nun zu diesem Order. Ändern Sie den Zielordner
