@@ -4,7 +4,7 @@
 
 1. Bei der Inbetriebnahme des Clients ist standardmäßig ein Projekt
 „Test“ ausgewählt. Dies kann zu Testzwecken verwendet werde, wobei
-angelegte Daten nach einem Neustart des Clients gelöscht werden.
+angelegte Daten nach einem Neustart des Clients gelöscht werden.\
 *(siehe: Abschnitt 4.1 Anlegen eines neuen Projekts)*
 
 2. Der Benutzername sollte unbedingt eingegeben werden. Diese geschieht
@@ -23,7 +23,7 @@ handelt sich um ein frühes Release, deshalb sollte so oft wie möglich
 ein Export durchgeführt werden. Das gleiche gilt selbstverständlich für
 die Bilder.
 
-5. Es sollte ein eigenes Projekt angelegt werden
+5. Es sollte ein eigenes Projekt angelegt werden\
 *(siehe: Abschnitt 4.1 Anlegen eines neuen Projekts)*
 
 ![handbuch_quickstart_01](images/screenshots/handbuch_quickstart_01.png)
@@ -37,7 +37,7 @@ die Bilder.
 *Abb. 2: Der Übersichtsbildschirm*
 
 Startseite des Clients. In diesem Bereich werden die verschiedenen Menü-Ebenen beschrieben. Rechts oben wird angezeigt, ob der Client zu einem anderen oder zum Server synchronisiert ![Synchbutton](images/buttons/Synchbutton.png)
-sowie der Projektname (Tutorial).
+sowie der Projektname (Tutorial).\
 *(siehe: Abschnitt 5 Das Projekt, Abschnitt 3 Synchronisation mit anderen Client(s))*
 
 ### 2.1 Übersicht
@@ -60,7 +60,7 @@ immer innerhalb eines Schnittes angelegt.
 Jede Ressource kann ausgewählt werden, auf der rechten Seite wird eine
 Übersicht der eingetragenen Felder und deren Attribute angezeigt. Das
 Anlegen von Ressourcen geschieht über den ![Plusbutton](images/buttons/Plusbutton.png) Button. Zudem können
-weitere Schnitte hinzugefügt ![Schnittplusbutton](images/buttons/Schnittplusbutton.png) und bearbeitet werden ![Berbeitungsbutton](images/buttons/Bearbeitungsbutton.png).
+weitere Schnitte hinzugefügt ![Schnittplusbutton](images/buttons/Schnittplusbutton.png) und bearbeitet werden ![Berbeitungsbutton](images/buttons/Bearbeitungsbutton.png).\
 *(siehe: Abschnitt 6 Anlegen von Ressourcen)*
 
 ![handbuch_client_03](images/screenshots/handbuch_client_03.png)
@@ -78,14 +78,14 @@ immer innerhalb einer Bauaufnahme angelegt.
 Jede Ressource kann ausgewählt werden, auf der rechten Seite wird eine
 Übersicht der eingetragenen Felder und deren Attribute angezeigt. Das
 Anlegen von Ressourcen geschieht über den ![Plusbutton](images/buttons/Plusbutton.png) Button. Zudem können
-weitere Bauaufnahmen hinzugefügt ![Bauafnahmeplusbutton](images/buttons/Bauafnahmeplusbutton.png) und bearbeitet werden
-![Bearbeitungsbutton](images/buttons/Bearbeitungsbutton.png).
+weitere Bauaufnahmen hinzugefügt ![Bauaufnahmeplusbutton](images/buttons/Bauaufnahmeplusbutton.png) und bearbeitet werden
+![Bearbeitungsbutton](images/buttons/Bearbeitungsbutton.png).\
 *(siehe: Abschnitt 6 Anlegen von Ressourcen)
 
 ### 2.4 Survey
 
-![](Pictures/100000000000063D000003319D858480.png){width="17cm"
-height="9.751cm"}Abb. 5 Der Survey-Bildschirm\
+![handbuch_client_05](images/screenshots/handbuch_client_05.png)
+*Abb 5: Der Survey-Bildschirm
 
 Der Survey-Bildschirm: Hier können alle Ressourcen innerhalb eines
 Survey-Areals eingesehen und bearbeitet werden. Die Zuordnung zum
@@ -93,20 +93,25 @@ Survey-Areal wird automatisch vorgenommen, weitere Ressourcen werden
 immer innerhalb eines Survey-Areals angelegt.\
 Jede Ressource kann ausgewählt werden, auf der rechten Seite wird eine
 Übersicht der eingetragenen Felder und deren Attribute angezeigt. Das
-Anlegen von Ressourcen geschieht über den ( ) Button. Zudem können
-weitere Survey-Areale hinzugefügt ( ) und bearbeitet werden\
-( ).\
-→ *Anlegen von Ressourcen*
+Anlegen von Ressourcen geschieht über den ![Plusbutton](images/buttons/Plusbutton.png) Button. Zudem können
+weitere Survey-Areale hinzugefügt ![Surveyplusbutton](images/buttons/Surveyplusbutton.png) und bearbeitet werden
+![Bearbeitungsbutton](images/buttons/Bearbeitungsbutton.png).\
+*(siehe: Abschnitt 6 Anlegen von Ressourcen)*
 
-![](Pictures/1000020100000227000001480420E9EA.png){width="7.1cm" height="3.979cm"}2.5 Bilder
+### 2.5 Bilder
+
+![handbuch_client_06](images/screenshots/handbuch_client_06.png)
+*Abb 6: Typauswahl der Abbildung*
 
 Hier können Abbildungen hinzugefügt werden. Nach dem Klicken auf den
 „Abbildung hinzufügen“ Bereich, erfolgt eine Auwahl über den Browser.
 Nur das .jpg-Format wird gegenwärtig unterstützt. Alternativ die Bilder
 per drag-and-drop fallen lassen. Bitte beachten Sie, dass der image-Pfad
-gesetzt ist (siehe: Quickstart)\
+gesetzt ist *(siehe: Quickstart)*\
 Nun kann ausgewählt werden, ob es sich um eine Zeichnung, Fotografie
-oder Abbildung handelt (Abb. 5)
+oder Abbildung handelt (Abb. 6)\
+Nun kann die Abbildung mit einer oder mehreren Ressourcen verknüpft werden ![Verlinkungsbutton](images/buttons/Verlinkungsbutton.png).\
+Anschließend kann die abgebildete Ressource ausgewählt werden (Abb. 7/8). 
 
 ![](Pictures/10000201000000330000002745DE2278.png){width="0.589cm"
 height="0.452cm"}Nun kann die Abbildung mit einer oder mehreren
@@ -119,7 +124,8 @@ height="9.751cm"}Abb. 7 Zuweisung von Ressourcen
 ![](Pictures/100002010000001D0000001B9FB712B5.png){width="0.646cm"
 height="0.601cm"}![](Pictures/10000201000000170000001C602F1358.png){width="0.513cm"
 height="0.624cm"}![](Pictures/10000201000000CF00000041257A43B3.png){width="2.182cm"
-height="0.464cm"}Zudem können selbstverständlich mit ( ) weitere
+height="0.464cm"}
+Zudem können selbstverständlich mit ( ) weitere
 Fotoattribute eingetragen werden. Ein weiteres Feature ist die Zuweisung
 von Georeferenzdaten (Abb. 8 rechts), um Hintergrundkarten zu erstellen.
 Hierfür wird eine Rastergrafik (.jpg) und eine .wld-Datei benötigt,
