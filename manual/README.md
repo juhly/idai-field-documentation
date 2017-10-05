@@ -1,4 +1,4 @@
-# Userdokumentation
+# Benutzerhandbuch
 
 ## Inhaltsverzeichnis
  - [Userdokumentation](#userdokumentation)
