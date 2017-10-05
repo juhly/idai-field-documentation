@@ -1,40 +1,6 @@
 # Userdokumentation
 
-## Inhaltsverzeichnis
-- [Userdokumentation](#userdokumentation)
-  * [Inhaltsverzeichnis](#inhaltsverzeichnis)
-  * [1. Quickstart](#1-quickstart)
-  * [2. Der Client und seine Ansichten](#2-der-client-und-seine-ansichten)
-    + [2.1 Übersicht](#21--bersicht)
-    + [2.2 Ausgrabung](#22-ausgrabung)
-    + [2.3 Bauaufnahme](#23-bauaufnahme)
-    + [2.4 Survey](#24-survey)
-    + [2.5 Bilder](#25-bilder)
-    + [2.6 Import](#26-import)
-    + [2.7 Export](#27-export)
-    + [2.8 Einstellungen](#28-einstellungen)
-  * [3. Synchronisation mit anderen Client(s)](#3-synchronisation-mit-anderen-client-s-)
-    + [3.1 Synchronisation mit einem anderen Client](#31-synchronisation-mit-einem-anderen-client)
-    + [3.2 Synchronisation mit mehreren Clients](#32-synchronisation-mit-mehreren-clients)
-    + [3.3 Synchronisation über den Server field.dainst.org](#33-synchronisation--ber-den-server-fielddainstorg)
-  * [4. Grundlegende Funktionen](#4-grundlegende-funktionen)
-    + [4.1 Karten- und Listenansicht](#41-karten--und-listenansicht)
-    + [4.2 Suchen](#42-suchen)
-  * [5. Das Projekt](#5-das-projekt)
-  * [6. Anlegen von Ressourcen](#6-anlegen-von-ressourcen)
-    + [6.1 Felder](#61-felder)
-    + [6.2 Relationen](#62-relationen)
-    + [6.3 Zuweisen von Ober- bzw. Subtypen](#63-zuweisen-von-ober--bzw-subtypen)
-  * [7. Einfügen von Messplänen aus GIS](#7-einf-gen-von-messpl-nen-aus-gis)
-    + [7.1 Importieren von Multigeometrien](#71-importieren-von-multigeometrien)
-    + [7.2 Verwendung von Survey 2 GIS](#72-verwendung-von-survey-2-gis)
-    + [7.2 Anwendung des Parsers](#72-anwendung-des-parsers)
-  * [8. Integration von Messdaten von AutoCAD zu iDAIfield 2.0](#8-integration-von-messdaten-von-autocad-zu-idaifield-20)
-  * [9. Integration von 3D-Fotogrammetrien](#9-integration-von-3d-fotogrammetrien)
-  * [10. Verwendung von owncloud zur Bildverknüpfung im Client](#10-verwendung-von-owncloud-zur-bildverkn-pfung-im-client)
-
-
-## 1. Quickstart
+## 1. Quickstart: Inbetriebnahme
 
 1. Bei der Inbetriebnahme des Clients ist standardmäßig ein Projekt
 „Test“ ausgewählt. Dies kann zu Testzwecken verwendet werde, wobei
@@ -303,24 +269,20 @@ gelöscht.
 ## 6. Anlegen von Ressourcen
 
 Je nach Reiter, Ausgrabung, Bauaufnahme oder Survey, wird über das
-Symbol ( ) im linken Bereich der zweiten Zeile ein neuer Schnitt, neues
+Symbol ![Plusbutton](images/buttons/Plusbutton.png) im linken Bereich der zweiten Zeile ein neuer Schnitt, neues
 Bauwerk oder Survey angelegt.
-
 Nach dem Speichern der Ressource wird diese im Auswahlfenster links
 angezeigt. Hier kann zwischen verschiedenen Schnitten, Bauwerken oder
-Surveys gewechselt werden. Das ( ) ermöglicht die weitere Bearbeitung
-der Ressource.
-
+Surveys gewechselt werden. Das ![Bearbeitungsbutton](images/buttons/Bearbeitungsbutton.png) ermöglicht die weitere Bearbeitung
+der Ressource.\
 Ist eine Hauptressource angelegt können im linken Bildschirmabschnitt
-über das ( ) neue Ressourcen hinzugefügt werden. Diese beinhalten unter
-anderem Befunde, Funde, Gräber, Architektur, Bohrungen, Proben u.s.w.
-
+über das ![Plusbutton](images/buttons/Plusbutton.png) neue Ressourcen hinzugefügt werden. Diese beinhalten unter
+anderem Befunde, Funde, Gräber, Architektur, Bohrungen, Proben u.s.w.\
 Jedes ist mit einem eigenen Symbol mit Anfangsbuchstaben gekennzeichnet.
 
-![](Pictures/100000000000063F0000033122D5107E.png){width="17cm"
-height="8.691cm"}
+![handbuch_ressourcen_01](images/screenshots/handbuch_ressourcen_01.png)
 
-Abb. 15 Anlegen von Hauptressourcen
+*Abb. 15 Anlegen von Hauptressourcen*
 
 Bei der Auswahl einer neuen Ressource öffnet sich das Fenster zur
 Eingabe einer Geometrie und nach der Auswahl, dass Fenster zur
@@ -329,65 +291,54 @@ Dateneingabe.
 ### 6.1 Felder
 
 Unter manchen Feldern findet ein Feld ohne Eingabemöglichkeit mit einem
-kleinen, grauen „Hinzufügen“ und einem ( ). Dies öffnet ein weiteres
+kleinen, grauen „Hinzufügen“ und einem ![Plusbutton](images/buttons/Plusbutton.png). Dies öffnet ein weiteres
 Fenster zur Eingabe exakter Information. Das Eingeben mehrerer Felder
 ist hier möglich.
-
 In manchen Feldern muss eine Auswahl aus einer bestehenden Tabelle
 gewählt werden.
-
 Hier werden durch die Eingabe von Anfangsbuchstaben Vorschläge gemacht.
-
 Einige Felder gestatten nur die Eingabe von Informationen in einem
 speziellen Format.
-
 Die Eingabe eines Wortes in einem Feld, welches nur Zahlen zulässt führt
-z.B. zu der Fehlermeldung ( ), welche lediglich bedeutet, dass eine
+z.B. zu der Fehlermeldung ![Invalidbutton](images/buttons/Invalidbutton.png), welche lediglich bedeutet, dass eine
 Information nicht im korrekten Format eingegeben wurde.
 
 ### 6.2 Relationen
 
 Beim Doppelklick auf eine Ressource, öffnet sich das
 Bearbeitungsfenster.
-
-![](Pictures/100000000000002D0000002E9878F5CF.png){width="0.6cm"
-height="0.651cm"}Unter dem Reiter „Relationen“ können diese für die
-Ressource, in Verbindung zu anderen, eingetragen werden.
-
-Unter den verschiedenen Auswahlmöglichkeiten befindet sich ein ( )
+Unter dem Reiter „Relationen“ können diese für die
+Ressource, in Verbindung zu anderen, eingetragen werden.\
+Unter den verschiedenen Auswahlmöglichkeiten befindet sich ein ![Plusbutton](images/buttons/Plusbutton.png)
 Button. Durch einfaches Klicken öffnet sich ein Textfeld. Hier kann die
 Bezeichnung einer anderen Ressource eingegeben werden. Automaitische
 Vorschläge von den bereits bestehenden werden hier angezeigt. Einfaches
-Klicken darauf lässt die Relation entstehen.
-
-Roter Button ( ) zur linken löscht die Relation.
+Klicken darauf lässt die Relation entstehen.\
+Roter Button ![Löschenbutton](images/buttons/Löschenbutton.png) zur linken löscht die Relation.
 
 ### 6.3 Zuweisen von Ober- bzw. Subtypen
 
 Es ist möglich, Ressoucen vom Typ Stratigrafische Einheit beispielsweise
 einem spezielleren Typ zuzuweisen (beispielsweise Grab). Dies trifft nur
-auf Ressourcen des gleichen Typs zu.
-
+auf Ressourcen des gleichen Typs zu.\
 Hier entstehen dann zusätzliche Felder.
 
 ## 7. Einfügen von Messplänen aus GIS
 
-Wie im → *2.6 Import* bereits beschrieben ist es möglich GEOjson Dateien
+Wie im *(Abschnitt 2.6 Import)* bereits beschrieben ist es möglich GEOjson Dateien
 in die Datenbank einzuladen. Dies betrifft in der Regel Pläne und ist
 die vorgesehen Methode um Messpläne aus einem GIS in die Datenbank zu
 überführen. Hierfür muss ein „identifier“- Feld im Layer existieren und
 dieses Muss als Ressource angelegt sein. Stimmt die Eingabe im
 identifier-Feld mit der Ressource überein, so wird die Geometrie
-automatisch zu dieser zugeordnet.
-
+automatisch zu dieser zugeordnet.\
 Ein GEOjson kann im bspl. Im QGIS einfach erstellt werden in dem per
 Rechtsklick auf den Layer „Speichern als“ und dann GEOjson ausgewählt
 wird.
 
-![](Pictures/100000000000063A00000359D7E5DB64.png){width="17cm"
-height="9.139cm"}
+![handbuch_ausGIS_01](images/screenshots/handbuch_ausGIS_01.png)
 
-Abb. 16 Speichern als GEOjson
+*Abb. 16 Speichern als GEOjson*
 
 ### 7.1 Importieren von Multigeometrien
 
@@ -398,13 +349,11 @@ Anschluss als geoJSON in den Client importiert werden. Wird hingegen
 eine Datei eingeladen, welche aus mehreren Geometrien besteht, welche
 einfach denselben identifier besitzen, dann wird die vorherige Geometrie
 überschrieben und die letzte, importierte Geometrie wird im Client
-angezeigt.
-
+angezeigt.\
 Für das Ausgeben von Multigeometrien gibt es in QGIS einen einfachen
 Weg. Über den Reiter „Vektor“ und der Auswahl „Geometrie-Werkzeuge“
 wählt man das Werkzeug: „Ein- zu Mehrteilig“ oder im englischen „single
-part to multipart“.
-
+part to multipart“.\
 Hier muss zunächst der Eingabelayer, also der Layer welcher
 zusammengelegt werden soll, ausgewählt werden. Zum zweiten wird das
 Schlüsselfeld ausgewählt. Hier ist es notwendig das vorher angelegte
@@ -414,28 +363,24 @@ der Speicherort festgelegt und das Speichermedium geoJSON ausgewählt.
 Mit Run wird der Prozess in Gang gesetzt. Das gespeicherte geoJSON kann
 nun als Multigeometrie in den Client importiert werden.
 
-![](Pictures/10000000000003590000023352D51E44.jpg){width="17cm"
-height="11.167cm"}
+![handbuch_ausGIS_02](images/screenshots/handbuch_ausGIS_02.png)
 
-Abb. 17 Ein- zu Mehrteilig, QGIS
+*Abb. 17 Ein- zu Mehrteilig, QGIS*
 
 ### 7.2 Verwendung von Survey 2 GIS
 
 Für die Umsetzung einer Messung in GIS kann das Programm Survey 2 GIS
 verwendet werden. Dies setzt eingemessene Strukturen in GIS um, erstellt
-Geometrien und trennt nach Layern.
-
+Geometrien und trennt nach Layern.\
 Für die Verwendung ist ein Parser notwendig, der gegebenenfalls an die
-eigene Datenaufnahme angepasst werden muss.
-
+eigene Datenaufnahme angepasst werden muss.\
 Eigene Daten werden im Feld „Eingabe“ in das Programm eingelesen. Im
 Darunter liegenden reiter „Parser-Schema“ wird der Parser ausgewählt.
 Weitere Einstellungsmöglichkeiten und Erklärungen sind ausführlich im
 offiziellen Handbuch zu finden, welches zweisprachig jeder Survey 2 GIS
 Version als PDF beiliegt.
 
-![](Pictures/100000000000063F00000335E17752CA.png){width="17cm"
-height="8.728cm"}
+![]
 
 Abb. 18 Arbeitsoberfläche Survey 2 GIS
 
