@@ -3,8 +3,8 @@
 ## Inhaltsverzeichnis
  - [Userdokumentation](#userdokumentation)
    * [Inhaltsverzeichnis](#inhaltsverzeichnis)
-   * [1. Quickstart](chapter01)
-   * [2. Der Client und seine Ansichten](chapter02)
+   * [1. Quickstart](quickstart)
+   * [2. Der Client und seine Ansichten](client)
      + [2.1 Übersicht](#21--bersicht)
      + [2.2 Ausgrabung](#22-ausgrabung)
      + [2.3 Bauaufnahme](#23-bauaufnahme)
