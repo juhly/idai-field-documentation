@@ -113,47 +113,34 @@ oder Abbildung handelt (Abb. 6)\
 Nun kann die Abbildung mit einer oder mehreren Ressourcen verknüpft werden ![Verlinkungsbutton](images/buttons/Verlinkungsbutton.png).\
 Anschließend kann die abgebildete Ressource ausgewählt werden (Abb. 7/8). 
 
-![](Pictures/10000201000000330000002745DE2278.png){width="0.589cm"
-height="0.452cm"}Nun kann die Abbildung mit einer oder mehreren
-Ressourcen verknüpft werden ( ). Anschließend kann die abgebildete
-Ressource ausgewählt werden (Abb. 7/8).
+![handbuch_client_07](images/screenshot/handbuch_client_07.png)
+*Abb 7: Zuweisung von Ressourcen*
 
-![](Pictures/100000000000063D000003317F284054.png){width="17cm"
-height="9.751cm"}Abb. 7 Zuweisung von Ressourcen
-
-![](Pictures/100002010000001D0000001B9FB712B5.png){width="0.646cm"
-height="0.601cm"}![](Pictures/10000201000000170000001C602F1358.png){width="0.513cm"
-height="0.624cm"}![](Pictures/10000201000000CF00000041257A43B3.png){width="2.182cm"
-height="0.464cm"}
-Zudem können selbstverständlich mit ( ) weitere
+Zudem können selbstverständlich mit ![Bearbeitungsbutton](images/buttons/Bearbeitungsbutton.png) weitere 
 Fotoattribute eingetragen werden. Ein weiteres Feature ist die Zuweisung
-von Georeferenzdaten (Abb. 8 rechts), um Hintergrundkarten zu erstellen.
+von Georeferenzdaten (Abb. 9 rechts), um Hintergrundkarten zu erstellen.
 Hierfür wird eine Rastergrafik (.jpg) und eine .wld-Datei benötigt,
-welche die Koordinaten des Bildes enthält. Durch den Klick auf ( ) kann
+welche die Koordinaten des Bildes enthält. Durch den Klick auf ![wldButton](images/buttons/Bearbeitungsbutton.png) kann
 das .wld hinzugefügt werden. Nun ist es als Hintergrundkarte verfügbar
 und kann in den verschiedenen Bildschirmen aus- oder angeschaltet
-werden. Anschließend ändert sich die Anzeige bei Georeferenzdaten in .
+werden. Anschließend ändert sich die Anzeige bei Georeferenzdaten in ![wldLöschenbutton](images/buttons/wldLöschenbutton.png).\
 Wichtig ist hier, dass eine Kurzbeschreibung vorhanden ist, welche als
 Überschrift der Basiskarten verwendet wird.
 
-![](Pictures/100000000000063B0000033190C23711.png){width="17cm"
-height="9.781cm"}Abb. 8 Foto mit verknüpfter Ressource
+![handbuch_client_08](images/screenshot/handbuch_client_08.png)
+*Abb 8: Foto mit verknüpfter Ressource
 
-![](Pictures/10000000000006410000032F2AC9F7D1.png){width="17cm"
-height="9.781cm"}![](Pictures/100002010000014600000154CBDC9AE8.png){width="4.052cm"
-height="4.306cm"}Abb. 9 Hintergrundkarte
+![handbuch_client_09](images/screenshot/hanbuch_client_09.png)
+*Abb 9: Hintergrundkarte*
 
-![](Pictures/100002010000001500000015A0D7607C.png){width="0.467cm"
-height="0.467cm"}![](Pictures/100002010000001800000016E3EF342A.png){width="0.534cm"
-height="0.49cm"}Jeder Layer kann an- und ausgeschaltet ( ) und zentriert
-( ) werden.
+Jeder Layer kann an- und ausgeschaltet ![Sichtbarkeitsbutton](images/buttons/Sichtbarkeitsbutton.png) und zentriert
+![Zentrierenbutton](images/buttons/Zentrierenbutton.png) werden.
 
-![](Pictures/100002010000001D0000001B9FB712B5.png){width="0.646cm"
-height="0.601cm"}Soll solch eine Verknüpfung gelöscht werden, muss die
+Soll solch eine Verknüpfung gelöscht werden, muss die
 Abbildung unter dem Reiter Bilder doppelt angeklickt werden. Alternativ
 kann über die verknüpfte Ressource darauf zugegriffen werden, indem man
 hier das Bild vergrößert. In beiden Fällen stehen am rechten Rand die
-Bildinformationen zur Verfügung. Über ( ) und den Reiter „Relationen“
+Bildinformationen zur Verfügung. Über ![Bearbeitungsbutton](images/buttons/Bearbeitungsbutton.png) und den Reiter „Relationen“
 lassen sich die Verknüpfungen anzeigen und löschen.
 
 ### 2.6 Import
