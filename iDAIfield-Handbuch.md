@@ -181,8 +181,8 @@ Datensätze geschrieben. Das Feld sollte nicht leer bleiben.\
 ## 3. Synchronisation mit anderen Client(s)
 
 Der Client kann stets mit einem, oder mehreren anderen Clients verbunden
-und Synchronisiert werden. Das Symbol ( ) zeigt an, ob der Client
-derzeit verbunden ist. Durchgestrichene Wolke: Keine Verbindung.
+und Synchronisiert werden. Das Symbol ![Synchbutton](images/buttons/Synchbutton.png) zeigt an, ob der Client
+derzeit verbunden ist. Durchgestrichene Wolke: Keine Verbindung. Durch einfaches klicken auf die Wolke werden die Synchronisationseinstellungen aufgerufen.
 
 ### 3.1 Synchronisation mit einem anderen Client
 
@@ -208,8 +208,10 @@ allerdings zu fehlern führen.
 
 ### 3.3 Synchronisation über den Server field.dainst.org
 
-![](Pictures/100000000000063C000002E7A95CAEE7.png){width="9.634cm"
-height="4.486cm"}Zuerst müssen die Mitarbeiterinnnen und Mitarbeiter des
+![handbuch_synchronisation_01](images/screenshots/handbuch_synchronisation_01.png)
+*Abb 13: Synchronisationseinstellungen
+
+Zuerst müssen die Mitarbeiterinnnen und Mitarbeiter des
 IT-Referats des DAI ein Projekt auf dem Server anlegen. Bei der
 Synchronisation mit dem Server ist es weiterhin nötig, dass die
 spezifische Serveradresse eingetragen wird.
@@ -217,7 +219,7 @@ spezifische Serveradresse eingetragen wird.
 http://field.dainst.org/sync
 
 Der Name des Projektes muss in diesem Fall im Benutzerfeld stehen und
-das Passwort ist standardmäßig der Name des Projekts.\
+das Passwort ist standardmäßig der Name des Projekts.
 Zudem muss der Name des Projektes mit dem auf dem Server angelegten
 Projekt übereinstimmen.
 
