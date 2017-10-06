@@ -12,7 +12,7 @@ Ist eine Hauptressource angelegt können im linken Bildschirmabschnitt
 anderem Befunde, Funde, Gräber, Architektur, Bohrungen, Proben u.s.w.\
 Jedes ist mit einem eigenen Symbol mit Anfangsbuchstaben gekennzeichnet.
 
-![handbuch_ressourcen_01](../images/handbuch_ressourcen_01.png)
+![handbuch_ressourcen_01](images/handbuch_ressourcen_01.png)
 
 *Abb. 15: Anlegen von Hauptressourcen*
 
