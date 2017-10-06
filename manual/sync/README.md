@@ -28,7 +28,7 @@ allerdings zu fehlern führen.
 
 ### 3.3 Synchronisation über den Server field.dainst.org
 
-![handbuch_synchronisation_01](images/screenshots/handbuch_synchronisation_01.png)
+![handbuch_synchronisation_01](images/handbuch_synchronisation_01.png)
 *Abb 13: Synchronisationseinstellungen*
 
 Zuerst müssen die Mitarbeiterinnnen und Mitarbeiter des
