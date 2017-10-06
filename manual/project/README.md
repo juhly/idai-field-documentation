@@ -15,5 +15,5 @@ Das Symbol ![Löschenbutton](../buttons/Löschenbutton.png) löscht ein Projekt.
 Zeile ist nötig zur Bestätigung. Das Projekt ist nachfolgend endgültig
 gelöscht.
 
-![handbuch_projekt_01](../screenshots/handbuch_projekt_01.png)
+![handbuch_projekt_01](../handbuch_projekt_01.png)
 *Abb. 14: Anlegen eines neuen Projekts*
