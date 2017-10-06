@@ -1,18 +1,18 @@
 ## 6. Anlegen von Ressourcen
 
 Je nach Reiter, Ausgrabung, Bauaufnahme oder Survey, wird über das
-Symbol ![Plusbutton](../../images/buttons/Plusbutton.png) im linken Bereich der zweiten Zeile ein neuer Schnitt, neues
+Symbol ![Plusbutton](../buttons/Plusbutton.png) im linken Bereich der zweiten Zeile ein neuer Schnitt, neues
 Bauwerk oder Survey angelegt.
 Nach dem Speichern der Ressource wird diese im Auswahlfenster links
 angezeigt. Hier kann zwischen verschiedenen Schnitten, Bauwerken oder
-Surveys gewechselt werden. Das ![Bearbeitungsbutton](../../images/buttons/Bearbeitungsbutton.png) ermöglicht die weitere Bearbeitung
+Surveys gewechselt werden. Das ![Bearbeitungsbutton](../buttons/Bearbeitungsbutton.png) ermöglicht die weitere Bearbeitung
 der Ressource.\
 Ist eine Hauptressource angelegt können im linken Bildschirmabschnitt
-über das ![Plusbutton](../../images/buttons/Plusbutton.png) neue Ressourcen hinzugefügt werden. Diese beinhalten unter
+über das ![Plusbutton](../buttons/Plusbutton.png) neue Ressourcen hinzugefügt werden. Diese beinhalten unter
 anderem Befunde, Funde, Gräber, Architektur, Bohrungen, Proben u.s.w.\
 Jedes ist mit einem eigenen Symbol mit Anfangsbuchstaben gekennzeichnet.
 
-![handbuch_ressourcen_01](images/screenshots/handbuch_ressourcen_01.png)
+![handbuch_ressourcen_01](../images/handbuch_ressourcen_01.png)
 
 *Abb. 15: Anlegen von Hauptressourcen*
 
@@ -23,7 +23,7 @@ Dateneingabe.
 ### 6.1 Felder
 
 Unter manchen Feldern findet ein Feld ohne Eingabemöglichkeit mit einem
-kleinen, grauen „Hinzufügen“ und einem ![Plusbutton](../../images/buttons/Plusbutton.png). Dies öffnet ein weiteres
+kleinen, grauen „Hinzufügen“ und einem ![Plusbutton](../buttons/Plusbutton.png). Dies öffnet ein weiteres
 Fenster zur Eingabe exakter Information. Das Eingeben mehrerer Felder
 ist hier möglich.
 In manchen Feldern muss eine Auswahl aus einer bestehenden Tabelle
@@ -32,7 +32,7 @@ Hier werden durch die Eingabe von Anfangsbuchstaben Vorschläge gemacht.
 Einige Felder gestatten nur die Eingabe von Informationen in einem
 speziellen Format.
 Die Eingabe eines Wortes in einem Feld, welches nur Zahlen zulässt führt
-z.B. zu der Fehlermeldung ![Invalidbutton](../../images/buttons/Invalidbutton.png), welche lediglich bedeutet, dass eine
+z.B. zu der Fehlermeldung ![Invalidbutton](../buttons/Invalidbutton.png), welche lediglich bedeutet, dass eine
 Information nicht im korrekten Format eingegeben wurde.
 
 ### 6.2 Relationen
@@ -41,12 +41,12 @@ Beim Doppelklick auf eine Ressource, öffnet sich das
 Bearbeitungsfenster.
 Unter dem Reiter „Relationen“ können diese für die
 Ressource, in Verbindung zu anderen, eingetragen werden.\
-Unter den verschiedenen Auswahlmöglichkeiten befindet sich ein ![Plusbutton](../../images/buttons/Plusbutton.png)
+Unter den verschiedenen Auswahlmöglichkeiten befindet sich ein ![Plusbutton](../buttons/Plusbutton.png)
 Button. Durch einfaches Klicken öffnet sich ein Textfeld. Hier kann die
 Bezeichnung einer anderen Ressource eingegeben werden. Automaitische
 Vorschläge von den bereits bestehenden werden hier angezeigt. Einfaches
 Klicken darauf lässt die Relation entstehen.\
-Roter Button ![Löschenbutton](../../images/buttons/Löschenbutton.png) zur linken löscht die Relation.
+Roter Button ![Löschenbutton](../buttons/Löschenbutton.png) zur linken löscht die Relation.
 
 ### 6.3 Zuweisen von Ober- bzw. Subtypen
 
