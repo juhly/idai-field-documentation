@@ -1,6 +1,6 @@
 ## 9. Integration von 3D-Fotogrammetrien
 
-![handbuch_aus3D_01](images/screenshots/handbuch_aus3D_01.png)\
+![handbuch_aus3D_01](images/handbuch_aus3D_01.png)\
 *Abb. 23: Exporteinstellungen*
 
 Im Anschluss der Berechnung des 3D Modells, hier im
