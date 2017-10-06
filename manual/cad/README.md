@@ -15,14 +15,14 @@ Im Anschluss muss ein neues GRASS-Mapset erstellt werden. Der
 Eingabelayer muss ausgewählt und ein Ausgabelayer definiert werden. Nach
 drücken des „Start“ Buttons, kann das Ergebnis visualisiert werden.
 
-![handbuch_ausCAD_01](images/screenshots/handbuch_ausCAD_01.png)\
+![handbuch_ausCAD_01](images/handbuch_ausCAD_01.png)\
 *Abb. 19: Geometrien Prüfen*
 
 Vor dem umwandeln in Polygone muss die Datei durch das Tool bearbeitet
 werden. Hier werden alle noch frei stehenden Linien geschlossen, sodass
 sie weiter verarbeitet werden können.
 
-![handbuch_ausCAD_02](images/screenshots/handbuch_ausCAD_02.png)
+![handbuch_ausCAD_02](images/handbuch_ausCAD_02.png)
 *Abb. 20: v.Clean Bereinigungswerkzeug*
 
 Im Reiter „Cleaning Tool“ muss snap eingestellt sein. Dies ist nicht der
@@ -34,7 +34,7 @@ Die so entstandenen Layer können mit dem Tool „Linien zu Plygonen“, zu
 finden unter dem Reiter Vektor und dem Bereich Geometrie-Werkzeuge, in
 Polygone umgewandelt werden.
 
-![handbuch_ausCAD_03](images/screenshots/handbuch_ausCAD_03.png)
+![handbuch_ausCAD_03](images/handbuch_ausCAD_03.png)
 Abb. 21: Linien zu Polygonen
 
 Ein Problem stellen fehlende Außenlinien dar. Diese sind bei manchen
@@ -43,7 +43,7 @@ Beispiel. Hier muss für den Befund 026 eine Außenlinie definiert werden.
 Dies muss leider händisch erfolgen und ist vor der Anwendung Linien zu
 Polygon vor zu nehmen.
 
-![handbuch_ausCAD_04](images/screenshots/handbuch_ausCAD_04.png)
+![handbuch_ausCAD_04](images/handbuch_ausCAD_04.png)
 Abb. 22: Beispiel CAD-Plan
 
 Für die Integration in den iDAIfield Client müssen die Layer natürlich
