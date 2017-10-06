@@ -11,7 +11,7 @@ Ein GEOjson kann im bspl. Im QGIS einfach erstellt werden in dem per
 Rechtsklick auf den Layer „Speichern als“ und dann GEOjson ausgewählt
 wird.
 
-![handbuch_ausGIS_01](images/screenshots/handbuch_ausGIS_01.png)
+![handbuch_ausGIS_01](images/handbuch_ausGIS_01.png)
 
 *Abb. 16: Speichern als GEOjson*
 
@@ -38,7 +38,7 @@ der Speicherort festgelegt und das Speichermedium geoJSON ausgewählt.
 Mit Run wird der Prozess in Gang gesetzt. Das gespeicherte geoJSON kann
 nun als Multigeometrie in den Client importiert werden.
 
-![handbuch_ausGIS_02](images/screenshots/handbuch_ausGIS_02.png)
+![handbuch_ausGIS_02](images/handbuch_ausGIS_02.png)
 
 *Abb. 17: Ein- zu Mehrteilig, QGIS*
 
@@ -55,7 +55,7 @@ Weitere Einstellungsmöglichkeiten und Erklärungen sind ausführlich im
 offiziellen Handbuch zu finden, welches zweisprachig jeder Survey 2 GIS
 Version als PDF beiliegt.
 
-![handbuch_ausGIS_03](images/screenshots/handbuch_ausGIS_03.png)
+![handbuch_ausGIS_03](images/handbuch_ausGIS_03.png)
 
 *Abb. 18: Arbeitsoberfläche Survey 2 GIS*
 
