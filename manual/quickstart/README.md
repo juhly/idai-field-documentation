@@ -29,4 +29,4 @@ die Bilder.
 ![handbuch_quickstart_01](images/handbuch_quickstart_01.png)
 *Abb. 1: Anlegen eines neuen Projekts. Eingabe des Bearbeiters/der Bearbeiterin*
 
-**Jetzt kann es losgehen. Viel Erfolg!**
+**Jetzt kann es losgehen. Viel Erfolg!** 
