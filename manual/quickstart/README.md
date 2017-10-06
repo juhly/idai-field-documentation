@@ -26,7 +26,7 @@ die Bilder.
 5. Es sollte ein eigenes Projekt angelegt werden\
 *(siehe: Abschnitt 4.1 Anlegen eines neuen Projekts)*
 
-![handbuch_quickstart_01](images/screenshots/handbuch_quickstart_01.png)
+![handbuch_quickstart_01](images/handbuch_quickstart_01.png)
 *Abb. 1: Anlegen eines neuen Projekts. Eingabe des Bearbeiters/der Bearbeiterin*
 
 **Jetzt kann es losgehen. Viel Erfolg!**
