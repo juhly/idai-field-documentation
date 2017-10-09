@@ -31,6 +31,6 @@
      + [7.1 Importieren von Multigeometrien](#71-importieren-von-multigeometrien)
      + [7.2 Verwendung von Survey 2 GIS](#72-verwendung-von-survey-2-gis)
      + [7.2 Anwendung des Parsers](#72-anwendung-des-parsers)
-   * [8. Integration von Messdaten von AutoCAD zu iDAIfield 2.0](cad)
+   * [8. Integration von Messdaten aus AutoCAD](cad)
    * [9. Integration von 3D-Fotogrammetrien](3d)
    * [10. Verwendung von owncloud zur Bildverknüpfung im Client](owncloud)
