@@ -1,4 +1,3 @@
-﻿## 2.5 Bilder
 
 ![handbuch_pictures_01](images/handbuch_client_06.png)\
 *Abb 6: Typauswahl der Abbildung*
