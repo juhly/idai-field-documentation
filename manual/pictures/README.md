@@ -1,4 +1,3 @@
-﻿
 ## 2.5 Bilder
 
 ![handbuch_client_06](images/handbuch_client_06.png)\
