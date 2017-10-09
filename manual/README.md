@@ -25,7 +25,6 @@
      + [6.1 Felder](#61-felder)
      + [6.2 Relationen](#62-relationen)
      + [6.3 Zuweisen von Ober- bzw. Subtypen](#63-zuweisen-von-ober--bzw-subtypen)
- -[Arbeitsweisen](Workflow)
    * [7. Einfügen von Messplänen aus GIS](gis)
      + [7.1 Importieren von Multigeometrien](#71-importieren-von-multigeometrien)
      + [7.2 Verwendung von Survey 2 GIS](#72-verwendung-von-survey-2-gis)
