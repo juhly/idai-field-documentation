@@ -1,4 +1,4 @@
-## 2.5 Bilder
+## 3 Bilder
 
 ![handbuch_client_06](images/handbuch_client_06.png)\
 *Abb 6: Typauswahl der Abbildung*
