@@ -65,7 +65,7 @@ weitere Survey-Areale hinzugefügt ![Surveyplusbutton](../buttons/Surveyplusbutt
 ![Bearbeitungsbutton](../buttons/Bearbeitungsbutton.png).\
 *(siehe: Abschnitt 6 Anlegen von Ressourcen)*
 
-### 2.8 Einstellungen
+### 2.5 Einstellungen
 
 Im Einstellungs-Fenster wird der/die aktuelle BenutzerIn, also
 BearbeiterIn eingetragen. Diese Information wird automatisch in die
