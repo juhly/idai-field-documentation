@@ -1,5 +1,6 @@
+﻿## 3 Bilder
 
-![handbuch_pictures_01](images/handbuch_client_06.png)\
+![handbuch_pictures_01](images/handbuch_pictures_01.png)\
 *Abb 6: Typauswahl der Abbildung*
 
 Hier können Abbildungen hinzugefügt werden. Nach dem Klicken auf den
@@ -12,7 +13,7 @@ oder Abbildung handelt (Abb. 6)\
 Nun kann die Abbildung mit einer oder mehreren Ressourcen verknüpft werden ![Verlinkungsbutton](../buttons/Verlinkungsbutton.png).\
 Anschließend kann die abgebildete Ressource ausgewählt werden (Abb. 7/8).
 
-![handbuch_client_07](images/handbuch_pictures_02.png)
+![handbuch_pictures_07](images/handbuch_pictures_02.png)
 *Abb 7: Zuweisung von Ressourcen*
 
 Zudem können selbstverständlich mit ![Bearbeitungsbutton](../buttons/Bearbeitungsbutton.png) weitere
@@ -26,13 +27,13 @@ werden. Anschließend ändert sich die Anzeige bei Georeferenzdaten in ![wldLös
 Wichtig ist hier, dass eine Kurzbeschreibung vorhanden ist, welche als
 Überschrift der Basiskarten verwendet wird.
 
-![handbuch_client_08](images/handbuch_pictures_03.png)
+![handbuch_pictures_08](images/handbuch_pictures_03.png)
 *Abb 8: Foto mit verknüpfter Ressource*
 
-![handbuch_client_09](images/handbuch_pictures_04.png)
+![handbuch_pictures_09](images/handbuch_pictures_04.png)
 *Abb 9: Hintergrundkarte*
 
-![handbuch_client_09.1](images/handbuch_pictures_05.png)\
+![handbuch_pictures_09.1](images/handbuch_pictures_05.png)\
 *Abb 9.1: Georeferenzbildschirm*
 
 Jeder Layer kann an- und ausgeschaltet ![Sichtbarkeitsbutton](../buttons/Sichtbarkeitsbutton.png) und zentriert
