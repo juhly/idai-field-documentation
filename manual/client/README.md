@@ -65,31 +65,6 @@ weitere Survey-Areale hinzugefügt ![Surveyplusbutton](../buttons/Surveyplusbutt
 ![Bearbeitungsbutton](../buttons/Bearbeitungsbutton.png).\
 *(siehe: Abschnitt 6 Anlegen von Ressourcen)*
 
-### 2.6 Import
-
-Der Import lässt verschiedene Dateitypen zu (Quelle: Datei). Der Pfad
-für die betreffende Datei muss ausgewählt werden. Im Falle eines Imports
-aus einer iDAI.field-Datei (jsonl) kann der Import ohne weitere
-vorherige Maßnahmen durchgeführt werden. Soll eine GEOjson importiert
-werden, ist ein Feld „identifier“ in der Datei **notwendig.** Zudem muss
-die Ressource bereits im Client existieren, mit identischem Bezeichner.
-Anschließend erfolgt eine Meldung, wie viele Ressourcen importiert
-wurden. Existiert die Bezeichnung des Feldes „identifier „ als
-Ressource, wird diese automatisch den eingeladenen Zeichnungen
-zugeordnet.
-
-![handbuch_client_10](images/handbuch_client_10.png)
-*Abb 10: Importfenster*
-
-### 2.7 Export
-
-Hier kann das gesamte Projekt exportiert werden. Die Dateiendung ist
-.jsonl. Diese kann bequem in den Client importiert werden, auch ohne das
-vorherige Anlegen von Ressourcen.
-
-![handbuch_client_11](images/handbuch_client_11.png)
-*Abb. 11: Exportfenster*
-
 ### 2.8 Einstellungen
 
 Im Einstellungs-Fenster wird der/die aktuelle BenutzerIn, also
@@ -97,5 +72,5 @@ BearbeiterIn eingetragen. Diese Information wird automatisch in die
 Datensätze geschrieben. Das Feld sollte nicht leer bleiben.\
 *(siehe: Abschnitt 3 Synchronisation mit anderen Clien(s))*
 
-![handbuch_client_12](images/handbuch_client_12.png)
+![handbuch_client_06](images/handbuch_client_06.png)
 *Abb. 12: Einstellungsfenster*
