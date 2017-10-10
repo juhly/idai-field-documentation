@@ -1,7 +1,7 @@
 ﻿## 8. Anlegen von Ressourcen
 
 Je nach Reiter, Ausgrabung, Bauaufnahme oder Survey, wird über das
-Symbol ![Plusbutton](../buttons/Plusbutton.png) im linken Bereich der zweiten Zeile ein neuer Schnitt, neues
+Symbol ![Plusbutton](../buttons/Plusbutton.png) im unteren Bereich Bereich des Ressourcensymbols ein neuer Schnitt, neues
 Bauwerk oder Survey angelegt.
 Nach dem Speichern der Ressource wird diese im Auswahlfenster links
 angezeigt. Hier kann zwischen verschiedenen Schnitten, Bauwerken oder
