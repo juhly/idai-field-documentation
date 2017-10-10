@@ -1,7 +1,7 @@
 ﻿## 2. Der Client und seine Ansichten
 
 ![handbuch_client_01](images/handbuch_client_01.png)
-*Abb. 2: Der Übersichtsbildschirm*
+*Abb. 1: Der Übersichtsbildschirm*
 
 Startseite des Clients. In diesem Bereich werden die verschiedenen Menü-Ebenen beschrieben. Rechts oben wird angezeigt, ob der Client zu einem anderen oder zum Server synchronisiert ![Synchbutton](../buttons/Synchbutton.png)
 sowie der Projektname (Tutorial).\
@@ -31,12 +31,12 @@ weitere Schnitte hinzugefügt ![Schnittplusbutton](../buttons/Schnittplusbutton.
 *(siehe: Abschnitt 6 Anlegen von Ressourcen)*
 
 ![handbuch_client_03](images/handbuch_client_03.png)
-*Abb 3: Der Ausgrabungs-Bildschirm*
+*Abb 2: Der Ausgrabungs-Bildschirm*
 
 ### 2.3 Bauaufnahme
 
 ![handbuch_client_04](images/handbuch_client_04.png)
-*Abb 4: Der Bauaufnahme-Bildschirm*
+*Abb 3: Der Bauaufnahme-Bildschirm*
 
 Der Bauaufnahme-Bildschirm: Hier können alle Ressourcen innerhalb von
 Bauaufnahmen eingesehen und bearbeitet werden. Die Zuordnung zur
@@ -52,7 +52,7 @@ weitere Bauaufnahmen hinzugefügt ![Bauaufnahmeplusbutton](../../images/buttons/
 ### 2.4 Survey
 
 ![handbuch_client_05](images/handbuch_client_05.png)
-*Abb 5: Der Survey-Bildschirm
+*Abb 4: Der Survey-Bildschirm
 
 Der Survey-Bildschirm: Hier können alle Ressourcen innerhalb eines
 Survey-Areals eingesehen und bearbeitet werden. Die Zuordnung zum
@@ -73,4 +73,4 @@ Datensätze geschrieben. Das Feld sollte nicht leer bleiben.\
 *(siehe: Abschnitt 3 Synchronisation mit anderen Clien(s))*
 
 ![handbuch_client_06](images/handbuch_client_06.png)
-*Abb. 12: Einstellungsfenster*
+*Abb. 5: Einstellungsfenster*

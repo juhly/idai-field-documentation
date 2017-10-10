@@ -1,4 +1,4 @@
-## 6. Anlegen von Ressourcen
+﻿## 6. Anlegen von Ressourcen
 
 Je nach Reiter, Ausgrabung, Bauaufnahme oder Survey, wird über das
 Symbol ![Plusbutton](../buttons/Plusbutton.png) im linken Bereich der zweiten Zeile ein neuer Schnitt, neues
@@ -14,7 +14,7 @@ Jedes ist mit einem eigenen Symbol mit Anfangsbuchstaben gekennzeichnet.
 
 ![handbuch_ressourcen_01](images/handbuch_ressourcen_01.png)
 
-*Abb. 15: Anlegen von Hauptressourcen*
+*Abb. 1: Anlegen von Hauptressourcen*
 
 Bei der Auswahl einer neuen Ressource öffnet sich das Fenster zur
 Eingabe einer Geometrie und nach der Auswahl, dass Fenster zur

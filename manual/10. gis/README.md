@@ -1,4 +1,4 @@
-## 7. Einfügen von Messplänen aus GIS
+﻿## 7. Einfügen von Messplänen aus GIS
 
 Wie im *(Abschnitt 2.6 Import)* bereits beschrieben ist es möglich GEOjson Dateien
 in die Datenbank einzuladen. Dies betrifft in der Regel Pläne und ist
@@ -13,7 +13,7 @@ wird.
 
 ![handbuch_ausGIS_01](images/handbuch_ausGIS_01.png)
 
-*Abb. 16: Speichern als GEOjson*
+*Abb. 1: Speichern als GEOjson*
 
 ### 7.1 Importieren von Multigeometrien
 
@@ -40,7 +40,7 @@ nun als Multigeometrie in den Client importiert werden.
 
 ![handbuch_ausGIS_02](images/handbuch_ausGIS_02.png)
 
-*Abb. 17: Ein- zu Mehrteilig, QGIS*
+*Abb. 2: Ein- zu Mehrteilig, QGIS*
 
 ### 7.2 Verwendung von Survey 2 GIS
 
@@ -57,7 +57,7 @@ Version als PDF beiliegt.
 
 ![handbuch_ausGIS_03](images/handbuch_ausGIS_03.png)
 
-*Abb. 18: Arbeitsoberfläche Survey 2 GIS*
+*Abb. 3: Arbeitsoberfläche Survey 2 GIS*
 
 ### 7.2 Anwendung des Parsers
 

@@ -1,4 +1,4 @@
-## 3. Synchronisation mit anderen Client(s)
+﻿## 3. Synchronisation mit anderen Client(s)
 
 Der Client kann stets mit einem, oder mehreren anderen Clients verbunden
 und Synchronisiert werden. Das Symbol ![Synchbutton](../buttons/Synchbutton.png) zeigt an, ob der Client
@@ -29,7 +29,7 @@ allerdings zu fehlern führen.
 ### 3.3 Synchronisation über den Server field.dainst.org
 
 ![handbuch_synchronisation_01](images/handbuch_synchronisation_01.png)
-*Abb 13: Synchronisationseinstellungen*
+*Abb 1: Synchronisationseinstellungen*
 
 Zuerst müssen die Mitarbeiterinnnen und Mitarbeiter des
 IT-Referats des DAI ein Projekt auf dem Server anlegen. Bei der
