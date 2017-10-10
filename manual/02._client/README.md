@@ -44,7 +44,7 @@ Bauaufnahme wird automatisch vorgenommen, weitere Ressourcen werden
 immer innerhalb einer Bauaufnahme angelegt.
 Jede Ressource kann ausgewählt werden, auf der rechten Seite wird eine
 Übersicht der eingetragenen Felder und deren Attribute angezeigt. Das
-Anlegen von Ressourcen geschieht über den ![Plusbutton]../buttons/Plusbutton.png) Button. Zudem können
+Anlegen von Ressourcen geschieht über den ![Plusbutton](../buttons/Plusbutton.png) Button. Zudem können
 weitere Bauaufnahmen hinzugefügt ![Bauaufnahmeplusbutton](../buttons/Bauaufnahmeplusbutton.png) und bearbeitet werden
 ![Bearbeitungsbutton](../buttons/Bearbeitungsbutton.png).\
 *(siehe: Abschnitt 8 Anlegen von Ressourcen)*
