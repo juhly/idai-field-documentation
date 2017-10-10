@@ -1,4 +1,4 @@
-﻿## 2.6 Import
+﻿## 4.1 Import
 
 Der Import lässt verschiedene Dateitypen zu (Quelle: Datei). Der Pfad
 für die betreffende Datei muss ausgewählt werden. Im Falle eines Imports
@@ -14,7 +14,7 @@ zugeordnet.
 ![handbuch_client_10](images/handbuch_import_01.png)
 *Abb 1: Importfenster*
 
-## 2.7 Export
+## 4.2 Export
 
 Hier kann das gesamte Projekt exportiert werden. Die Dateiendung ist
 .jsonl. Diese kann bequem in den Client importiert werden, auch ohne das

@@ -1,6 +1,4 @@
-# Kapitel 1
-
-## 1. Quickstart
+﻿## 1. Quickstart
 
 1. Bei der Inbetriebnahme des Clients ist standardmäßig ein Projekt
 „Test“ ausgewählt. Dies kann zu Testzwecken verwendet werde, wobei

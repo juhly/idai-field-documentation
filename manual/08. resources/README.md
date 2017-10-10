@@ -1,4 +1,4 @@
-﻿## 6. Anlegen von Ressourcen
+﻿## 8. Anlegen von Ressourcen
 
 Je nach Reiter, Ausgrabung, Bauaufnahme oder Survey, wird über das
 Symbol ![Plusbutton](../buttons/Plusbutton.png) im linken Bereich der zweiten Zeile ein neuer Schnitt, neues
@@ -20,7 +20,7 @@ Bei der Auswahl einer neuen Ressource öffnet sich das Fenster zur
 Eingabe einer Geometrie und nach der Auswahl, dass Fenster zur
 Dateneingabe.
 
-### 6.1 Felder
+### 8.1 Felder
 
 Unter manchen Feldern findet ein Feld ohne Eingabemöglichkeit mit einem
 kleinen, grauen „Hinzufügen“ und einem ![Plusbutton](../buttons/Plusbutton.png). Dies öffnet ein weiteres
@@ -35,7 +35,7 @@ Die Eingabe eines Wortes in einem Feld, welches nur Zahlen zulässt führt
 z.B. zu der Fehlermeldung ![Invalidbutton](../buttons/Invalidbutton.png), welche lediglich bedeutet, dass eine
 Information nicht im korrekten Format eingegeben wurde.
 
-### 6.2 Relationen
+### 8.2 Relationen
 
 Beim Doppelklick auf eine Ressource, öffnet sich das
 Bearbeitungsfenster.
@@ -48,7 +48,7 @@ Vorschläge von den bereits bestehenden werden hier angezeigt. Einfaches
 Klicken darauf lässt die Relation entstehen.\
 Roter Button ![Löschenbutton](../buttons/Löschenbutton.png) zur linken löscht die Relation.
 
-### 6.3 Zuweisen von Ober- bzw. Subtypen
+### 8.3 Zuweisen von Ober- bzw. Subtypen
 
 Es ist möglich, Ressoucen vom Typ Stratigrafische Einheit beispielsweise
 einem spezielleren Typ zuzuweisen (beispielsweise Grab). Dies trifft nur
