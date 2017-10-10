@@ -12,6 +12,8 @@
      + [2.5 Einstellungen](client#28-einstellungen)
    * [3. Bilder](pictures)
    * [4. Import und Export](import-and-export)
+     + [4.1 Übersicht](import-and-export#41-import)
+     + [4.2 Export](import-and-export#42-export)
    * [5. Synchronisation mit anderen Client(s)](sync)
      + [5.1 Synchronisation mit einem anderen Client](sync#51-synchronisation-mit-einem-anderen-client)
      + [5.2 Synchronisation mit mehreren Clients](sync#52-synchronisation-mit-mehreren-clients)
