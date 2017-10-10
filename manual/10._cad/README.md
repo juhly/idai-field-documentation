@@ -16,14 +16,14 @@ Eingabelayer muss ausgewählt und ein Ausgabelayer definiert werden. Nach
 drücken des „Start“ Buttons, kann das Ergebnis visualisiert werden.
 
 ![handbuch_ausCAD_01](images/handbuch_ausCAD_01.png)\
-*Abb. 1: Geometrien Prüfen*
+*Abb. 20: Geometrien Prüfen*
 
 Vor dem umwandeln in Polygone muss die Datei durch das Tool bearbeitet
 werden. Hier werden alle noch frei stehenden Linien geschlossen, sodass
 sie weiter verarbeitet werden können.
 
 ![handbuch_ausCAD_02](images/handbuch_ausCAD_02.png)
-*Abb. 2: v.Clean Bereinigungswerkzeug*
+*Abb. 21: v.Clean Bereinigungswerkzeug*
 
 Im Reiter „Cleaning Tool“ muss snap eingestellt sein. Dies ist nicht der
 Standard. Bei „Threshold“ wird die Entfernung eingegeben in welcher
@@ -35,7 +35,7 @@ finden unter dem Reiter Vektor und dem Bereich Geometrie-Werkzeuge, in
 Polygone umgewandelt werden.
 
 ![handbuch_ausCAD_03](images/handbuch_ausCAD_03.png)
-Abb. 3: Linien zu Polygonen
+Abb. 22: Linien zu Polygonen
 
 Ein Problem stellen fehlende Außenlinien dar. Diese sind bei manchen
 CAD-Zeichnungen nicht unbedingt vorhanden, wie im unten angegebenen
@@ -44,7 +44,7 @@ Dies muss leider händisch erfolgen und ist vor der Anwendung Linien zu
 Polygon vor zu nehmen.
 
 ![handbuch_ausCAD_04](images/handbuch_ausCAD_04.png)
-Abb. 4: Beispiel CAD-Plan
+Abb. 23: Beispiel CAD-Plan
 
 Für die Integration in den iDAIfield Client müssen die Layer natürlich
 mit einem Identifier-Feld versehe werden. Sollen Befundnummern mit

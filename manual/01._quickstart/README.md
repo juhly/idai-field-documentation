@@ -3,7 +3,7 @@
 1. Bei der Inbetriebnahme des Clients ist standardmäßig ein Projekt
 „Test“ ausgewählt. Dies kann zu Testzwecken verwendet werde, wobei
 angelegte Daten nach einem Neustart des Clients gelöscht werden.\
-*(siehe: Abschnitt 4.1 Anlegen eines neuen Projekts)*
+*(siehe: Abschnitt 7 Anlegen eines neuen Projekts)*
 
 2. Der Benutzername sollte unbedingt eingegeben werden. Diese geschieht
 unter Einstellungen: Benutzereinstellungen. Diese Information wird
@@ -22,7 +22,7 @@ ein Export durchgeführt werden. Das gleiche gilt selbstverständlich für
 die Bilder.
 
 5. Es sollte ein eigenes Projekt angelegt werden\
-*(siehe: Abschnitt 4.1 Anlegen eines neuen Projekts)*
+*(siehe: Abschnitt 7 Anlegen eines neuen Projekts)*
 
 ![handbuch_quickstart_01](images/handbuch_quickstart_01.png)
 *Abb. 1: Anlegen eines neuen Projekts. Eingabe des Bearbeiters/der Bearbeiterin*

@@ -11,8 +11,8 @@ wurden. Existiert die Bezeichnung des Feldes „identifier „ als
 Ressource, wird diese automatisch den eingeladenen Zeichnungen
 zugeordnet.
 
-![handbuch_client_10](images/handbuch_import_01.png)
-*Abb 1: Importfenster*
+![handbuch_import_01](images/handbuch_import_01.png)
+*Abb 12: Importfenster*
 
 ## 4.2 Export
 
@@ -20,5 +20,5 @@ Hier kann das gesamte Projekt exportiert werden. Die Dateiendung ist
 .jsonl. Diese kann bequem in den Client importiert werden, auch ohne das
 vorherige Anlegen von Ressourcen.
 
-![handbuch_client_11](images/handbuch_export_01.png)
-*Abb. 2: Exportfenster*
+![handbuch_export_01](images/handbuch_export_01.png)
+*Abb. 13: Exportfenster*

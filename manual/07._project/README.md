@@ -16,4 +16,4 @@ Zeile ist nötig zur Bestätigung. Das Projekt ist nachfolgend endgültig
 gelöscht.
 
 ![handbuch_projekt_01](images/handbuch_projekt_01.png)
-*Abb. 1: Anlegen eines neuen Projekts*
+*Abb. 15: Anlegen eines neuen Projekts*

@@ -29,7 +29,7 @@ allerdings zu fehlern führen.
 ### 5.3 Synchronisation über den Server field.dainst.org
 
 ![handbuch_synchronisation_01](images/handbuch_synchronisation_01.png)
-*Abb 1: Synchronisationseinstellungen*
+*Abb 14: Synchronisationseinstellungen*
 
 Zuerst müssen die Mitarbeiterinnnen und Mitarbeiter des
 IT-Referats des DAI ein Projekt auf dem Server anlegen. Bei der
