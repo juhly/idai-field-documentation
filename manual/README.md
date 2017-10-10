@@ -3,7 +3,7 @@
 ## Inhaltsverzeichnis
  **- [Funktion der Datenbank](#userdokumentation)**
    * [Inhaltsverzeichnis](#inhaltsverzeichnis)
-   * [1. Quickstart](01-quickstart)
+   * [1. Quickstart](1.-quickstart)
    * [2. Der Client und seine Ansichten](02.client)
      + [2.1 Übersicht](02.client#21--bersicht)
      + [2.2 Ausgrabung](02.client#22-ausgrabung)
