@@ -47,12 +47,12 @@ Jede Ressource kann ausgewählt werden, auf der rechten Seite wird eine
 Anlegen von Ressourcen geschieht über den ![Plusbutton](../../images/buttons/Plusbutton.png) Button. Zudem können
 weitere Bauaufnahmen hinzugefügt ![Bauaufnahmeplusbutton](../../images/buttons/Bauaufnahmeplusbutton.png) und bearbeitet werden
 ![Bearbeitungsbutton](../../images/buttons/Bearbeitungsbutton.png).\
-*(siehe: Abschnitt 8 Anlegen von Ressourcen)
+*(siehe: Abschnitt 8 Anlegen von Ressourcen)*
 
 ### 2.4 Survey
 
 ![handbuch_client_05](images/handbuch_client_05.png)
-*Abb 5: Der Survey-Bildschirm
+*Abb 5: Der Survey-Bildschirm*
 
 Der Survey-Bildschirm: Hier können alle Ressourcen innerhalb eines
 Survey-Areals eingesehen und bearbeitet werden. Die Zuordnung zum
