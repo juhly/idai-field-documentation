@@ -4,7 +4,7 @@
 *Abb. 2: Der Übersichtsbildschirm*
 
 Startseite des Clients. In diesem Bereich werden die verschiedenen Menü-Ebenen beschrieben. Rechts oben wird angezeigt, ob der Client zu einem anderen oder zum Server synchronisiert ![Synchbutton](../buttons/Synchbutton.png)
-sowie der Projektname (Tutorial).\
+sowie der Projektname (Beispiel).\
 *(siehe: Abschnitt 7 Das Projekt, Abschnitt 5 Synchronisation mit anderen Client(s))*
 
 ### 2.1 Übersicht
@@ -44,9 +44,9 @@ Bauaufnahme wird automatisch vorgenommen, weitere Ressourcen werden
 immer innerhalb einer Bauaufnahme angelegt.
 Jede Ressource kann ausgewählt werden, auf der rechten Seite wird eine
 Übersicht der eingetragenen Felder und deren Attribute angezeigt. Das
-Anlegen von Ressourcen geschieht über den ![Plusbutton](../../images/buttons/Plusbutton.png) Button. Zudem können
-weitere Bauaufnahmen hinzugefügt ![Bauaufnahmeplusbutton](../../images/buttons/Bauaufnahmeplusbutton.png) und bearbeitet werden
-![Bearbeitungsbutton](../../images/buttons/Bearbeitungsbutton.png).\
+Anlegen von Ressourcen geschieht über den ![Plusbutton]../images/buttons/Plusbutton.png) Button. Zudem können
+weitere Bauaufnahmen hinzugefügt ![Bauaufnahmeplusbutton](../images/buttons/Bauaufnahmeplusbutton.png) und bearbeitet werden
+![Bearbeitungsbutton](../images/buttons/Bearbeitungsbutton.png).\
 *(siehe: Abschnitt 8 Anlegen von Ressourcen)*
 
 ### 2.4 Survey
