@@ -1,7 +1,7 @@
 ﻿## 3 Bilder
 
 ![handbuch_pictures_01](images/handbuch_pictures_01.png)\
-*Abb 7: Typauswahl der Abbildung*
+*Abb 5: Typauswahl der Abbildung*
 
 Hier können Abbildungen hinzugefügt werden. Nach dem Klicken auf den
 „Abbildung hinzufügen“ Bereich, erfolgt eine Auwahl über den Browser.
@@ -14,7 +14,7 @@ Nun kann die Abbildung mit einer oder mehreren Ressourcen verknüpft werden ![Ve
 Anschließend kann die abgebildete Ressource ausgewählt werden (Abb. 8/9).
 
 ![handbuch_pictures_07](images/handbuch_pictures_02.png)
-*Abb 8: Zuweisung von Ressourcen*
+*Abb 6: Zuweisung von Ressourcen*
 
 Zudem können selbstverständlich mit ![Bearbeitungsbutton](../buttons/Bearbeitungsbutton.png) weitere
 Fotoattribute eingetragen werden. Ein weiteres Feature ist die Zuweisung
@@ -28,13 +28,13 @@ Wichtig ist hier, dass eine Kurzbeschreibung vorhanden ist, welche als
 Überschrift der Basiskarten verwendet wird.
 
 ![handbuch_pictures_08](images/handbuch_pictures_03.png)
-*Abb 9: Foto mit verknüpfter Ressource*
+*Abb 7: Foto mit verknüpfter Ressource*
 
 ![handbuch_pictures_09](images/handbuch_pictures_04.png)
-*Abb 10: Hintergrundkarte*
+*Abb 8: Hintergrundkarte*
 
 ![handbuch_pictures_09.1](images/handbuch_pictures_05.png)\
-*Abb 11: Georeferenzbildschirm*
+*Abb 9: Georeferenzbildschirm*
 
 Jeder Layer kann an- und ausgeschaltet ![Sichtbarkeitsbutton](../buttons/Sichtbarkeitsbutton.png) und zentriert
 ![Zentrierenbutton](../buttons/Zentrierenbutton.png) werden.

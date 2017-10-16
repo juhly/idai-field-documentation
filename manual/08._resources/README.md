@@ -14,7 +14,7 @@ Jedes ist mit einem eigenen Symbol mit Anfangsbuchstaben gekennzeichnet.
 
 ![handbuch_ressourcen_01](images/handbuch_ressourcen_01.png)
 
-*Abb. 16: Anlegen von Hauptressourcen*
+*Abb. 14: Anlegen von Hauptressourcen*
 
 Bei der Auswahl einer neuen Ressource öffnet sich das Fenster zur
 Eingabe einer Geometrie und nach der Auswahl, dass Fenster zur
