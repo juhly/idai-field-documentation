@@ -18,7 +18,7 @@ können nur Haupttypen angelegt werden. Schnitte, Bauaufnahmen, Survey
 Areale und Orte.\
 *(siehe: Abschnitt 8 Anlegen von Ressourcen)*
 
-### 2.2 Maßnahme
+### 2.2 Maßnahmen
 
 Die drei Maßnahmen Ausgrabung, Bauaufnahmen und Survey, werden über gleichnamige Reiter in der oberen Leiste ausgewählt.\
 In diesen Bereichen können alle Ressourcen eingesehen und bearbeitet werden. Die Zuordnung zur Maßnahme erfolgt automatisch, weitere Ressourcen werden immer innerhalb einer Maßnahme angelegt.\
