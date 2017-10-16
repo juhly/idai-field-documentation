@@ -32,7 +32,7 @@ weitere Schnitte, Bauaufnahmen oder Surveys über ![Schnittplusbutton](../button
 ![handbuch_client_03](images/handbuch_client_03.png)
 *Abb 3: Der Maßnahme-Bildschirm*
 
-### 2.5 Einstellungen
+### 2.3 Einstellungen
 
 Im Einstellungs-Fenster wird der/die aktuelle BenutzerIn, also
 BearbeiterIn eingetragen. Diese Information wird automatisch in die
