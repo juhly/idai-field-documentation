@@ -8,7 +8,7 @@
      + [3.1 Übersicht](03._client-and-ressources#31--bersicht)
      + [3.2 Maßnahmen](03._client-and-ressources#32-maßnahmen)
      + [3.3 Einstellungen](03._client-and-ressources#33-einstellungen)
-     + [3.4 Anlegen von Ressourcen](03._client-and-ressources#34-resources)
+     + [3.4 Anlegen von Ressourcen](03._client-and-ressources#34-Anlegen-von-Ressourcen)
      + [3.5 Felder](03._client-and-ressources#35-felder)
      + [3.6 Relationen](03._client-and-ressources#36-relationen)
      + [3.7 Zuweisen von Ober- bzw. Subtypen](03._client-and-ressources#37-zuweisen-von-ober--bzw-subtypen)
