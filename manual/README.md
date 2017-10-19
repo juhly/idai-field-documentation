@@ -1,17 +1,17 @@
-# Benutzerhandbuch
+﻿# Benutzerhandbuch
 
 ## Inhaltsverzeichnis
  **- [Funktion der Datenbank](#userdokumentation)**
    * [1. Quickstart](01._quickstart)
    * [2. Das Projekt](02._project)
-   * [3. Der Client und das Anlegen von Ressourcen](03._client-and-ressources)
-     + [3.1 Übersicht](03._client-and-ressources#31--bersicht)
-     + [3.2 Maßnahmen](03._client-and-ressources#32-maßnahmen)
-     + [3.3 Einstellungen](03._client-and-ressources#33-einstellungen)
-     + [3.4 Anlegen von Ressourcen](03._client-and-ressources#34-Anlegen-von-Ressourcen)
-     + [3.5 Felder](03._client-and-ressources#35-felder)
-     + [3.6 Relationen](03._client-and-ressources#36-relationen)
-     + [3.7 Zuweisen von Ober- bzw. Subtypen](03._client-and-ressources#37-zuweisen-von-ober--bzw-subtypen)
+   * [3. Der Client und das Anlegen von Ressourcen](03._client)
+     + [3.1 Übersicht](03._client#31--bersicht)
+     + [3.2 Maßnahmen](03._client#32-maßnahmen)
+     + [3.3 Einstellungen](03._client#33-einstellungen)
+     + [3.4 Anlegen von Ressourcen](03._client#34-Anlegen-von-Ressourcen)
+     + [3.5 Felder](03._client#35-felder)
+     + [3.6 Relationen](03._client#36-relationen)
+     + [3.7 Zuweisen von Ober- bzw. Subtypen](03._client#37-zuweisen-von-ober--bzw-subtypen)
    * [4. Bilder](04._pictures)
    * [5. Import und Export](05._import-and-export)
      + [5.1 Übersicht](05._import-and-export#51-import)
