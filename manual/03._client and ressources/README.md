@@ -1,4 +1,4 @@
-﻿## 3. Der Client und das Anlegen von Ressourcen
+## 3. Der Client und das Anlegen von Ressourcen
 
 ![handbuch_client_01](images/handbuch_client_01.png)
 *Abb. 3: Der Übersichtsbildschirm*
