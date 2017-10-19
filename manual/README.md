@@ -1,4 +1,4 @@
-﻿# Benutzerhandbuch
+# Benutzerhandbuch
 
 ## Inhaltsverzeichnis
  **- [Funktion der Datenbank](#userdokumentation)**
