@@ -1,4 +1,4 @@
-﻿## 7. Einfügen von Messplänen aus GIS
+﻿## 8. Einfügen von Messplänen aus GIS
 
 Wie im *(Abschnitt 4.1 Import)* bereits beschrieben ist es möglich GEOjson Dateien
 in die Datenbank einzuladen. Dies betrifft in der Regel Pläne und ist
@@ -13,9 +13,9 @@ wird.
 
 ![handbuch_ausGIS_01](images/handbuch_ausGIS_01.png)
 
-*Abb. 17: Speichern als GEOjson*
+*Abb. 15: Speichern als GEOjson*
 
-### 7.1 Importieren von Multigeometrien
+### 8.1 Importieren von Multigeometrien
 
 Sollten Fälle auftreten, bei denen es notwendig ist mehrere Strukturen
 einer Ressource mit einem identifier zuzuordnen, dann müssen diese
@@ -40,9 +40,9 @@ nun als Multigeometrie in den Client importiert werden.
 
 ![handbuch_ausGIS_02](images/handbuch_ausGIS_02.png)
 
-*Abb. 18: Ein- zu Mehrteilig, QGIS*
+*Abb. 16: Ein- zu Mehrteilig, QGIS*
 
-### 7.2 Verwendung von Survey 2 GIS
+### 8.2 Verwendung von Survey 2 GIS
 
 Für die Umsetzung einer Messung in GIS kann das Programm Survey 2 GIS
 verwendet werden. Dies setzt eingemessene Strukturen in GIS um, erstellt
@@ -57,9 +57,9 @@ Version als PDF beiliegt.
 
 ![handbuch_ausGIS_03](images/handbuch_ausGIS_03.png)
 
-*Abb. 19: Arbeitsoberfläche Survey 2 GIS*
+*Abb. 17: Arbeitsoberfläche Survey 2 GIS*
 
-### 7.2 Anwendung des Parsers
+### 8.2 Anwendung des Parsers
 
 Ein Parser besteht aus zwei Bereichen. Der erste betrifft die allgemeine
 Arbeitsweise des Parsers, der zweite besteht aus verschiedenen Blöcken.

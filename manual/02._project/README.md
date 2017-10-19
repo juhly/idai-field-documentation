@@ -1,4 +1,4 @@
-﻿## 7. Das Projekt
+﻿## 2. Das Projekt
 
 Zu Beginn der Arbeiten, nach der Installation des Clients ist die
 Datenbank leer.\
@@ -16,4 +16,4 @@ Zeile ist nötig zur Bestätigung. Das Projekt ist nachfolgend endgültig
 gelöscht.
 
 ![handbuch_projekt_01](images/handbuch_projekt_01.png)
-*Abb. 13: Anlegen eines neuen Projekts*
+*Abb. 2: Anlegen eines neuen Projekts*

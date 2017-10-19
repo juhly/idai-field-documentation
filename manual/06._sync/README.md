@@ -1,10 +1,10 @@
-﻿## 5. Synchronisation mit anderen Client(s)
+﻿## 6. Synchronisation mit anderen Client(s)
 
 Der Client kann stets mit einem, oder mehreren anderen Clients verbunden
 und Synchronisiert werden. Das Symbol ![Synchbutton](../buttons/Synchbutton.png) zeigt an, ob der Client
 derzeit verbunden ist. Durchgestrichene Wolke: Keine Verbindung. Durch einfaches klicken auf die Wolke werden die Synchronisationseinstellungen aufgerufen.
 
-### 5.1 Synchronisation mit einem anderen Client
+### 6.1 Synchronisation mit einem anderen Client
 
 Über den Reiter Einstellungen werden die
 „Synchronisierungseinstellungen“ eingegeben. Die Felder „Benutzer“ und
@@ -14,7 +14,7 @@ eingetragen werden.\
 Die Synchronisation läuft so lange, bis die Adresse aus dem Feld
 gelöscht und die Einstellungen übernommen werden.
 
-### 5.2 Synchronisation mit mehreren Clients
+### 6.2 Synchronisation mit mehreren Clients
 
 Bei der Synchronisation mit mehreren anderen Clients existieren zwei
 Möglichkeiten.\
@@ -26,10 +26,10 @@ Adresse des jeweils nächsten in den Einstellungen verwendet. Das
 Synchronisieren untereinander ist zwar bei zwei Clients möglich, könnte
 allerdings zu fehlern führen.
 
-### 5.3 Synchronisation über den Server field.dainst.org
+### 6.3 Synchronisation über den Server field.dainst.org
 
 ![handbuch_synchronisation_01](images/handbuch_synchronisation_01.png)
-*Abb 12: Synchronisationseinstellungen*
+*Abb 14: Synchronisationseinstellungen*
 
 Zuerst müssen die Mitarbeiterinnnen und Mitarbeiter des
 IT-Referats des DAI ein Projekt auf dem Server anlegen. Bei der
