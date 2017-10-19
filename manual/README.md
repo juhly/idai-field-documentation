@@ -22,7 +22,7 @@
      + [6.3 Synchronisation über den Server field.dainst.org](06._sync#63-synchronisation--ber-den-server-fielddainstorg)
    * [7. Grundlegende Funktionen](07._basics)
      + [7.1 Karten- und Listenansicht](07._basics#71-karten--und-listenansicht)
-     + [7.2 Suchen](07._basics#72-suchen)\
+     + [7.2 Suchen](07._basics#72-suchen)
      
 **- [Arbeitsweisen](#Workflow)**
    * [1. Einfügen von Messplänen aus GIS](09._gis)
