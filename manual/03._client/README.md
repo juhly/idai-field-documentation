@@ -56,7 +56,7 @@ Jedes ist mit einem eigenen Symbol mit Anfangsbuchstaben gekennzeichnet.
 
 ![handbuch_client_05](images/handbuch_client_05.png)
 
-*Abb. 6: Anlegen von Hauptressourcen*
+*Abb. 5: Anlegen von Hauptressourcen*
 
 Bei der Auswahl einer neuen Ressource öffnet sich das Fenster zur
 Eingabe einer Geometrie und nach der Auswahl, dass Fenster zur
