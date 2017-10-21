@@ -11,11 +11,11 @@ sowie der Projektname (Beispiel).\
 
 ![handbuch_client_02](images/handbuch_client_02.png)
 
-Der Übersichts-Bildschirm: Hier können Ressourcen
+Die Maßnahmen-Übersicht: Hier können Ressourcen
 angelegt werden und das gesamte Projekt überblicksartig betrachtet
 werden. Das Anlegen von Ressourcen geschieht über den ![Plusbutton](../buttons/Plusbutton.png) Button. Hier
-können nur Haupttypen angelegt werden. Schnitte, Bauaufnahmen, Survey
-Areale und Orte.\
+können Maßnahmen (Schnitte, Bauaufnahmen, Survey
+Areale) und Orte angelegt werden.\
 
 ### 3.2 Maßnahmen
 
