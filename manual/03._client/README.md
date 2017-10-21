@@ -7,7 +7,7 @@ Startseite des Clients. In diesem Bereich werden die verschiedenen Menü-Ebenen 
 sowie der Projektname (Beispiel).\
 *(siehe: Abschnitt 7 Das Projekt, Abschnitt 5 Synchronisation mit anderen Client(s))*
 
-### 3.1 Übersicht
+### 3.1 Die Maßnahmen-Übersicht
 
 ![handbuch_client_02](images/handbuch_client_02.png)
 
@@ -17,7 +17,7 @@ werden. Das Anlegen von Ressourcen geschieht über den ![Plusbutton](../buttons/
 können Maßnahmen (Schnitte, Bauaufnahmen, Survey
 Areale) und Orte angelegt werden.\
 
-### 3.2 Maßnahmen
+### 3.2 Die Maßnahmen-Ansichten
 
 Die drei Maßnahmen Ausgrabung, Bauaufnahmen und Survey, werden über gleichnamige Reiter in der oberen Leiste ausgewählt.\
 In diesen Bereichen können alle Ressourcen eingesehen und bearbeitet werden. Die Zuordnung zur Maßnahme erfolgt automatisch, weitere Ressourcen werden immer innerhalb einer Maßnahme angelegt.\
