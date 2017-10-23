@@ -21,7 +21,7 @@ Anschließend kann die abgebildete Ressource ausgewählt werden (Abb. 7/8).
 
 Zudem können selbstverständlich mit ![Bearbeitungsbutton](../buttons/Bearbeitungsbutton.png) weitere
 Fotoattribute eingetragen werden. Ein weiteres Feature ist die Zuweisung
-von Georeferenzdaten (Abb. 10/11), um Hintergrundkarten zu erstellen.
+von Georeferenzdaten (Abb. 9/10), um Hintergrundkarten zu erstellen.
 Hierfür wird eine Rastergrafik (.jpg) und eine .wld-Datei benötigt,
 welche die Koordinaten des Bildes enthält. Durch den Klick auf ![wldButton](../buttons/wldButton.png) kann
 das .wld hinzugefügt werden. Nun ist es als Hintergrundkarte verfügbar
