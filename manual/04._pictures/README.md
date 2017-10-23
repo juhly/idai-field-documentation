@@ -5,9 +5,12 @@
 
 Hier können Abbildungen hinzugefügt werden. Nach dem Klicken auf den
 „Abbildung hinzufügen“ Bereich, erfolgt eine Auwahl über den Browser.
-Nur das .jpg-Format wird gegenwärtig unterstützt. Alternativ die Bilder
+Unterstützt werden die Formate jpeg, bmp, png und gif. Alternativ die Bilder
 per drag-and-drop fallen lassen. Bitte beachten Sie, dass der image-Pfad
 gesetzt ist *(siehe: Quickstart)*\
+Die Bilder können auch direkt über die Ressource per drag-and-drop im Bilderbereich an der rechten Seite fallen gelassen werden.
+In diesem Fall wird das Bild automatisch mit der Ressource verknüpft. Ebenfalls ist es möglich die Bilder per drag-and-drop in die
+Listenansicht einzufügen und so automatisch den Ressourcen zuzuordnen.
 Nun kann ausgewählt werden, ob es sich um eine Zeichnung, Fotografie
 oder Abbildung handelt (Abb. 7)\
 Nun kann die Abbildung mit einer oder mehreren Ressourcen verknüpft werden ![Verlinkungsbutton](../buttons/Verlinkungsbutton.png).\
