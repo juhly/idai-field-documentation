@@ -25,7 +25,7 @@ Jede Ressource kann ausgewählt werden, auf der rechten Seite wird eine
 Übersicht der eingetragenen Felder und deren Attribute angezeigt. Das
 Anlegen von Ressourcen geschieht über den ![Plusbutton](../buttons/Plusbutton.png) Button. Zudem können
 weitere Schnitte, Bauaufnahmen oder Surveys über ![Schnittplusbutton](../buttons/Schnittplusbutton.png), ![Bauaufnahmeplusbutton](../buttons/Bauaufnahmeplusbutton.png) und
-![Surveyplusbutton](../buttons/Surveyplusbutton.png) hinzugefügt und bearbeitet werden ![Berbeitungsbutton](../buttons/Bearbeitungsbutton.png).\
+![Surveyplusbutton](../buttons/Surveyplusbutton.png) hinzugefügt und bearbeitet werden ![Berbeitungsbutton](../buttons/Bearbeitungsbutton.png).
 
 ![handbuch_client_03](images/handbuch_client_03.png)
 *Abb 4: Der Maßnahme-Bildschirm*
