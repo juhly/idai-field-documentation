@@ -15,7 +15,7 @@ Die Maßnahmen-Übersicht: Hier können Ressourcen
 angelegt werden und das gesamte Projekt überblicksartig betrachtet
 werden. Das Anlegen von Ressourcen geschieht über den ![Plusbutton](../buttons/Plusbutton.png) Button. Hier
 können Maßnahmen (Schnitte, Bauaufnahmen, Survey
-Areale) und Orte angelegt werden.\
+Areale) und Orte angelegt werden.
 
 ### 3.2 Die Maßnahmen-Ansichten
 
