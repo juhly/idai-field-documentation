@@ -12,9 +12,9 @@ Die Bilder können auch direkt über die Ressource per drag-and-drop im Bilderbe
 In diesem Fall wird das Bild automatisch mit der Ressource verknüpft. Ebenfalls ist es möglich die Bilder per drag-and-drop in die
 Listenansicht einzufügen und so automatisch den Ressourcen zuzuordnen.
 Nun kann ausgewählt werden, ob es sich um eine Zeichnung, Fotografie
-oder Abbildung handelt (Abb. 7)\
+oder Abbildung handelt (Abb. 6)\
 Nun kann die Abbildung mit einer oder mehreren Ressourcen verknüpft werden ![Verlinkungsbutton](../buttons/Verlinkungsbutton.png).\
-Anschließend kann die abgebildete Ressource ausgewählt werden (Abb. 8/9).
+Anschließend kann die abgebildete Ressource ausgewählt werden (Abb. 7/8).
 
 ![handbuch_pictures_07](images/handbuch_pictures_02.png)
 *Abb 7: Zuweisung von Ressourcen*
