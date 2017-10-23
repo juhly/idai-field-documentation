@@ -13,7 +13,6 @@ In diesem Fall wird das Bild automatisch mit der Ressource verknüpft. Ebenfalls
 Listenansicht einzufügen und so automatisch den Ressourcen zuzuordnen.
 Nun kann ausgewählt werden, ob es sich um eine Zeichnung, Fotografie
 oder Abbildung handelt (Abb. 6)\
-Über einen Regler oben rechts, kann die Größe der Bilder eingestellt werden.
 Nun kann die Abbildung mit einer oder mehreren Ressourcen verknüpft werden ![Verlinkungsbutton](../buttons/Verlinkungsbutton.png).\
 Anschließend kann die abgebildete Ressource ausgewählt werden (Abb. 7/8).
 
