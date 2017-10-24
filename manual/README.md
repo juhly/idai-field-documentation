@@ -13,6 +13,8 @@
      + [3.6 Relationen](03._client#36-relationen)
      + [3.7 Zuweisen von Ober- bzw. Subtypen](03._client#37-zuweisen-von-ober--bzw-subtypen)
    * [4. Bilder](04._pictures)
+     + [4.1 Einzelansicht und Relationen](04._pictures#41-Einzelansicht-und-Relationen)
+     + [4.2 World Files und Georeferenzierung](04._pictures#42-World-Files-und-Georeferenzierung)
    * [5. Import und Export](05._importexport)
      + [5.1 Übersicht](05._importexport#51-import)
      + [5.2 Export](05._importexport#52-export)
