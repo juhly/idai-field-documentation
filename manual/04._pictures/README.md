@@ -17,7 +17,7 @@ In der recten, oberen Ecke befindet sich ein Regler mit welchem die Bildgröße 
 Nun kann die Abbildung mit einer oder mehreren Ressourcen verknüpft werden ![Verlinkungsbutton](../buttons/Verlinkungsbutton.png).\
 Anschließend kann die abgebildete Ressource ausgewählt werden (Abb. 8/9).
 
-![handbuch_pictures_02](images/handbuch_pictures_02.png)
+![handbuch_pictures_02](images/handbuch_pictures_02.png)\
 *Abb 7: Hinzufügen in der Maßnahmenansicht*
 
 ![handbuch_pictures_03](images/handbuch_pictures_03.png)
@@ -40,7 +40,7 @@ hier das Bild vergrößert. In beiden Fällen stehen am rechten Rand die
 Bildinformationen zur Verfügung. Über ![Bearbeitungsbutton](../buttons/Bearbeitungsbutton.png) und den Reiter „Relationen“
 lassen sich die Verknüpfungen anzeigen und löschen.
 
-![handbuch_pictures_05](images/handbuch_pictures_05.png)
+![handbuch_pictures_05](images/handbuch_pictures_05.png)\
 *Abb 10: Verknüpfte Ressource*
 
 ### 4.2 World Files und Georeferenzierung
