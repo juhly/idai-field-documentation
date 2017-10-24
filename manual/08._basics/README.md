@@ -1,6 +1,6 @@
-﻿## 7. Grundlegende Funktionen
+﻿## 8. Grundlegende Funktionen
 
-### 7.1 Karten- und Listenansicht
+### 8.1 Karten- und Listenansicht
 
 In der oberen, rechten Ecke kann zwischen einer Karten- und einer
 Listenansicht unterschieden werden. Die Kartenansicht (Standard) zeigt
@@ -12,7 +12,7 @@ angelegten Ressourcen\
 Die erste Übersicht enthält hierbei eine kleine Auswahl an Informationen
 wie die Bezeichnung und die Kurzbeschreibung.
 
-### 7.2 Suchen
+### 8.2 Suchen
 
 In der Suchleiste ist es möglich, nach Namen von Ressourcen oder nach
 Teilbegriffen zu suchen.\

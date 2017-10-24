@@ -1,6 +1,6 @@
-## 5. Import und Export
+﻿## 6. Import und Export
 
-### 5.1 Import
+### 6.1 Import
 
 Der Import lässt verschiedene Dateitypen zu (Quelle: Datei). Der Pfad
 für die betreffende Datei muss ausgewählt werden. Im Falle eines Imports
@@ -14,13 +14,13 @@ Ressource, wird diese automatisch den eingeladenen Zeichnungen
 zugeordnet.
 
 ![handbuch_import_01](images/handbuch_import_01.png)
-*Abb 11: Importfenster*
+*Abb 14: Importfenster*
 
-### 5.2 Export
+### 6.2 Export
 
 Hier kann das gesamte Projekt exportiert werden. Die Dateiendung ist
 .jsonl. Diese kann bequem in den Client importiert werden, auch ohne das
 vorherige Anlegen von Ressourcen.
 
 ![handbuch_export_01](images/handbuch_export_01.png)
-*Abb. 12: Exportfenster*
+*Abb. 15: Exportfenster*

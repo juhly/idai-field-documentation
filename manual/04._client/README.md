@@ -1,13 +1,13 @@
-## 3. Das Arbeiten mit Ressourcen
+﻿## 4. Das Arbeiten mit Ressourcen
 
 ![handbuch_client_01](images/handbuch_client_01.png)
-*Abb. 3: Der Übersichtsbildschirm*
+*Abb. 4: Der Übersichtsbildschirm*
 
 Startseite des Clients. In diesem Bereich werden die verschiedenen Menü-Ebenen beschrieben. Rechts oben wird angezeigt, ob der Client zu einem anderen oder zum Server synchronisiert ![Synchbutton](../buttons/Synchbutton.png)
 sowie der Projektname (Beispiel).\
 *(siehe: Abschnitt 7 Das Projekt, Abschnitt 5 Synchronisation mit anderen Client(s))*
 
-### 3.1 Die Maßnahmen-Übersicht
+### 4.1 Die Maßnahmen-Übersicht
 
 ![handbuch_client_02](images/handbuch_client_02.png)
 
@@ -17,7 +17,7 @@ werden. Das Anlegen von Ressourcen geschieht über den ![Plusbutton](../buttons/
 können Maßnahmen (Schnitte, Bauaufnahmen, Survey
 Areale) und Orte angelegt werden.
 
-### 3.2 Die Maßnahmen-Ansichten
+### 4.2 Die Maßnahmen-Ansichten
 
 Die drei Maßnahmen Ausgrabung, Bauaufnahmen und Survey, werden über gleichnamige Reiter in der oberen Leiste ausgewählt.\
 In diesen Bereichen können alle Ressourcen eingesehen und bearbeitet werden. Die Zuordnung zur Maßnahme erfolgt automatisch, weitere Ressourcen werden immer innerhalb einer Maßnahme angelegt.\
@@ -28,19 +28,9 @@ weitere Schnitte, Bauaufnahmen oder Surveys über ![Schnittplusbutton](../button
 ![Surveyplusbutton](../buttons/Surveyplusbutton.png) hinzugefügt und bearbeitet werden ![Berbeitungsbutton](../buttons/Bearbeitungsbutton.png).
 
 ![handbuch_client_03](images/handbuch_client_03.png)
-*Abb 4: Der Maßnahme-Bildschirm*
+*Abb 5: Der Maßnahme-Bildschirm*
 
-### 3.3 Einstellungen
-
-Im Einstellungs-Fenster wird der/die aktuelle BenutzerIn, also
-BearbeiterIn eingetragen. Diese Information wird automatisch in die
-Datensätze geschrieben. Das Feld sollte nicht leer bleiben.\
-*(siehe: Abschnitt 5 Synchronisation mit anderen Clien(s))*
-
-![handbuch_client_04](images/handbuch_client_04.png)
-*Abb. 5: Einstellungsfenster*
-
-### 3.4 Anlegen von Ressourcen
+### 4.4 Anlegen von Ressourcen
 
 Je nach Reiter, Ausgrabung, Bauaufnahme oder Survey, wird über das
 Symbol ![Plusbutton](../buttons/Plusbutton.png) im unteren Bereich Bereich des Ressourcensymbols ein neuer Schnitt, neues
@@ -54,15 +44,15 @@ Ist eine Hauptressource angelegt können im linken Bildschirmabschnitt
 anderem Befunde, Funde, Gräber, Architektur, Bohrungen, Proben u.s.w.\
 Jedes ist mit einem eigenen Symbol mit Anfangsbuchstaben gekennzeichnet.
 
-![handbuch_client_05](images/handbuch_client_05.png)
+![handbuch_client_04](images/handbuch_client_04.png)
 
-*Abb. 5: Anlegen von Hauptressourcen*
+*Abb. 6: Anlegen von Hauptressourcen*
 
 Bei der Auswahl einer neuen Ressource öffnet sich das Fenster zur
 Eingabe einer Geometrie und nach der Auswahl, dass Fenster zur
 Dateneingabe.
 
-### 3.5 Felder
+### 4.5 Felder
 
 Unter manchen Feldern findet ein Feld ohne Eingabemöglichkeit mit einem
 kleinen, grauen „Hinzufügen“ und einem ![Plusbutton](../buttons/Plusbutton.png). Dies öffnet ein weiteres
@@ -77,7 +67,7 @@ Die Eingabe eines Wortes in einem Feld, welches nur Zahlen zulässt führt
 z.B. zu der Fehlermeldung ![Invalidbutton](../buttons/Invalidbutton.png), welche lediglich bedeutet, dass eine
 Information nicht im korrekten Format eingegeben wurde.
 
-### 3.6 Relationen
+### 4.6 Relationen
 
 Beim Doppelklick auf eine Ressource, öffnet sich das
 Bearbeitungsfenster.
@@ -90,7 +80,7 @@ Vorschläge von den bereits bestehenden werden hier angezeigt. Einfaches
 Klicken darauf lässt die Relation entstehen.\
 Roter Button ![Löschenbutton](../buttons/Löschenbutton.png) zur linken löscht die Relation.
 
-### 3.7 Zuweisen von Ober- bzw. Subtypen
+### 4.7 Zuweisen von Ober- bzw. Subtypen
 
 Es ist möglich, Ressoucen vom Typ Stratigrafische Einheit beispielsweise
 einem spezielleren Typ zuzuweisen (beispielsweise Grab). Dies trifft nur
