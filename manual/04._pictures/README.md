@@ -1,4 +1,4 @@
-﻿## 4 Bilder einfügen und zuordnen
+﻿## 4 Bilder
 
 ![handbuch_pictures_01](images/handbuch_pictures_01.png)\
 *Abb 6: Typauswahl der Abbildung*
