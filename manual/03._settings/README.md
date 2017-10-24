@@ -1,7 +1,8 @@
 ﻿## 3. Einstellungen
 
 Im Einstellungs-Fenster wird der/die aktuelle BenutzerIn, also
-BearbeiterIn eingetragen. Diese Information wird automatisch in die
+BearbeiterIn eingetragen.\
+Diese Information wird automatisch in die
 Datensätze geschrieben. Das Feld sollte nicht leer bleiben.\
 *(siehe: Abschnitt 5 Synchronisation mit anderen Clien(s))*
 
