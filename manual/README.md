@@ -30,7 +30,7 @@
    * [1. Einfügen von Messplänen aus GIS](08._gis)
      + [1.1 Importieren von Multigeometrien](08._gis#11-importieren-von-multigeometrien)
      + [1.2 Verwendung von Survey 2 GIS](08._gis#12-verwendung-von-survey-2-gis)
-     + [1.2 Anwendung des Parsers](08._gis#12-anwendung-des-parsers)
+     + [1.3 Anwendung des Parsers](08._gis#12-anwendung-des-parsers)
    * [2. Integration von Messdaten aus AutoCAD](09._cad)
    * [3. Integration von 3D-Fotogrammetrien](10._3d)
    * [4. Verwendung von owncloud zur Bildverknüpfung im Client](11._owncloud)
