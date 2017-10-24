@@ -56,7 +56,7 @@ Das Feld der "Kurzbeschreibung" ist hingegen optional. Die Eingabe hier erschein
 als visuelle Hilfe auf. Sie steht dann unter dem Bezeichner.
 
 
-![handbuch_client_05](images/handbuch_client_05.png)
+![handbuch_client_05](images/handbuch_client_05.PNG)
 *Abb. 7: Bezeichnerfeld in der Ressource*
 
 ### 4.5 Felder
@@ -74,7 +74,7 @@ Die Eingabe eines Wortes in einem Feld, welches nur Zahlen zulässt führt
 z.B. zu der Fehlermeldung ![Invalidbutton](../buttons/Invalidbutton.png), welche lediglich bedeutet, dass eine
 Information nicht im korrekten Format eingegeben wurde (Abb. 8).
 
-![handbuch_client_06](images/handbuch_client_06.png)
+![handbuch_client_06](images/handbuch_client_06.PNG)
 *Abb. 8: Erweitertes Eingabefeld*
 
 ### 4.6 Relationen
