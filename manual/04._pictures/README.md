@@ -8,7 +8,7 @@ Hier können Abbildungen hinzugefügt werden. Nach dem Klicken auf den
 Unterstützt werden die Formate jpeg und png. Alternativ die Bilder
 per drag-and-drop fallen lassen. Bitte beachten Sie, dass der image-Pfad
 gesetzt ist *(siehe: Quickstart)*\
-Die Bilder können auch direkt über die Ressource in der Maßnahmenansicht per drag-and-drop im Bilderbereich an der rechten Seite fallen gelassen werden.
+Die Bilder können auch direkt über die Ressource in der Maßnahmenansicht per drag-and-drop im Bilderbereich an der rechten Seite (markierter roter bereich) fallen gelassen werden.
 In diesem Fall wird das Bild automatisch mit der Ressource verknüpft. Ebenfalls ist es möglich die Bilder per drag-and-drop in die
 Listenansicht einzufügen und so automatisch den Ressourcen zuzuordnen (Abb. 7). 
 Im Anschluss kann ausgewählt werden, ob es sich um eine Zeichnung, Fotografie
@@ -53,13 +53,12 @@ das .wld hinzugefügt werden. Nun ist es als Hintergrundkarte verfügbar
 und kann in den verschiedenen Bildschirmen aus- oder angeschaltet
 werden. Anschließend ändert sich die Anzeige bei Georeferenzdaten in ![wldLöschenbutton](../buttons/wldLöschenbutton.png).\
 Wichtig ist hier, dass eine Kurzbeschreibung vorhanden ist, welche als
-Überschrift der Basiskarten verwendet wird.
+Überschrift der Basiskarten verwendet wird.\
+Jeder Layer kann an- und ausgeschaltet ![Sichtbarkeitsbutton](../buttons/Sichtbarkeitsbutton.png) und zentriert
+![Zentrierenbutton](../buttons/Zentrierenbutton.png) werden.
 
 ![handbuch_pictures_06](images/handbuch_pictures_06.png)
 *Abb 11: Hintergrundkarte*
 
 ![handbuch_pictures_07](images/handbuch_pictures_07.png)\
 *Abb 12: Georeferenzbildschirm*
-
-Jeder Layer kann an- und ausgeschaltet ![Sichtbarkeitsbutton](../buttons/Sichtbarkeitsbutton.png) und zentriert
-![Zentrierenbutton](../buttons/Zentrierenbutton.png) werden.
