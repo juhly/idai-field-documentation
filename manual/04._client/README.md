@@ -45,12 +45,19 @@ anderem Befunde, Funde, Gräber, Architektur, Bohrungen, Proben u.s.w.\
 Jedes ist mit einem eigenen Symbol mit Anfangsbuchstaben gekennzeichnet.
 
 ![handbuch_client_04](images/handbuch_client_04.png)
-
 *Abb. 6: Anlegen von Hauptressourcen*
 
 Bei der Auswahl einer neuen Ressource öffnet sich das Fenster zur
 Eingabe einer Geometrie und nach der Auswahl, dass Fenster zur
-Dateneingabe.
+Dateneingabe. Hier ist es Notwendig einen Eintrag in das Feld "Bezeichner" zu machen. Hierbei habdelt es sich um das einzige
+Pflichtfeld. Hier wird eine Eingabe nach gleichem Schema mit möglichst alphabetischem Hintergrund empfohlen. 
+Dies unterstützt die Sortierung und die Suche (Abb. 7).
+Das Feld der "Kurzbeschreibung" ist hingegen optional. Die Eingabe hier erscheint jedoch ebenfalls in der Ressourcenbezeichnung
+als visuelle Hilfe auf. Sie steht dann unter dem Bezeichner.
+
+
+![handbuch_client_05](images/handbuch_client_05.png)
+*Abb. 7: Bezeichnerfeld in der Ressource*
 
 ### 4.5 Felder
 
@@ -59,13 +66,16 @@ kleinen, grauen „Hinzufügen“ und einem ![Plusbutton](../buttons/Plusbutton.
 Fenster zur Eingabe exakter Information. Das Eingeben mehrerer Felder
 ist hier möglich.
 In manchen Feldern muss eine Auswahl aus einer bestehenden Tabelle
-gewählt werden.
+getroffen werden.
 Hier werden durch die Eingabe von Anfangsbuchstaben Vorschläge gemacht.
 Einige Felder gestatten nur die Eingabe von Informationen in einem
 speziellen Format.
 Die Eingabe eines Wortes in einem Feld, welches nur Zahlen zulässt führt
 z.B. zu der Fehlermeldung ![Invalidbutton](../buttons/Invalidbutton.png), welche lediglich bedeutet, dass eine
-Information nicht im korrekten Format eingegeben wurde.
+Information nicht im korrekten Format eingegeben wurde (Abb. 8).
+
+![handbuch_client_06](images/handbuch_client_06.png)
+*Abb. 8: Erweitertes Eingabefeld*
 
 ### 4.6 Relationen
 
