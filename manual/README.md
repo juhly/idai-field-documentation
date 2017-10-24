@@ -4,7 +4,7 @@
  **- [Funktion der Datenbank](#userdokumentation)**
    * [1. Quickstart](01._quickstart)
    * [2. Das Projekt](02._project)
-   * [3. Das Projekt](03._project)
+   * [3. Einstellungen](03._settings)
    * [4. Das Arbeiten mit Ressourcen](04._client)
      + [4.1 Übersicht](04._client#41--bersicht)
      + [4.2 Maßnahmen](04._client#42-maßnahmen)
