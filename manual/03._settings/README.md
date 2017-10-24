@@ -6,5 +6,5 @@ Diese Information wird automatisch in die
 Datensätze geschrieben. Das Feld sollte nicht leer bleiben.\
 *(siehe: Abschnitt 5 Synchronisation mit anderen Clien(s))*
 
-![handbuch_settings_01](images/handbuch_settings_01.png)
+![handbuch_settings_01](images/handbuch_settings_01.PNG)
 *Abb. 3: Einstellungsfenster*
