@@ -92,17 +92,22 @@ Roter Button ![Löschenbutton](../buttons/Löschenbutton.png) zur linken löscht
 Wurden zwei Ressourcen verbunden, steht die Relation am rechten Ressourcenbildschirm unter dem Reiter Relation (Abb. 10).
 Durch einfaches Klicken auf die verknüpfte Ressource kann zu dieser gewechselt werden.
 
-![handbuch_client_07](images/handbuch_client_07.PNG)
-*Abb. 9: Erweitertes Eingabefeld*
+![handbuch_client_07](images/handbuch_client_07.PNG)\
+*Abb. 9: Anlegen der Relationen*
 
-![handbuch_client_08](images/handbuch_client_08.PNG)
-*Abb. 10: Erweitertes Eingabefeld*
+![handbuch_client_08](images/handbuch_client_08.PNG)\
+*Abb. 10: Relation im Ressourcenbildschirm*
 
 ### 4.7 Zuweisen von Ober- bzw. Subtypen
 
-Es ist möglich, Ressoucen vom Typ Stratigrafische Einheit beispielsweise
-einem spezielleren Typ zuzuweisen (beispielsweise Grab). Dies trifft nur
-auf Ressourcen des gleichen Typs zu.\
-Hier entstehen dann zusätzliche Felder.
+Beim Anlegen von ressourcen ist es möglich, einen Obertyp zu wählen und somit die Defenition noch nicht exakt fest zu legen.
+Beispielsweise kann im Bereich der Stratigraphischen Einheit der gleichnamige Obertyp über den Button ![StratigraphischeEinheitbutton](../buttons/StratigraphischeEinheitbutton.PNG)
+angelegt und später exakt zu einem Subtyp umgewamdelt werden (Abb 11).\
+Dies ist zu jedem späteren Zeitpunkt möglich.\
+Auch ein Wechsel zwischen zwei Subtypen oder eine Rückkerhr zum Obertyp kann vollzogen werden.\
+Allerdings ist hier dringend zu beachten, dass einige Felder spezifisch für manche Ressourcen sind und hier eingetragende Informationen
+bei einem Wechsel verloren gehen werden. Die datenbank wird auf einen solchen Verlust mit einer Meldung im oberen, rechten Bereich hinweisen.
+In diesem Hinweis sind die Felder benannt, bei denen Informationen durch den Wechsel der Typen verloren gehen wird.
 
-![StratigraphischeEinheitbutton](../buttons/StratigraphischeEinheitbutton.PNG)
+![handbuch_client_09](images/handbuch_client_09.PNG)\
+*Abb. 11: Relation im Ressourcenbildschirm*
