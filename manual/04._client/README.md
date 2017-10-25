@@ -105,4 +105,4 @@ einem spezielleren Typ zuzuweisen (beispielsweise Grab). Dies trifft nur
 auf Ressourcen des gleichen Typs zu.\
 Hier entstehen dann zusätzliche Felder.
 
-![StratigraphischeEinheitbutton](../buttons/StratigraphischeEinheitbutton.png)
+![StratigraphischeEinheitbutton](../buttons/StratigraphischeEinheitbutton.PNG)
