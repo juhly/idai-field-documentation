@@ -13,7 +13,7 @@ wird.
 
 ![handbuch_ausGIS_01](images/handbuch_ausGIS_01.png)
 
-*Abb. 17: Speichern als GEOjson*
+*Abb. 22: Speichern als GEOjson*
 
 ### 9.1 Importieren von Multigeometrien
 
@@ -40,7 +40,7 @@ nun als Multigeometrie in den Client importiert werden.
 
 ![handbuch_ausGIS_02](images/handbuch_ausGIS_02.png)
 
-*Abb. 18: Ein- zu Mehrteilig, QGIS*
+*Abb. 23: Ein- zu Mehrteilig, QGIS*
 
 ### 9.2 Verwendung von Survey 2 GIS
 
@@ -57,7 +57,7 @@ Version als PDF beiliegt.
 
 ![handbuch_ausGIS_03](images/handbuch_ausGIS_03.png)
 
-*Abb. 19: Arbeitsoberfläche Survey 2 GIS*
+*Abb. 24: Arbeitsoberfläche Survey 2 GIS*
 
 ### 9.3 Anwendung des Parsers
 
