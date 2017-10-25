@@ -100,14 +100,14 @@ Durch einfaches Klicken auf die verknüpfte Ressource kann zu dieser gewechselt 
 
 ### 4.7 Zuweisen von Ober- bzw. Subtypen
 
-Beim Anlegen von ressourcen ist es möglich, einen Obertyp zu wählen und somit die Defenition noch nicht exakt fest zu legen.
-Beispielsweise kann im Bereich der Stratigraphischen Einheit der gleichnamige Obertyp über den Button ![StratigraphischeEinheitbutton](../buttons/StratigraphischeEinheitbutton.PNG)
+Beim Anlegen von Ressourcen ist es möglich, einen Obertyp zu wählen und somit die Definition noch nicht exakt fest zu legen.
+Beispielsweise kann im Bereich der stratigraphischen Einheit der gleichnamige Obertyp über den Button ![StratigraphischeEinheitbutton](../buttons/StratigraphischeEinheitbutton.PNG)
 angelegt und später exakt zu einem Subtyp umgewamdelt werden (Abb 11).\
-Dies ist zu jedem späteren Zeitpunkt möglich.\
+Dies ist zu jedem späteren Zeitpunkt durch einfaches Klicken auf einen Subtyp in dieser Auswahl möglich.\
 Auch ein Wechsel zwischen zwei Subtypen oder eine Rückkerhr zum Obertyp kann vollzogen werden.\
 Allerdings ist hier dringend zu beachten, dass einige Felder spezifisch für manche Ressourcen sind und hier eingetragende Informationen
-bei einem Wechsel verloren gehen werden. Die datenbank wird auf einen solchen Verlust mit einer Meldung im oberen, rechten Bereich hinweisen.
-In diesem Hinweis sind die Felder benannt, bei denen Informationen durch den Wechsel der Typen verloren gehen wird.
+bei einem Wechsel verloren gehen werden. Die Datenbank wird auf einen solchen Verlust mit einer Meldung im oberen, rechten Bereich hinweisen.
+In diesem Hinweis sind die Felder benannt, bei denen Informationen durch einen Wechsel des Typs verloren gehen wird.
 
 ![handbuch_client_09](images/handbuch_client_09.PNG)\
 *Abb. 11: Relation im Ressourcenbildschirm*
