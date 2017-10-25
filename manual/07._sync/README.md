@@ -31,7 +31,7 @@ allerdings zu fehlern führen.
 ![handbuch_synchronisation_01](images/handbuch_synchronisation_01.png)
 *Abb 21: Synchronisationseinstellungen*
 
-Zuerst müssen die Mitarbeiterinnnen und Mitarbeiter des
+Zuerst müssen die Mitarbeiterinnen und Mitarbeiter des
 IT-Referats des DAI ein Projekt auf dem Server anlegen. Bei der
 Synchronisation mit dem Server ist es weiterhin nötig, dass die
 spezifische Serveradresse eingetragen wird.
