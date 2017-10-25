@@ -85,10 +85,18 @@ Unter dem Reiter „Relationen“ können diese für die
 Ressource, in Verbindung zu anderen, eingetragen werden.\
 Unter den verschiedenen Auswahlmöglichkeiten befindet sich ein ![Plusbutton](../buttons/Plusbutton.png)
 Button. Durch einfaches Klicken öffnet sich ein Textfeld. Hier kann die
-Bezeichnung einer anderen Ressource eingegeben werden. Automaitische
+Bezeichnung, aus dem Bezeichner-Feld, einer anderen Ressource eingegeben werden. Automaitische
 Vorschläge von den bereits bestehenden werden hier angezeigt. Einfaches
-Klicken darauf lässt die Relation entstehen.\
+Klicken darauf lässt die Relation entstehen (Abb. 9).\
 Roter Button ![Löschenbutton](../buttons/Löschenbutton.png) zur linken löscht die Relation.
+Wurden zwei Ressourcen verbunden, steht die Relation am rechten Ressourcenbildschirm unter dem Reiter Relation (Abb. 10).
+Durch einfaches Klicken auf die verknüpfte Ressource kann zu dieser gewechselt werden.
+
+![handbuch_client_07](images/handbuch_client_07.PNG)
+*Abb. 9: Erweitertes Eingabefeld*
+
+![handbuch_client_08](images/handbuch_client_08.PNG)
+*Abb. 10: Erweitertes Eingabefeld*
 
 ### 4.7 Zuweisen von Ober- bzw. Subtypen
 
@@ -96,3 +104,5 @@ Es ist möglich, Ressoucen vom Typ Stratigrafische Einheit beispielsweise
 einem spezielleren Typ zuzuweisen (beispielsweise Grab). Dies trifft nur
 auf Ressourcen des gleichen Typs zu.\
 Hier entstehen dann zusätzliche Felder.
+
+![StratigraphischeEinheitbutton](../buttons/StratigraphischeEinheitbutton.png)
