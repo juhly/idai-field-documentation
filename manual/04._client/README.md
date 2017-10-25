@@ -5,7 +5,7 @@
 
 Startseite des Clients. In diesem Bereich werden die verschiedenen Menü-Ebenen beschrieben. Rechts oben wird angezeigt, ob der Client zu einem anderen oder zum Server synchronisiert ![Synchbutton](../buttons/Synchbutton.png)
 sowie der Projektname (Beispiel).\
-*(siehe: Abschnitt 7 Das Projekt, Abschnitt 5 Synchronisation mit anderen Client(s))*
+*(siehe: Abschnitt 2 Das Projekt, Abschnitt 7 Synchronisation mit anderen Client(s))*
 
 ### 4.1 Die Maßnahmen-Übersicht
 
