@@ -17,7 +17,7 @@
      + [5.1 Einzelansicht und Relationen](05._pictures#51-Einzelansicht-und-Relationen)
      + [5.2 World Files und Georeferenzierung](05._pictures#52-World-Files-und-Georeferenzierung)
    * [6. Import und Export](06._importexport)
-     + [6.1 Übersicht](06._importexport#61-import)
+     + [6.1 Import](06._importexport#61-import)
      + [6.2 Export](06._importexport#62-export)
    * [7. Synchronisation mit anderen Client(s)](07._sync)
      + [7.1 Synchronisation mit einem anderen Client](07._sync#71-synchronisation-mit-einem-anderen-client)
