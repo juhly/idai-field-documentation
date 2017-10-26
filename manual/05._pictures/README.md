@@ -17,10 +17,10 @@ In der recten, oberen Ecke befindet sich ein Regler mit welchem die Bildgröße 
 Nun kann die Abbildung mit einer oder mehreren Ressourcen verknüpft werden ![Verlinkungsbutton](../buttons/Verlinkungsbutton.png).\
 Anschließend kann die abgebildete Ressource ausgewählt werden (Abb. 14/15).
 
-![handbuch_pictures_02](images/handbuch_pictures_02.png)\
+![handbuch_pictures_02](images/handbuch_pictures_02.PNG)\
 *Abb 13: Hinzufügen in der Maßnahmenansicht*
 
-![handbuch_pictures_03](images/handbuch_pictures_03.PNG)
+![handbuch_pictures_03](images/handbuch_pictures_03.PNG)\
 *Abb 14: Zuweisung von Ressourcen*
 
 ![handbuch_pictures_04](images/handbuch_pictures_04.png)
