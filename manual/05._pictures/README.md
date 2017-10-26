@@ -20,7 +20,7 @@ Anschließend kann die abgebildete Ressource ausgewählt werden (Abb. 14/15).
 ![handbuch_pictures_02](images/handbuch_pictures_02.PNG)\
 *Abb 13: Hinzufügen in der Maßnahmenansicht*
 
-![handbuch_pictures_03](images/handbuch_pictures_03.PNG)\
+![handbuch_pictures_03](images/handbuch_pictures_03.png)\
 *Abb 14: Zuweisung von Ressourcen*
 
 ![handbuch_pictures_04](images/handbuch_pictures_04.png)
