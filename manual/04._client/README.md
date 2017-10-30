@@ -20,7 +20,7 @@ Areale) und Orte angelegt werden.
 ### 4.2 Die Maßnahmen-Ansichten
 
 Die drei Maßnahmen Ausgrabung, Bauaufnahmen und Survey, werden über gleichnamige Reiter in der oberen Leiste ausgewählt.\
-In diesen Bereichen können alle Ressourcen eingesehen und bearbeitet werden. Die Zuordnung zur Maßnahme erfolgt automatisch, weitere Ressourcen werden immer innerhalb einer Maßnahme angelegt.\
+In diesen Bereichen können alle Ressourcen eingesehen und bearbeitet werden. Die Zuordnung zur Maßnahme erfolgt automatisch. Weitere Ressourcen werden immer innerhalb einer Maßnahme angelegt.\
 Jede Ressource kann ausgewählt werden, auf der rechten Seite wird eine
 Übersicht der eingetragenen Felder und deren Attribute angezeigt. Das
 Anlegen von Ressourcen geschieht über den ![Plusbutton](../buttons/Plusbutton.png) Button. Zudem können
