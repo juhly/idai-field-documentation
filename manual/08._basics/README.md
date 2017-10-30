@@ -15,6 +15,13 @@ wie die Bezeichnung und die Kurzbeschreibung.
 ![handbuch_basics_01](images/handbuch_basics_01.PNG)
 *Abb 22: Listenansicht*
 
+Werden unter den Ressourcen weitere, untergliederte Ressourcen angelegt, werden diese in der Listenansicht
+unter der oberliegenden Ressource angezeigt. Standartmäßig sind diese eingklappt und durch einen grauen Pfeil
+markiert. Durch einfaches Klicken auf diesen werden diese Ressourcen angezeigt (Abb. 23).
+
+![handbuch_basics_02](images/handbuch_basics_02.PNG)
+*Abb 23: Listenansicht*
+
 ### 8.2 Suchen
 
 In der Suchleiste ist es möglich, nach Namen von Ressourcen oder nach
@@ -24,5 +31,5 @@ gesuchte übrig bleibt.\
 Bei der Anwendung der Filter werden alle Ressourcen aus dem ausgewählten
 Filter angezeigt.
 
-![handbuch_basics_02](images/handbuch_basics_02.PNG)\
-*Abb 23: Suchfeld*
+![handbuch_basics_03](images/handbuch_basics_03.PNG)\
+*Abb 24: Suchfeld*
