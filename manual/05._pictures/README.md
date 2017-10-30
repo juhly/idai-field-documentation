@@ -40,7 +40,7 @@ hier das Bild vergrößert. In beiden Fällen stehen am rechten Rand die
 Bildinformationen zur Verfügung. Über ![Bearbeitungsbutton](../buttons/Bearbeitungsbutton.png) und den Reiter „Relationen“
 lassen sich die Verknüpfungen anzeigen und löschen.
 
-![handbuch_pictures_05](images/handbuch_pictures_05.png)\
+![handbuch_pictures_05](images/handbuch_pictures_05.PNG)\
 *Abb 16: Verknüpfte Ressource*
 
 ### 5.2 World Files und Georeferenzierung
