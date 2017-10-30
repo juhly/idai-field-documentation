@@ -24,5 +24,5 @@ gesuchte übrig bleibt.\
 Bei der Anwendung der Filter werden alle Ressourcen aus dem ausgewählten
 Filter angezeigt.
 
-![handbuch_basics_02](images/handbuch_basics_02.PNG)
+![handbuch_basics_02](images/handbuch_basics_02.PNG)\
 *Abb 23: Suchfeld*
