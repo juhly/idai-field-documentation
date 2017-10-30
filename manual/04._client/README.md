@@ -107,7 +107,7 @@ Dies ist zu jedem späteren Zeitpunkt durch einfaches Klicken auf einen Subtyp i
 Auch ein Wechsel zwischen zwei Subtypen oder eine Rückkerhr zum Obertyp kann vollzogen werden.\
 Allerdings ist hier dringend zu beachten, dass einige Felder spezifisch für manche Ressourcen sind und hier eingetragende Informationen
 bei einem Wechsel verloren gehen werden. Die Datenbank wird auf einen solchen Verlust mit einer Meldung im oberen, rechten Bereich hinweisen.
-In diesem Hinweis sind die Felder benannt, bei denen Informationen durch einen Wechsel des Typs verloren gehen wird.
+In diesem Hinweis sind die Felder benannt, bei denen Informationen durch einen Wechsel des Typs verloren gehen werden.
 
 ![handbuch_client_09](images/handbuch_client_09.PNG)\
 *Abb. 11: Relation im Ressourcenbildschirm*
