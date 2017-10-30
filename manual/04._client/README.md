@@ -62,7 +62,7 @@ als visuelle Hilfe auf. Sie steht dann unter dem Bezeichner.
 ### 4.5 Felder
 
 Unter manchen Feldern findet ein Feld ohne Eingabemöglichkeit mit einem
-kleinen, grauen „Hinzufügen“ und einem ![Plusbutton](../buttons/Plusbutton.png). Dies öffnet ein weiteres
+kleinen, grauen „Hinzufügen“ und einem ![ErweitertesFeldPlusButton](../buttons/ErweitertesFeldPlusButton.PNG). Dies öffnet ein weiteres
 Fenster zur Eingabe exakter Information. Das Eingeben mehrerer Felder
 ist hier möglich.
 In manchen Feldern muss eine Auswahl aus einer bestehenden Tabelle
