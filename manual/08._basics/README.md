@@ -19,8 +19,8 @@ Werden unter den Ressourcen weitere, untergliederte Ressourcen angelegt, werden 
 unter der oberliegenden Ressource angezeigt. Standartmäßig sind diese eingklappt und durch einen grauen Pfeil
 markiert. Durch einfaches Klicken auf diesen werden diese Ressourcen angezeigt (Abb. 23).
 
-![handbuch_basics_02](images/handbuch_basics_02.PNG)
-*Abb 23: Listenansicht*
+![handbuch_basics_02](images/handbuch_basics_02.PNG)\
+*Abb 23: Untergeordnete Ressourcen, Listenansicht*
 
 ### 8.2 Suchen
 
