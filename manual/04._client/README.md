@@ -49,7 +49,7 @@ Jedes ist mit einem eigenen Symbol mit Anfangsbuchstaben gekennzeichnet.
 
 Bei der Auswahl einer neuen Ressource öffnet sich das Fenster zur
 Eingabe einer Geometrie und nach der Auswahl, dass Fenster zur
-Dateneingabe. Hier ist es Notwendig einen Eintrag in das Feld "Bezeichner" zu machen. Hierbei habdelt es sich um das einzige
+Dateneingabe. Hier ist es Notwendig einen Eintrag in das Feld "Bezeichner" zu machen. Hierbei handelt es sich um das einzige
 Pflichtfeld. Hier wird eine Eingabe nach gleichem Schema mit möglichst alphabetischem Hintergrund empfohlen. 
 Dies unterstützt die Sortierung und die Suche (Abb. 7).
 Das Feld der "Kurzbeschreibung" ist hingegen optional. Die Eingabe hier erscheint jedoch ebenfalls in der Ressourcenbezeichnung
