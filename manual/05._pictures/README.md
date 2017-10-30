@@ -10,7 +10,7 @@ per drag-and-drop fallen lassen. Bitte beachten Sie, dass der image-Pfad
 gesetzt ist *(siehe: Quickstart)*\
 Die Bilder können auch direkt über die Ressource in der Maßnahmenansicht per drag-and-drop im Bilderbereich an der rechten Seite (markierter roter bereich in Abb. 13) fallen gelassen werden.
 In diesem Fall wird das Bild automatisch mit der Ressource verknüpft. Ebenfalls ist es möglich die Bilder per drag-and-drop in die
-Listenansicht einzufügen und so automatisch den Ressourcen zuzuordnen (Abb. 13). 
+Listenansicht einzufügen und so automatisch den Ressourcen zuzuordnen. 
 Im Anschluss kann ausgewählt werden, ob es sich um eine Zeichnung, Fotografie
 oder Abbildung handelt (Abb. 12)\
 In der recten, oberen Ecke befindet sich ein Regler mit welchem die Bildgröße angepasst werden kann.\
