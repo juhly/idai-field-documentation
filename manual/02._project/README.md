@@ -15,7 +15,7 @@ Das Symbol ![Löschenbutton](../buttons/Löschenbutton.png) löscht ein Projekt.
 Zeile ist nötig zur Bestätigung. Das Projekt ist nachfolgend endgültig
 gelöscht.\
 Es können alle Projekte ausser eines gelöscht werden. Auch das zu beginn bestehende Testprojekt kann entfernt werden.
-Wird im nachhinein ein neues Projet mit dem namen "Test" angelegt übernimmt dieses alle Eigenschaften des ersten Testobjektes
+Wird im nachhinein ein neues Projet mit dem namen "test" angelegt übernimmt dieses alle Eigenschaften des ersten Testobjektes
 und setzt sich nach jedem Neustart des Clients selbst zurück.
 
 ![handbuch_projekt_01](images/handbuch_projekt_01.png)
