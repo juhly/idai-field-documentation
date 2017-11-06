@@ -3,7 +3,7 @@
 1. Bei der Inbetriebnahme des Clients ist standardmäßig ein Projekt
 „Test“ ausgewählt. Dies kann zu Testzwecken verwendet werde, wobei
 angelegte Daten nach einem Neustart des Clients gelöscht werden.\
-*(siehe: Abschnitt 2 Das Projekt)*
+*(siehe: Abschnitt 2 [Das Projekt](../../manual/02._project))*
 
 2. Der Benutzername sollte unbedingt eingegeben werden. Diese geschieht
 unter Einstellungen: Benutzereinstellungen. Diese Information wird
