@@ -1,36 +1,41 @@
 ﻿## 5 Bilder
 
 ![handbuch_pictures_01](images/handbuch_pictures_01.png)\
-*Abb 12: Typauswahl der Abbildung*
+*Abb 12: Bereich Bilder*
 
 Hier können Abbildungen hinzugefügt werden. Nach dem Klicken auf den
 „Abbildung hinzufügen“ Bereich, erfolgt eine Auwahl über den Browser.
 Unterstützt werden die Formate jpeg und png. Alternativ die Bilder
 per drag-and-drop fallen lassen. Bitte beachten Sie, dass der image-Pfad
 gesetzt ist *(siehe: Quickstart)*\
-Die Bilder können auch direkt über die Ressource in der Maßnahmenansicht per drag-and-drop im Bilderbereich an der rechten Seite (markierter roter bereich in Abb. 13) fallen gelassen werden.
+Die Bilder können auch direkt über die Ressource in der Maßnahmenansicht per drag-and-drop im Bilderbereich an der rechten Seite
+(markierter roter bereich in Abb. 14) fallen gelassen werden.
 In diesem Fall wird das Bild automatisch mit der Ressource verknüpft. Ebenfalls ist es möglich die Bilder per drag-and-drop in die
 Listenansicht einzufügen und so automatisch den Ressourcen zuzuordnen. 
 Im Anschluss kann ausgewählt werden, ob es sich um eine Zeichnung, Fotografie
-oder Abbildung handelt (Abb. 12)\
-In der recten, oberen Ecke befindet sich ein Regler mit welchem die Bildgröße angepasst werden kann.\
-Nun kann die Abbildung mit einer oder mehreren Ressourcen verknüpft werden ![Verlinkungsbutton](../buttons/Verlinkungsbutton.png).\
-Anschließend kann die abgebildete Ressource ausgewählt werden (Abb. 14/15).
+oder Abbildung handelt (Abb. 13)\
 
 ![handbuch_pictures_02](images/handbuch_pictures_02.PNG)\
-*Abb 13: Hinzufügen in der Maßnahmenansicht*
+*Abb 13: Auswahl der Abbildungsart*
 
-![handbuch_pictures_03](images/handbuch_pictures_03.png)\
-*Abb 14: Zuweisung von Ressourcen*
+In der recten, oberen Ecke befindet sich ein Regler mit welchem die Bildgröße angepasst werden kann.\
+Nun kann die Abbildung mit einer oder mehreren Ressourcen verknüpft werden ![Verlinkungsbutton](../buttons/Verlinkungsbutton.png).\
+Anschließend kann die abgebildete Ressource ausgewählt werden (Abb. 15/16).
 
-![handbuch_pictures_04](images/handbuch_pictures_04.png)
-*Abb 15: Foto mit verknüpfter Ressource*
+![handbuch_pictures_03](images/handbuch_pictures_03.PNG)\
+*Abb 14: Hinzufügen in der Maßnahmenansicht*
+
+![handbuch_pictures_04](images/handbuch_pictures_04.png)\
+*Abb 15: Zuweisung von Ressourcen*
+
+![handbuch_pictures_05](images/handbuch_pictures_05.png)
+*Abb 16: Foto mit verknüpfter Ressource*
 
 ### 5.1 Einzelansicht und Relationen
 
 Mit einem doppelklick auf das Bild wird dieses in einer großen Einzelansicht geöffnet. Am rechten Rand stehen hier die Bildinformationen.
 Mit dem Bearbeitungsbutton ![Bearbeitungsbutton](../buttons/Bearbeitungsbutton.png) können weitere
-Fotoattribute eingetragen werden. Hier finden sich auch die Reiter zu den Georeferenzdaten und den Relationen (Abb. 16).
+Fotoattribute eingetragen werden. Hier finden sich auch die Reiter zu den Georeferenzdaten und den Relationen (Abb. 17).
 Mit einfachem Klicken kann hier die verlinkte Ressource aufgerufen werden.
 Wir das Bild per drag-and-drop im Ressourcenbildschirm eingefügt wird es direkt an diese Ressource angehängt.\
 Soll solch eine Verknüpfung gelöscht werden, muss die
@@ -40,13 +45,13 @@ hier das Bild vergrößert. In beiden Fällen stehen am rechten Rand die
 Bildinformationen zur Verfügung. Über ![Bearbeitungsbutton](../buttons/Bearbeitungsbutton.png) und den Reiter „Relationen“
 lassen sich die Verknüpfungen anzeigen und löschen.
 
-![handbuch_pictures_05](images/handbuch_pictures_05.PNG)\
-*Abb 16: Verknüpfte Ressource*
+![handbuch_pictures_06](images/handbuch_pictures_06.PNG)\
+*Abb 17: Verknüpfte Ressource*
 
 ### 5.2 World Files und Georeferenzierung
 
 Ein weiteres Feature ist die Zuweisung
-von Georeferenzdaten (Abb. 17/18), um Hintergrundkarten zu erstellen.
+von Georeferenzdaten (Abb. 18/19), um Hintergrundkarten zu erstellen.
 Hierfür wird eine Rastergrafik und eine .wld-Datei benötigt,
 welche die Koordinaten des Bildes enthält. Durch den Klick auf ![wldButton](../buttons/wldButton.png) kann
 das .wld hinzugefügt werden. Nun ist es als Hintergrundkarte verfügbar
@@ -57,8 +62,8 @@ Wichtig ist hier, dass eine Kurzbeschreibung vorhanden ist, welche als
 Jeder Layer kann an- und ausgeschaltet ![Sichtbarkeitsbutton](../buttons/Sichtbarkeitsbutton.png) und zentriert
 ![Zentrierenbutton](../buttons/Zentrierenbutton.png) werden.
 
-![handbuch_pictures_06](images/handbuch_pictures_06.png)
-*Abb 17: Hintergrundkarte*
+![handbuch_pictures_07](images/handbuch_pictures_07.png)
+*Abb 18: Hintergrundkarte*
 
-![handbuch_pictures_07](images/handbuch_pictures_07.png)\
-*Abb 18: Georeferenzbildschirm*
+![handbuch_pictures_08](images/handbuch_pictures_08.png)\
+*Abb 19: Georeferenzbildschirm*
