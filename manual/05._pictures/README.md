@@ -10,7 +10,7 @@ Unterstützt werden die Formate jpeg und png.
 Alternativ können die Bilder per drag-and-drop im markierten Bereich fallen gelassen werden. Bitte beachten Sie, dass der image-Pfad
 gesetzt ist *(siehe: Quickstart).*\
 Nach dem hinzufügen der Abbildung muss eine Auswahl getroffen werden, ob es sich um eine Zeichnung, eine Fotografie
-oder eine Abbildung handelt (Abb. 13).\
+oder eine Abbildung handelt (Abb. 13).
 
 ![handbuch_pictures_02](images/handbuch_pictures_02.PNG)\
 *Abb 13: Auswahl der Abbildungsart*
@@ -24,7 +24,7 @@ Anschließend kann die abgebildete Ressource ausgewählt werden (Abb. 14/15).
 ![handbuch_pictures_03](images/handbuch_pictures_03.png)\
 *Abb 14: Zuweisung von Ressourcen*
 
-![handbuch_pictures_04](images/handbuch_pictures_04.PNG)
+![handbuch_pictures_04](images/handbuch_pictures_04.png)\
 *Abb 15: Foto mit verknüpfter Ressource*
 
 Ebenso ist es möglich, die Bilder direkt über die Ressource in der Maßnahmenansicht per drag-and-drop im Bilderbereich an der rechten Seite
@@ -32,7 +32,7 @@ Ebenso ist es möglich, die Bilder direkt über die Ressource in der Maßnahmena
 In diesem Fall wird das Bild automatisch mit der gewählten Ressource verknüpft. Ausserdem ist es möglich die Bilder per drag-and-drop in die
 Listenansicht einzufügen und so automatisch der Ressourcen zuzuordnen.
 
-![handbuch_pictures_05](images/handbuch_pictures_05.png)\
+![handbuch_pictures_05](images/handbuch_pictures_05.PNG)\
 *Abb 16: Hinzufügen in der Maßnahmenansicht*
 
 ### 5.1 Einzelansicht und Relationen
