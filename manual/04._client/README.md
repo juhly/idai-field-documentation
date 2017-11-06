@@ -59,20 +59,20 @@ als visuelle Hilfe auf. Sie steht dann unter dem Bezeichner.
 ![handbuch_client_05](images/handbuch_client_05.PNG)
 *Abb. 7: Bezeichnerfeld in der Ressource*
 
-### 4.5 Felder
+### 4.5 Eingabefelder
 
 Unter manchen Feldern findet ein Feld ohne Eingabemöglichkeit mit einem
 kleinen, grauen „Hinzufügen“ und einem ![ErweitertesFeldPlusButton](../buttons/ErweitertesFeldPlusButton.PNG). Dies öffnet ein weiteres
-Fenster zur Eingabe exakter Information. Das Eingeben mehrerer Felder
-ist hier möglich.
-In manchen Feldern muss eine Auswahl aus einer bestehenden Tabelle
-getroffen werden.
-Hier werden durch die Eingabe von Anfangsbuchstaben Vorschläge gemacht.
-Einige Felder gestatten nur die Eingabe von Informationen in einem
-speziellen Format.
+Fenster zur Eingabe exakter Information. Das Eingeben mehrerer Felder ist hier möglich. Dies bedeutet, dass auch mehrere Eingaben einer Relation
+gemacht werden können. Nach der Eingabe einer Information, kann durch einfaches Klicken auf ![ErweitertesFeldPlusButton](../buttons/ErweitertesFeldPlusButton.PNG)
+eine weitere Eingabe in dieselbe relation erfolgen. So ist z.B. eine mehrfache Eingabe für "Breite" möglich. 
+Die erweiteretn Eingabefelder ermöglichen hierfür eine Angabe, an welchem Punkt die Maße abgenommen wurde.
+In manchen Feldern muss eine Auswahl aus einer bestehenden Tabelle getroffen werden.
+Hier werden durch die Eingabe von Anfangsbuchstaben Vorschläge gemacht (Abb. 8).
+Einige Felder gestatten nur die Eingabe von Informationen in einem speziellen Format.
 Die Eingabe eines Wortes in einem Feld, welches nur Zahlen zulässt führt
 z.B. zu der Fehlermeldung ![Invalidbutton](../buttons/Invalidbutton.png), welche lediglich bedeutet, dass eine
-Information nicht im korrekten Format eingegeben wurde (Abb. 8).
+Information nicht im korrekten Format eingegeben wurde.
 
 ![handbuch_client_06](images/handbuch_client_06.PNG)
 *Abb. 8: Erweitertes Eingabefeld*
