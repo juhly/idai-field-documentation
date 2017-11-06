@@ -3,33 +3,37 @@
 ![handbuch_pictures_01](images/handbuch_pictures_01.png)\
 *Abb 12: Bereich Bilder*
 
-Hier können Abbildungen hinzugefügt werden. Nach dem Klicken auf den
-„Abbildung hinzufügen“ Bereich, erfolgt eine Auwahl über den Browser.
-Unterstützt werden die Formate jpeg und png. Alternativ die Bilder
-per drag-and-drop fallen lassen. Bitte beachten Sie, dass der image-Pfad
-gesetzt ist *(siehe: Quickstart)*\
-Die Bilder können auch direkt über die Ressource in der Maßnahmenansicht per drag-and-drop im Bilderbereich an der rechten Seite
-(markierter roter bereich in Abb. 14) fallen gelassen werden.
-In diesem Fall wird das Bild automatisch mit der Ressource verknüpft. Ebenfalls ist es möglich die Bilder per drag-and-drop in die
-Listenansicht einzufügen und so automatisch den Ressourcen zuzuordnen. 
-Im Anschluss kann ausgewählt werden, ob es sich um eine Zeichnung, Fotografie
-oder Abbildung handelt (Abb. 13)\
+Im Abschnitt Bilder (Abb. 12) können Abbildungen hinzugefügt werden.\
+Dies ist durch einfaches klicken auf den, mit einer gestrichelten Linie umrahmten, Bereich möglich.
+Hier erfolgt eine Auwahl über den Browser.
+Unterstützt werden die Formate jpeg und png.
+Alternativ können die Bilder per drag-and-drop im markierten Bereich fallen gelassen werden. Bitte beachten Sie, dass der image-Pfad
+gesetzt ist *(siehe: Quickstart).*\
+Nach dem hinzufügen der Abbildung muss eine Auswahl getroffen werden, ob es sich um eine Zeichnung, eine Fotografie
+oder eine Abbildung handelt (Abb. 13).\
 
 ![handbuch_pictures_02](images/handbuch_pictures_02.PNG)\
 *Abb 13: Auswahl der Abbildungsart*
 
-In der recten, oberen Ecke befindet sich ein Regler mit welchem die Bildgröße angepasst werden kann.\
-Nun kann die Abbildung mit einer oder mehreren Ressourcen verknüpft werden ![Verlinkungsbutton](../buttons/Verlinkungsbutton.png).\
-Anschließend kann die abgebildete Ressource ausgewählt werden (Abb. 15/16).
+Dies ist wichtig, da über die Suchabfrage in der oberen Zeile ein Filter nach Abbildungen, Fotos und zeichnungen eingestellt werden kann.
+Rechts neben dem Suchen-Feld ist es möglich eine Auswahl nach erstellten und angelegten Ressourcen zu treffen.
+In der rechten, oberen Ecke befindet sich ein Regler. Mit diesem kann die Bildgröße angepasst werden. (Siehe Abb. 12)\
+Zum Verknüpfen der Bilder mit einer oder mehreren Ressourcen genügt ein einfacher Klick auf den ![Verlinkungsbutton](../buttons/Verlinkungsbutton.png).
+Anschließend kann die abgebildete Ressource ausgewählt werden (Abb. 14/15).
 
 ![handbuch_pictures_03](images/handbuch_pictures_03.png)\
-*Abb 14: Hinzufügen in der Maßnahmenansicht*
+*Abb 14: Zuweisung von Ressourcen*
 
-![handbuch_pictures_04](images/handbuch_pictures_04.png)\
-*Abb 15: Zuweisung von Ressourcen*
+![handbuch_pictures_04](images/handbuch_pictures_04.PNG)
+*Abb 15: Foto mit verknüpfter Ressource*
 
-![handbuch_pictures_05](images/handbuch_pictures_05.PNG)
-*Abb 16: Foto mit verknüpfter Ressource*
+Ebenso ist es möglich, die Bilder direkt über die Ressource in der Maßnahmenansicht per drag-and-drop im Bilderbereich an der rechten Seite
+(markierter roter bereich in Abb. 16) fallen zu lassen.
+In diesem Fall wird das Bild automatisch mit der gewählten Ressource verknüpft. Ausserdem ist es möglich die Bilder per drag-and-drop in die
+Listenansicht einzufügen und so automatisch der Ressourcen zuzuordnen.
+
+![handbuch_pictures_05](images/handbuch_pictures_05.png)\
+*Abb 16: Hinzufügen in der Maßnahmenansicht*
 
 ### 5.1 Einzelansicht und Relationen
 
