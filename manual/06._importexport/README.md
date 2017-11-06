@@ -14,7 +14,7 @@ Ressource, wird diese automatisch den eingeladenen Zeichnungen
 zugeordnet.
 
 ![handbuch_import_01](images/handbuch_import_01.png)
-*Abb 19: Importfenster*
+*Abb 21: Importfenster*
 
 ### 6.2 Export
 
@@ -23,4 +23,4 @@ Hier kann das gesamte Projekt exportiert werden. Die Dateiendung ist
 vorherige Anlegen von Ressourcen.
 
 ![handbuch_export_01](images/handbuch_export_01.png)
-*Abb. 20: Exportfenster*
+*Abb. 22: Exportfenster*
