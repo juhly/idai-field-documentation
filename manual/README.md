@@ -10,7 +10,7 @@
      + [4.2 Maßnahmen](04._client#42-maßnahmen)
      + [4.3 Einstellungen](04._client#43-einstellungen)
      + [4.4 Anlegen von Ressourcen](04._client#44-Anlegen-von-Ressourcen)
-     + [4.5 Felder](04._client#45-felder)
+     + [4.5 Eingabefelder](04._client#45-Eingabefelder)
      + [4.6 Relationen](04._client#46-relationen)
      + [4.7 Zuweisen von Ober- bzw. Subtypen](04._client#47-zuweisen-von-ober--bzw-subtypen)
    * [5. Bilder](05._pictures)
