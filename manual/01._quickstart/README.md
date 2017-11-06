@@ -22,7 +22,7 @@ ein Export durchgeführt werden. Das gleiche gilt selbstverständlich für
 die Bilder.
 
 5. Es sollte ein eigenes Projekt angelegt werden\
-*(siehe: Abschnitt 2 Das Projekt)*
+*(siehe: Abschnitt 2 [Das Projekt](../../manual/02._project))*
 
 ![handbuch_quickstart_01](images/handbuch_quickstart_01.png)
 *Abb. 1: Anlegen eines neuen Projekts. Eingabe des Bearbeiters/der Bearbeiterin*
