@@ -37,7 +37,7 @@ Symbol ![Plusbutton](../buttons/Plusbutton.png) im unteren Bereich Bereich des R
 Bauwerk oder Survey angelegt.
 Nach dem Speichern der Ressource wird diese im Auswahlfenster links
 angezeigt. Hier kann zwischen verschiedenen Schnitten, Bauwerken oder
-Surveys gewechselt werden. Das ![Bearbeitungsbutton](../buttons/RessourcenBearbeitungsButton.png) ermöglicht die weitere Bearbeitung
+Surveys gewechselt werden. Das ![Bearbeitungsbutton](../buttons/RessourcenBearbeitungsButton.PNG) ermöglicht die weitere Bearbeitung
 der Ressource.\
 Ist eine Hauptressource angelegt können im linken Bildschirmabschnitt
 über das ![Plusbutton](../buttons/Plusbutton.png) neue Ressourcen hinzugefügt werden. Diese beinhalten unter
