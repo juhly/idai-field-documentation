@@ -1,7 +1,7 @@
-﻿# Benutzerhandbuch
+# Benutzerhandbuch
 
 ## Inhaltsverzeichnis
- **- [Funktion der Datenbank](#userdokumentation)**
+ ** [Funktion der Datenbank](#userdokumentation)**
    * [1. Quickstart](01._quickstart)
    * [2. Das Projekt](02._project)
    * [3. Einstellungen](03._settings)
@@ -27,7 +27,7 @@
      + [8.1 Karten- und Listenansicht](08._basics#81-karten--und-listenansicht)
      + [8.2 Suchen](08._basics#82-suchen)
      
-**- [Arbeitsweisen](#Workflow)**
+** [Arbeitsweisen](#Workflow)**
    * [1. Einfügen von Messplänen aus GIS](09._gis)
      + [1.1 Importieren von Multigeometrien](09._gis#91-importieren-von-multigeometrien)
      + [1.2 Verwendung von Survey 2 GIS](09._gis#92-verwendung-von-survey-2-gis)
