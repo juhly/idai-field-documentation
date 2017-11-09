@@ -36,8 +36,7 @@ Anschließend kann die abgebildete Ressource ausgewählt werden (Abb. 15/16).
 
 Ebenso ist es möglich, die Bilder direkt über die Ressource in der Maßnahmenansicht per drag-and-drop im Bilderbereich an der rechten Seite
 (markierter roter bereich in Abb. 17) fallen zu lassen.
-In diesem Fall wird das Bild automatisch mit der gewählten Ressource verknüpft. Ausserdem ist es möglich die Bilder per drag-and-drop in die
-Listenansicht einzufügen und so automatisch der Ressourcen zuzuordnen.
+In diesem Fall wird das Bild automatisch mit der gewählten Ressource verknüpft.
 
 ![handbuch_pictures_06](images/handbuch_pictures_06.png)\
 *Abb 17: Hinzufügen in der Maßnahmenansicht*
