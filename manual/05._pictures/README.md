@@ -19,7 +19,7 @@ Dies ist wichtig, da über die Suchabfrage in der oberen Zeile ein Filter nach A
 Rechts neben dem Suchen-Feld ist es möglich eine Auswahl nach erstellten und angelegten Ressourcen zu treffen.
 In der rechten, oberen Ecke befindet sich ein Regler. Mit diesem kann die Bildgröße angepasst werden. (Siehe Abb. 12)\
 Sollte es notwendig werden, die Art der Abbildung nachträglich zu ändern, ist dies möglich.\
-Hierfür wird die Abbildung per Doppelklick vergrößert und der Bearbeitungsbereich ![Bearbeitungsbutton](../buttons/Bearbeitungsbutton.png)
+Hierfür wird die Abbildung per Doppelklick vergrößert und der Bearbeitungsbereich ![RessourcenBearbeitungsButton](../buttons/RessourcenBearbeitungsButton.PNG)
 aufgerufen. Hier lässt sich oben links im Anzeigebutton der Bildtyp ändern.
 
 ![handbuch_pictures_03](images/handbuch_pictures_03.png)\
