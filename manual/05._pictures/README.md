@@ -8,7 +8,7 @@ Dies ist durch einfaches klicken auf den, mit einer gestrichelten Linie umrahmte
 Hier erfolgt eine Auwahl über den Browser.
 Unterstützt werden die Formate jpeg und png.
 Alternativ können die Bilder per drag-and-drop im markierten Bereich fallen gelassen werden. Bitte beachten Sie, dass der image-Pfad
-gesetzt ist *(siehe: Quickstart).*\
+gesetzt ist *(siehe: [Quickstart](../../manual/01._quickstart)).*\
 Nach dem hinzufügen der Abbildung muss eine Auswahl getroffen werden, ob es sich um eine Zeichnung, eine Fotografie
 oder eine Abbildung handelt (Abb. 13).
 
