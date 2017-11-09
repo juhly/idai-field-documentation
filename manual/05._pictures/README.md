@@ -26,7 +26,7 @@ aufgerufen. Hier lässt sich oben links im Anzeigebutton der Bildtyp ändern.
 *Abb 14: Ändern der Abbildungsart*
 
 Zum Verknüpfen der Bilder mit einer oder mehreren Ressourcen genügt ein einfacher Klick auf den ![Verlinkungsbutton](../buttons/Verlinkungsbutton.png).
-Anschließend kann die abgebildete Ressource ausgewählt werden (Abb. 14/15).
+Anschließend kann die abgebildete Ressource ausgewählt werden (Abb. 15/16).
 
 ![handbuch_pictures_04](images/handbuch_pictures_04.png)\
 *Abb 15: Zuweisung von Ressourcen*
