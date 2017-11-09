@@ -45,7 +45,7 @@ Listenansicht einzufügen und so automatisch der Ressourcen zuzuordnen.
 ### 5.1 Einzelansicht und Relationen
 
 Mit einem doppelklick auf das Bild wird dieses in einer großen Einzelansicht geöffnet. Am rechten Rand stehen hier die Bildinformationen.
-Mit dem Bearbeitungsbutton ![Bearbeitungsbutton](../buttons/Bearbeitungsbutton.png) können weitere
+Mit dem Bearbeitungsbutton ![RessourcenBearbeitungsButton](../buttons/RessourcenBearbeitungsButton.PNG) können weitere
 Fotoattribute eingetragen werden. Hier finden sich auch die Reiter zu den Georeferenzdaten und den Relationen (Abb. 18).
 Mit einfachem Klicken kann hier die verlinkte Ressource aufgerufen werden.
 Wir das Bild per drag-and-drop im Ressourcenbildschirm eingefügt wird es direkt an diese Ressource angehängt.\
@@ -53,7 +53,7 @@ Soll solch eine Verknüpfung gelöscht werden, muss die
 Abbildung unter dem Reiter Bilder doppelt angeklickt werden. Alternativ
 kann über die verknüpfte Ressource darauf zugegriffen werden, indem man
 hier das Bild vergrößert. In beiden Fällen stehen am rechten Rand die
-Bildinformationen zur Verfügung. Über ![Bearbeitungsbutton](../buttons/Bearbeitungsbutton.png) und den Reiter „Relationen“
+Bildinformationen zur Verfügung. Über ![RessourcenBearbeitungsButton](../buttons/RessourcenBearbeitungsButton.PNG) und den Reiter „Relationen“
 lassen sich die Verknüpfungen anzeigen und löschen.
 
 ![handbuch_pictures_07](images/handbuch_pictures_07.png)\
