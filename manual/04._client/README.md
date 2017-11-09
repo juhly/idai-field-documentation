@@ -65,8 +65,8 @@ Unter manchen Feldern findet ein Feld ohne Eingabemöglichkeit mit einem
 kleinen, grauen „Hinzufügen“ und einem ![ErweitertesFeldPlusButton](../buttons/ErweitertesFeldPlusButton.PNG). Dies öffnet ein weiteres
 Fenster zur Eingabe exakter Information. Das Eingeben mehrerer Felder ist hier möglich. Dies bedeutet, dass auch mehrere Eingaben einer Relation
 gemacht werden können. Nach der Eingabe einer Information, kann durch einfaches Klicken auf ![ErweitertesFeldPlusButton](../buttons/ErweitertesFeldPlusButton.PNG)
-eine weitere Eingabe in dieselbe relation erfolgen. So ist z.B. eine mehrfache Eingabe für "Breite" möglich. 
-Die erweiteretn Eingabefelder ermöglichen hierfür eine Angabe, an welchem Punkt die Maße abgenommen wurde.
+eine weitere Eingabe in derselben Relation erfolgen. So ist z.B. eine mehrfache Eingabe für "Breite" möglich. 
+Die erweiterten Eingabefelder ermöglichen hierfür die Angabe, an welchem Punkt die Maße abgenommen wurde.
 In manchen Feldern muss eine Auswahl aus einer bestehenden Tabelle getroffen werden.
 Hier werden durch die Eingabe von Anfangsbuchstaben Vorschläge gemacht (Abb. 8).
 Einige Felder gestatten nur die Eingabe von Informationen in einem speziellen Format.
