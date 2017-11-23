@@ -61,18 +61,23 @@ als visuelle Hilfe auf. Sie steht dann unter dem Bezeichner.
 
 ### 4.5 Eingabefelder
 
-Unter manchen Feldern findet ein Feld ohne Eingabemöglichkeit mit einem
+Unter manchen Feldern befindet ein Feld ohne Eingabemöglichkeit mit einem
 kleinen, grauen „Hinzufügen“ und einem ![ErweitertesFeldPlusButton](../buttons/ErweitertesFeldPlusButton.PNG). Dies öffnet ein weiteres
 Fenster zur Eingabe exakter Information. Das Eingeben mehrerer Felder ist hier möglich. Dies bedeutet, dass auch mehrere Eingaben einer Relation
 gemacht werden können. Nach der Eingabe einer Information, kann durch einfaches Klicken auf ![ErweitertesFeldPlusButton](../buttons/ErweitertesFeldPlusButton.PNG)
 eine weitere Eingabe in derselben Relation erfolgen. So ist z.B. eine mehrfache Eingabe für "Breite" möglich. 
 Die erweiterten Eingabefelder ermöglichen hierfür die Angabe, an welchem Punkt die Maße abgenommen wurde.
+
 In manchen Feldern muss eine Auswahl aus einer bestehenden Tabelle getroffen werden.
 Hier werden durch die Eingabe von Anfangsbuchstaben Vorschläge gemacht (Abb. 8).
 Einige Felder gestatten nur die Eingabe von Informationen in einem speziellen Format.
 Die Eingabe eines Wortes in einem Feld, welches nur Zahlen zulässt führt
 z.B. zu der Fehlermeldung ![Invalidbutton](../buttons/Invalidbutton.png), welche lediglich bedeutet, dass eine
 Information nicht im korrekten Format eingegeben wurde.
+
+Es ist möglich sich mit der Hilfe bestimmter Tasten auf der Tastatur schnell durch das Eingabefenster zu bewegen.\
+Mit der Tab-Taste wechselt man das Eingabefeld vorwärts. Mit der Kombination shift und Tab wechselt man das Eingabefeld rückwärts.
+Bei anwählbaren Checkboxen wird das entsprechende mit der Leertaste angewählt. Bei ausklapparen Auswahlfeldern öffnet die Entertaste die Auswahl, durch welche dann mittels der Pfeiltasten rauf und runter eine Auswahl getroffen werden kann. Diese wird durch ein erneutes betätigen von Enter bestätigt.
 
 ![handbuch_client_06](images/handbuch_client_06.PNG)
 *Abb. 8: Erweitertes Eingabefeld*
