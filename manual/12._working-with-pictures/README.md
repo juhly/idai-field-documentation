@@ -1,4 +1,5 @@
 ﻿## 4. Einladen von Bildern
+
 Im Testdatenpacket sind auch Bilder verfügbar.\
 Gehen Sie in der Datenbank auf den Reiter „Bilder“ und ziehen Sie die Bilder aus dem Testdatenordner (Abb. 9) auf das Plusfeld.\
 Wählen Sie für die Bilder die Kategorie Foto aus. Für das Verknüpfen wählen Sie die entsprechenden Abbildungen aus und klicken Sie auf "Verknüpfen". (Abb. 11 und 12).\

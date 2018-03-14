@@ -30,6 +30,9 @@
 **[Tutorial. Schrittweise Einführung mit Testdaten.](#Tutorial)**
    * [1. Bearbeitung der Messdaten in Survey2GIS](09._s2gis)
    * [2. Weitere Arbeiten in QGIS](10._working-in-qgis)
+   * [3. Anlegen von Ressourcen in iDAI-Field 2.0](11._working-in-idaifield)
+   * [4. Einladen von Bildern](12._working-with-pictures)
+   * [5. Das Hintergrundbild mit wld. Datei](13._wld)
      
 **[Arbeitsweisen](#Workflow)**
    * [1. Einfügen von Messplänen aus GIS](14._gis)
