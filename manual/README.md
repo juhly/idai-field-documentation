@@ -29,7 +29,7 @@
 
 **[Tutorial. Schrittweise Einführung mit Testdaten.](#Tutorial)**
    * [1. Bearbeitung der Messdaten in Survey2GIS](09._s2gis)
-   * [2. Weitere Arbeiten in QGIS](10._working in qgis)
+   * [2. Weitere Arbeiten in QGIS](10._working-in-qgis)
      
 **[Arbeitsweisen](#Workflow)**
    * [1. Einfügen von Messplänen aus GIS](14._gis)
