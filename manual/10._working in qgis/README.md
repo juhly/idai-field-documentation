@@ -1,4 +1,4 @@
-﻿## 2. Weitere Arbeiten in QGIS.
+﻿## 2. Weitere Arbeiten in QGIS
 
 Zur weiteren Bearbeitung werden die Messergebnisse in QGIS geöffnet.
 Hier werden die Ergebnisse zunächst begutachtet und mit einem wichtigen, neuen Datensatz versehen, der für die Automatische Zuordnung innerhalb der Datenbank unerlässlich ist. Zum Abschluss werden die Layer als GeoJSON abgespeichert.
