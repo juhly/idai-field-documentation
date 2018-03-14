@@ -21,7 +21,8 @@ Dieses Format wird für das Einladen in die Datenbank benötigt.
 
 Die hieraus entstandenen GeoJSON Dateien der Befunde und Funde lassen sich einfach in die Datenbank iDAI-Field 2.0 einfügen nachdem hier die Ressourcen angelegt wurden.
 Ist dies geschehen werden die Strukturen und Funde automatisch der jeweiligen Ressource zugeordnet.
-Für weitere Informationen schauen Sie bitte unter *(siehe: [Einfügen von Messplänen aus GIS](../../manual/14._gis)).*
+Für weitere Informationen schauen Sie bitte unter:\
+*(siehe: [Einfügen von Messplänen aus GIS](../../manual/14._gis)).*
 
 ![handbuch_working_in_qgis_01](images/handbuch_working_in_qgis_01.PNG)\
 *Abb 1: Hinzufügen der identifier Spalte*
