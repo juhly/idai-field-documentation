@@ -17,7 +17,7 @@ Dieses Format wird für das Einladen in die Datenbank benötigt.
 -Klicken Sie mit rechter Maustaste auf den ersten Befundlayer und wählen Sie „Speichern als...“\
 -Wählen Sie als Format GeoJSON, geben Sie den Speicherort und einen Dateinamen an. (Abb. 3).\
 -Klicken Sie auf OK.\
--Wiederholen Sie den Vorgang für alle Layer.\
+-Wiederholen Sie den Vorgang für alle Layer.
 
 Die hieraus entstandenen GeoJSON Dateien der Befunde und Funde lassen sich einfach in die Datenbank iDAI-Field 2.0 einfügen nachdem hier die Ressourcen angelegt wurden.
 Ist dies geschehen werden die Strukturen und Funde automatisch der jeweiligen Ressource zugeordnet.
