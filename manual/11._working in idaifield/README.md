@@ -2,7 +2,7 @@
 
 Die Vorbereitungen der Messdaten sind abgeschlossen. Als nächstes müssen die Ressourcen in der Datenbank angelegt werden.
 Für Informationen zum starten der Datenbank und die ersten Schritte schauen Sie bitte unter: *(siehe: [Quickstart](../../manual/01._quickstart)).*
-Als erstes wird in der Hauptansicht ein Schnitt angelegt. (Abb. 4) In diesem werden über das ![Plusbutton](../buttons/Plusbutton.png) Ressourcen hinzugefügt. (Abb. 5 und 6).
+Als erstes wird in der Hauptansicht ein Schnitt angelegt. (Abb. 4) In diesem werden über das ![Plusbutton](../buttons/Plusbutton.png) Ressourcen hinzugefügt.\ (Abb. 5 und 6).
 
 ![handbuch_working_in_idaifield_01](images/handbuch_working_in_idaifield_01.PNG)\
 *Abb 4: Anlegen eines Schnittes*
