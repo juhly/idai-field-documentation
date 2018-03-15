@@ -1,4 +1,4 @@
-﻿## 10. Integration von Messdaten aus AutoCAD
+﻿## 2. Integration von Messdaten aus AutoCAD
 
 Bei der Integration von Daten aus CAD müssen diese zuvor in GIS geladen
 und von dort in das Format geoJSON überführt werden, damit die Datenbank

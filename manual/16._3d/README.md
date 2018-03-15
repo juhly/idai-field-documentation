@@ -1,4 +1,4 @@
-﻿## 11. Integration von 3D-Fotogrammetrien
+﻿## 3. Integration von 3D-Fotogrammetrien
 
 ![handbuch_aus3D_01](images/handbuch_aus3D_01.png)\
 *Abb. 34: Exporteinstellungen*

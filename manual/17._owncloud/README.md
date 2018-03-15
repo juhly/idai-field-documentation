@@ -1,4 +1,4 @@
-﻿## 12. Verwendung von owncloud zur Bildverknüpfung im Client
+﻿## 4. Verwendung von owncloud zur Bildverknüpfung im Client
 
 Zur einfacheren Bildverknüpfung mit dem Server kann ein Ordnerpfad über
 owncloud angelegt werden. Dies hat den Vorteil, dass alle beteiligten
