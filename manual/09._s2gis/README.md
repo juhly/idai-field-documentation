@@ -15,4 +15,4 @@ Diese enthalten jeweils einen für die Bearbeitung vorbereiteten Parser und die 
 In Ihrem Ausgabeordner befindet sich nun unter anderem eine shp. Datei der Befunde.
 Wiederholen Sie diesen Vorgang mit der Funddatei.
 Hierfür ersetzen Sie den Parser durch den vorbereiteten im Ordner „Funde“ und den Namen der Ausgabedatei.
-Für weitere Informationen sehen Sie bitte unter: *(siehe: [Verwendung von Survey 2 GIS](../../manual/14.gis))* oder im offiziellen Handbuch.
+Für weitere Informationen sehen Sie bitte unter: *(siehe: [Verwendung von Survey 2 GIS](../../manual/14._gis))* oder im offiziellen Handbuch.
