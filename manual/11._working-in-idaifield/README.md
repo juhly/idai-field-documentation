@@ -19,40 +19,40 @@ Im ersten Feld „Bezeichner“ benennen Sie die Ressource mit der Befund- oder 
 Für weitere Informationen zum Anlegen von Ressourcen schauen Sie bitte unter: *(siehe: [Das Arbeiten mit Ressourcen](../../manual/04._client)).*
 Legen Sie für die Testdaten folgende Ressourcen an.
 
-- Fußboden Befundnummer 10\
-- Fußboden Befundnummer 18\
-- Fußboden Befundnummer 22\
-- Erdbefund Befundnummer 23\
-- Architektur Befundnummer 26\
-- Erdbefund Befundnummer 33\
-- Fußboden Befundnummer 38\
-- Architektur Befundnummer 48\
-- Architektur Befundnummer 50\
-- Architektur Befundnummer 53\
-- Erdbefund Befundnummer 59\
-- Architektur Befundnummer 64\
-- Erdbefund Befundnummer 71\
-- Erdbefund Befundnummer 72\
-- Architektur Befundnummer 73\
+- Fußboden Befundnummer 10
+- Fußboden Befundnummer 18
+- Fußboden Befundnummer 22
+- Erdbefund Befundnummer 23
+- Architektur Befundnummer 26
+- Erdbefund Befundnummer 33
+- Fußboden Befundnummer 38
+- Architektur Befundnummer 48
+- Architektur Befundnummer 50
+- Architektur Befundnummer 53
+- Erdbefund Befundnummer 59
+- Architektur Befundnummer 64
+- Erdbefund Befundnummer 71
+- Erdbefund Befundnummer 72
+- Architektur Befundnummer 73
 - Fußboden Befundnummer 81
 
-- Keramik Fundnummer 004\
-- Keramik Fundnummer 005\
-- Münze Fundnummer 006\
-- Glas Fundnummer 007\
-- Metall Fundnummer 009\
-- Metall Fundnummer 018\
-- Keramik Fundnummer 021\
-- Stein Fundnummer 022\
-- Stein Fundnummer 023\
-- Stein Fundnummer 024\
-- Münze Fundnummer 025\
-- Metall Fundnummer 026\
-- Keramik Fundnummer 031\
-- Münze Fundnummer 032\
-- Stein Fundnummer 033\
-- Stein Fundnummer 034\
-- Keramik Fundnummer 039\
+- Keramik Fundnummer 004
+- Keramik Fundnummer 005
+- Münze Fundnummer 006
+- Glas Fundnummer 007
+- Metall Fundnummer 009
+- Metall Fundnummer 018
+- Keramik Fundnummer 021
+- Stein Fundnummer 022
+- Stein Fundnummer 023
+- Stein Fundnummer 024
+- Münze Fundnummer 025
+- Metall Fundnummer 026
+- Keramik Fundnummer 031
+- Münze Fundnummer 032
+- Stein Fundnummer 033
+- Stein Fundnummer 034
+- Keramik Fundnummer 039
 - Keramik Fundnummer 040
 
 ![handbuch_working_in_idaifield_04](images/handbuch_working_in_idaifield_04.PNG)\
