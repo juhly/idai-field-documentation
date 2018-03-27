@@ -13,7 +13,7 @@ Dieses Format wird für das Einladen in die Datenbank benötigt.
 - Benennen Sie diese Spalte mit der Bezeichnung „identifier“, wählen Sie als Typ „Text (string)“ und setzen Sie die Länge auf 20.
 - Geben Sie die entsprechende Befundnummer oder die Fundnummer als Ganzzahl in die Zeile ein. Bspl. Bei Befund 10, 10.
 - Beenden Sie den Bearbeitungsmodus und klicken Sie auf Speichern.
-- Bereiten Sie einen Speicherort für die GeoJSON Dateien vor.\
+- Bereiten Sie einen Speicherort für die GeoJSON Dateien vor.
 - Klicken Sie mit rechter Maustaste auf den ersten Befundlayer und wählen Sie „Speichern als...“
 - Wählen Sie als Format GeoJSON, geben Sie den Speicherort und einen Dateinamen an. (Abb. 3).
 - Klicken Sie auf OK.
