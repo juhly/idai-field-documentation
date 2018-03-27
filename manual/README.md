@@ -27,8 +27,8 @@
      + [8.1 Karten- und Listenansicht](08._basics#81-karten--und-listenansicht)
      + [8.2 Suchen](08._basics#82-suchen)
 
-**[Tutorial. Schrittweise Einführung mit Testdaten.](#Tutorial)**
-      *Testdaten unter:http://field.dainst.org/testdata/testdaten.zip*
+**[Tutorial. Schrittweise Einführung mit Testdaten.](#Tutorial)**\
+      *Testdaten unter: http://field.dainst.org/testdata/testdaten.zip*
    * [1. Bearbeitung der Messdaten in Survey2GIS](09._s2gis)
    * [2. Weitere Arbeiten in QGIS](10._working-in-qgis)
    * [3. Anlegen von Ressourcen in iDAI-Field 2.0](11._working-in-idaifield)
