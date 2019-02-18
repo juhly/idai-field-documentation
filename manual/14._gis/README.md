@@ -1,6 +1,6 @@
-﻿## 1. Einfügen von Messplänen aus GIS
+﻿## 1. Einfügen von Messplänen aus (Q)GIS
 
-Wie im *(Abschnitt 4.1 Import)* bereits beschrieben ist es möglich GEOjson Dateien
+Wie im *(Abschnitt 4.1 Import)* bereits beschrieben ist es möglich GEOjson Dateien oder Shapefiles
 in die Datenbank einzuladen. Dies betrifft in der Regel Pläne und ist
 die vorgesehen Methode um Messpläne aus einem GIS in die Datenbank zu
 überführen. Hierfür muss ein „identifier“- Feld im Layer existieren und
@@ -17,10 +17,7 @@ wird.
 
 ### 1.1 Importieren von Multigeometrien
 
-Sollten Fälle auftreten, bei denen es notwendig ist mehrere Strukturen
-einer Ressource mit einem identifier zuzuordnen, dann müssen diese
-Geometrien als Multigeometrien ausgegeben werden. Diese können im
-Anschluss als geoJSON in den Client importiert werden. Wird hingegen
+Besteht eine Ressource aus mehreren Geometrien, muss dies als Multigeometrie in den iDAI.field Client importiert werden, nicht als zwei Geometrien mit dem selben Identifier.  Wird hingegen
 eine Datei eingeladen, welche aus mehreren Geometrien besteht, welche
 einfach denselben identifier besitzen, dann wird die vorherige Geometrie
 überschrieben und die letzte, importierte Geometrie wird im Client
@@ -34,8 +31,8 @@ zusammengelegt werden soll, ausgewählt werden. Zum zweiten wird das
 Schlüsselfeld ausgewählt. Hier ist es notwendig das vorher angelegte
 Feld des identifiers zu wählen, da dieses Feld übertragen wird und man
 die Ausgabedatei direkt in den Client laden kann. Im letzten Feld wird
-der Speicherort festgelegt und das Speichermedium geoJSON ausgewählt.
-Mit Run wird der Prozess in Gang gesetzt. Das gespeicherte geoJSON kann
+der Speicherort festgelegt und das Speichermedium geoJSON oder Esri Shapefile ausgewählt.
+Mit Run wird der Prozess in Gang gesetzt. Das gespeicherte geoJSON bzw. Shapefile kann
 nun als Multigeometrie in den Client importiert werden.
 
 ![handbuch_ausGIS_02](images/handbuch_ausGIS_02.png)
